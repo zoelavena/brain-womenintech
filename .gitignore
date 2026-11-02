@@ -1,0 +1,18 @@
+# Obsidian local state
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+.DS_Store
+
+# Local-only curator files
+private/
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Full-text clippings and reports: other people's copyrighted work.
+# The wiki keeps short quotes and citations; the originals stay local.
+raw-sources/inbox/*
+raw-sources/voices/*
+raw-sources/reports/*
+raw-sources/assets/*
+!raw-sources/*/.gitkeep

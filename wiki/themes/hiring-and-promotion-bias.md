@@ -1,0 +1,43 @@
+---
+type: theme
+status: steeped
+scope: in-scope
+why_id: "3.5"
+sources: ["[[wef-global-gender-gap-2026]]"]
+updated: 2026-11-02
+---
+
+# ⚖️ Hiring and promotion bias: same experience, picked less
+
+## ☕ The tea
+
+Even with the same experience, women are less likely to be picked. And it's getting worse at the top: after rising from 2016 to 2022, women's share of top-level hires is falling. Node 3.5 is on the root path, but the bias itself (4.7) was out of scope for the talk.
+
+## 🧾 Receipts
+
+- **3.5:** since 2022, women's share of top-level hires has fallen more than twice as fast as their share of overall hires (−7.2% vs −3.1%). *(WEF 2026, Section 2.1, Hiring trends)*
+- **Context:** women's share of top-level hires rose from 2016 to 2022, then reversed. *(same source)*
+
+## 📈 How the evidence is moving
+
+> Newest first. The learning bot adds a line whenever new evidence supports, challenges, or updates this theme. Old receipts are never deleted, just superseded.
+
+| Date | Evidence | Direction | Source |
+|---|---|---|---|
+| 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
+
+## 🗣️ Real talk
+
+_No guests here yet. Look for stories of being passed over for a peer with the same experience._
+
+## 💔 Why it matters
+
+The reversal after 2022 means progress isn't a ramp. It can be undone, and quietly.
+
+## 💭 Still brewing
+
+- What happened in 2022? Layoffs, cuts to DEI budgets, the return-to-office push? We need sources before we claim anything.
+
+## 🔗 Connected tea
+
+[[five-whys-tree]] · [[sponsorship-gap]]
