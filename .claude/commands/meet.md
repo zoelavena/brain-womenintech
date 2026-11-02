@@ -13,10 +13,10 @@ Meet the woman (or women) in this source, following CLAUDE.md: $ARGUMENTS
    - 🍵 Her stories: the anecdotes she told publicly.
    - 🔮 **How I think she thinks**: her reasoning, beliefs, and how she frames problems, with every line tagged 🟢 or 🟡. This is the part Zoe wants most.
    - One or two short exact quotes, each with a citation.
-3. **Place her story on the tree.** Which nodes does it illustrate, complicate, or contradict? Add a short attributed anecdote to `🗣️ Real talk` on each matching theme page, linked to her profile by name. Also link her wherever her work is relevant (concepts, tree nodes, the diary), and update `🔗 Seen around the brain` on her profile. A story that contradicts the tree is gold, so flag it in `💭 Still brewing` on [[five-whys-tree]].
+3. **Place her story in the themes.** Which themes (and, where one fits, which tree nodes) does it illustrate, complicate, or contradict? Add a short attributed anecdote to `🗣️ Real talk` on each matching theme page, linked to her profile by name. Also link her wherever her work is relevant (concepts, tree nodes, the diary), and update `🔗 Seen around the brain` on her profile. A story that contradicts what the brain thinks is gold, so flag it in `💭 Still brewing` on the theme.
 4. If she cites numbers, treat them as receipts with full citations. If she's speaking from experience, label it as anecdote, not stat.
 5. **Write a diary entry** at the top of `wiki/what-shes-learning.md`: what I learned from meeting her, what surprised me about how she thinks, and what I'm thinking now. A woman's story that breaks the brain's thesis deserves a `🔄 What changed my mind`.
 6. Update `wiki/index.md`, and append to `wiki/log.md` as `## [YYYY-MM-DD] meet | <name>`.
-7. Reply in tea voice: "Girl, meet <name>..." Give 2 or 3 lines on how she thinks, where she landed on the tree, and the touched files. If she's newly seated as `brewing`, add her to the curator's question list for approval.
+7. Reply in tea voice: "Girl, meet <name>..." Give 2 or 3 lines on how she thinks, which themes she touches, and the touched files. If she's newly seated as `brewing`, add her to the curator's question list for approval.
 
 Never invent, composite, or embellish her story. If the source is thin, the profile is thin.

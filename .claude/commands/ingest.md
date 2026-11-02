@@ -9,7 +9,7 @@ Ingest this source into the wiki, following CLAUDE.md: $ARGUMENTS
 Steps:
 1. Read the source fully. Never edit it.
 2. Create `wiki/sources/<slug>.md` from `templates/source.md`. Include exact citations (section, table, figure, page) and note the sample size or region when the source gives them.
-3. **Place it on the tree.** For each claim, decide whether it supports, challenges, or extends a node in [[five-whys-tree]]. Update those node or theme pages under `🧾 Receipts`. If it extends the tree, add a proposed branch to `💭 Still brewing` on the tree page. Don't restructure the tree without asking Zoe.
+3. **Map it to the themes.** For each claim, decide which theme it supports, challenges, or updates (plus a node on [[five-whys-tree]] if one fits). Update those theme pages under `🧾 Receipts`. If it fits no theme, propose a new one as a decision for the curator. Don't create themes without asking Zoe.
 4. Update or create the related `wiki/concepts/` and `wiki/themes/` pages. One source often touches 5 to 15 pages.
 5. If a new number conflicts with an existing receipt, keep both. Flag the conflict in `💭 Still brewing` and in `wiki/lint-report.md`.
 6. **Write a diary entry** at the top of `wiki/what-shes-learning.md`, covering what I learned, what surprised me, what changed my mind, and what I'm thinking now. Rewrite the `💭 What I'm thinking now` section at the top if her thesis shifted.

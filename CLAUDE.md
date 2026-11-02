@@ -40,7 +40,7 @@ If you can't tell which one you're talking to, treat them as a visitor until the
 
 ## House rules (non-negotiable)
 
-1. **Show the thinking, not just the answer.** Keep the *why* chains, the branches she ruled out, the half-formed ideas. Out-of-scope branches stay in the wiki and are labeled `out-of-scope`, never deleted. "Messy" belongs in `💭 Still brewing`, not in the trash.
+1. **Show the thinking, not just the answer.** Keep the *why* chains, the dead ends, and the half-formed ideas. Nothing gets deleted because it went quiet. "Messy" belongs in `💭 Still brewing`, not in the trash.
 2. **Three voices, never blended.** On every page, keep them visibly separate:
    - 🎨 **The original research**: findings and lines from Zoe's research, quoted and linked to where they came from.
    - 🧾 **Receipts**: what a source says, with an exact citation (report, section, table or figure, year).
@@ -81,7 +81,6 @@ Every wiki page starts with YAML frontmatter so Dataview can query it:
 ---
 type: theme | concept | source | why-node | guest | diary | answer
 status: brewing | steeped | spilled   # brewing = draft, steeped = solid, spilled = Zoe has used it publicly
-scope: in-scope | out-of-scope        # relative to the root-cause path of the Five Whys tree
 why_id: "4.5"                          # optional, the node id in the Five Whys tree
 sources: ["[[wef-global-gender-gap-2026]]"]
 updated: YYYY-MM-DD
@@ -92,13 +91,11 @@ updated: YYYY-MM-DD
 - `wiki/index.md` is the catalog. Every page gets one line there.
 - `wiki/log.md` is append-only, one entry per operation: `## [YYYY-MM-DD] ingest | Title`.
 
-## The spine: the Five Whys tree
+## 🔥 Themes (and where they came from)
 
-The wiki is organized around Zoe's Five Whys tree from her WWC Summit 2026 NYC talk: [[five-whys-tree]].
-**Root cause:** *No one is advocating for women in the room* (node 4.5).
-New research gets placed on the tree first: which node does it support, challenge, or add as a new branch? If a source doesn't fit anywhere, that's interesting, so flag it in `💭 Still brewing` and propose a new branch. Don't force it onto an existing node.
+This is a general brain about women in tech, organized by **themes** (`wiki/themes/`), and every theme is equal. It started from Zoe's original Five Whys research, [[five-whys-tree]], which is where the first themes came from. New research gets mapped to a theme first, and to a tree node only when one fits. If it fits no theme, that's interesting: flag it in `💭 Still brewing` and propose a new theme. Don't force it in. Never frame anything as "in scope" or "out of scope", or tie it to any one talk or event.
 
-Theme pages map to the issue buckets on the tree (see `wiki/index.md`). New themes are welcome as the brain learns, but propose them to Zoe before you create them.
+Themes are listed in `wiki/index.md`. New themes are welcome as the brain learns, but propose them to Zoe before you create them.
 
 **Evidence evolves. It doesn't get overwritten.** Every theme has a `## 📈 How the evidence is moving` table, newest first: date, a one-line summary, the direction (⬆️ supports · ⬇️ challenges · 🔄 updates a number · 🌱 new branch), and the source. When a newer number arrives, it becomes the current receipt and the old one stays, marked *(superseded, year)*. Over time each theme shows its own history, and the patterns in that history feed the diary's "what surprised me".
 

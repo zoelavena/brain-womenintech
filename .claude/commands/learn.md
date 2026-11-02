@@ -12,16 +12,16 @@ This is the routine the automated learning bot runs on a schedule. It also works
 
 ## 2. Search what's happening now
 Search the web for women-in-tech news, reports, and events published **since the last run** (on the first run, use the last 30 days). Build the queries from the brain itself:
-- one or two per theme in `wiki/themes/` (its title, its tree node, and its key terms, like "sponsorship women tech 2026"),
+- one or two per theme in `wiki/themes/` (its title and key terms, like "sponsorship women tech 2026"),
 - one per open question in `💭 What I'm thinking now` and `💭 Still brewing`,
 - plus broad sweeps: "women in tech" news, new gender-equity reports, women-in-tech conferences and events, layoffs and return-to-office effects on women, AI and women in tech.
 
 Prefer primary sources (reports, studies, the woman's own words) over aggregators. Skip paywalled pages you can't read, opinion with no evidence, and anything you can't date.
 
-## 3. Map each finding to the tree
+## 3. Map each finding to the themes
 For each finding worth keeping (usually 5 to 12 per run):
-- Pick the theme and node(s) it touches on the [[five-whys-tree]], and its direction: **⬆️ supports**, **⬇️ challenges**, **🔄 updates a number**, or **🌱 new branch**.
-- If it fits no theme, don't force it. Mark it 🌱, add a proposed branch to `💭 Still brewing` on the tree page, and add a question for the curator about whether it deserves a new theme.
+- Pick the theme(s) it touches (plus a node on [[five-whys-tree]] if one fits), and its direction: **⬆️ supports**, **⬇️ challenges**, **🔄 updates a number**, or **🌱 new theme**.
+- If it fits no theme, don't force it. Mark it 🌱, note it in the radar's "Didn't fit" section, and add a decision for the curator about whether it deserves a new theme.
 
 ## 4. Evolve the evidence
 - Add a row (newest first) to `## 📈 How the evidence is moving` on each matching theme: date, a one-line summary, the direction, and the linked source.
@@ -50,5 +50,5 @@ Then **rewrite** the `💭 What I'm thinking now` section at the top if my thesi
 
 ## 8. Housekeeping
 - Update `wiki/index.md` (new guests, case studies, radar), and append to `wiki/log.md`: `## [YYYY-MM-DD] learn | N findings, M new voices`.
-- Add 1 to 3 questions to the curator's question list. New guests waiting for approval count as one question.
+- Add 1 to 3 decisions to the curator's question list, strictly about the women-in-tech research (themes, receipts and sources, the women it meets). New guests waiting for approval count as one.
 - Finish with a short tea-voice summary: the headline, what surprised me, who arrived at the Tea Party, and the files I touched.

@@ -1,7 +1,6 @@
 ---
 type: theme
 status: brewing
-scope: in-scope
 why_id: ""
 sources: []
 updated: {{date:YYYY-MM-DD}}

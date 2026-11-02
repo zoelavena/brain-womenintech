@@ -6,8 +6,6 @@ A public, curated second brain about **women in tech**: the research, the women 
 
 This brain started with Zoe Lavena's research, published at [shestriplethreat.com](https://shestriplethreat.com). What you're reading is that research evolving: new sources, new women's stories, and a brain that writes down what she learns as she goes.
 
-It starts from one question: **why are there so few women leading in tech?** The answer it keeps landing on: *it isn't the skills. No one is advocating for them in the room.*
-
 Curated by **Zoe Lavena**.
 
 ## 👀 Explore
@@ -15,7 +13,7 @@ Curated by **Zoe Lavena**.
 | Start here | What it is |
 |---|---|
 | [What she's learning](wiki/what-shes-learning.md) | The brain's diary: what she learned, what surprised her, and what she's thinking now |
-| [The Five Whys tree](wiki/five-whys-tree.md) | The spine: the problem, three paths, and one root cause |
+| [Where it started](wiki/five-whys-tree.md) | The Five Whys research the first themes grew from |
 | [☕ The Tea Party](wiki/the-tea-party/the-tea-party.md) | A curated library of women in tech today, and how they think |
 | [🛰️ The radar](wiki/radar/radar.md) | What's happening now, mapped to the tree |
 | [Index](wiki/index.md) | Every theme, concept, woman, and source |
@@ -39,7 +37,7 @@ Curated by **Zoe Lavena**.
 | 📈 **How the evidence is moving** | A dated history of new evidence for each theme |
 | 💭 **Still brewing** | Open questions and messy thinking, kept on purpose |
 
-Out-of-scope branches stay in the brain on purpose. Showing the thinking is the point.
+Dead ends and open questions stay in the brain on purpose. Showing the thinking is the point.
 
 ## 🤝 Contribute
 
