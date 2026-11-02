@@ -18,4 +18,4 @@ WHERE type = "radar"
 SORT file.name DESC
 ```
 
-_No runs yet. The first `/learn` goes here._
+- [[2026-11-02]] — first learn run: 5 findings, 0 new voices. AI hiring, pay fairness, the mid-career squeeze, and GHC's cancellation.

@@ -47,3 +47,14 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 ## [2026-11-02] setup | A general women-in-tech brain
 - Themes are now one flat, equal list. Removed the "in scope" and "out of scope" labels and the root-path framing.
 - The Five Whys tree is now "Where it started", with every branch drawn equal. Renamed the original notes to [[zoe-research-notes]].
+
+## [2026-11-02] learn | First learning run: 5 findings, 0 new voices
+- Filed [[2026-11-02]] in the radar (30-day window, Oct 3 – Nov 2, 2026): Web Summit Gender in Tech 2026 (AI impact + pay fairness; mid-career squeeze), LinkedIn AI hiring research, Web Summit State of the Industry survey, GHC 2026 cancellation (filed as didn't-fit).
+- Evolved the evidence on [[ai-and-the-future-of-women-in-tech]], [[caregiving-and-social-norms]], [[hiring-and-promotion-bias]], and [[workplace-policy]]; added Jayeeta Putatunda's story to Real talk on the AI theme.
+- Wrote the diary entry in [[what-shes-learning]] and rewrote "What I'm thinking now".
+- Voices heard but not seated: Sarah Steinberg, Jayeeta Putatunda, Brenda Darden Wilkerson — single-quote sources in this run; Wilkerson flagged for a future /meet. No Tea Party seats added.
+
+## [2026-11-02] meet | Brenda Darden Wilkerson
+- Seated [[brenda-darden-wilkerson]] at [[the-tea-party]] (advocate, status: brewing) from interviews (Fotis Georgiadis / Candice Georgiadis), the AnitaB.org GHC cancellation statement (via AfroTech), and TechTimes' LinkedIn AI hiring coverage. Clipping saved to `raw-sources/voices/` (git-ignored).
+- Placed her story on [[pipeline-and-education]], [[exposure-gap]], and [[sponsorship-gap]] (Real talk), linked her on the [[five-whys-tree]] (2.1, 5.2), and wrote the diary entry in [[what-shes-learning]].
+- Her two-mentor advice refines node 5.2 (mentors interpret/navigate; sponsors advocate). Promotion from brewing to steeped is a curator decision.

@@ -43,6 +43,7 @@ On her board, Zoe tied this to role models: the higher you climb, the more of an
 - **[[herminia-ibarra|Herminia Ibarra]]** and co-authors found that women in a group of more than 4,000 high-potential MBA grads had *more* mentors than the men, but less powerful ones. The men got 15% more promotions. *(HBR 2010)*
 - **[[lara-hogan|Lara Hogan]]** says women in tech are over-mentored and under-sponsored, and gives a weekly sponsorship routine anyone can run. *(2017)*
 - **[[anita-borg|Anita Borg]]** built the rooms (Systers, the Grace Hopper Celebration) where women in computing could find each other and get seen.
+- **[[brenda-darden-wilkerson|Brenda Darden Wilkerson]]** says a leader's job is supporting and promoting women-led teams "in a meaningful way" — and she learned sponsorship from the receiving end: her dean Cynthia Clontz saw talent in her, asked "Can you help me?", and backed her move from tech into education. *(interviews with Fotis Georgiadis / Candice Georgiadis)*
 
 ## 💔 Why it matters
 

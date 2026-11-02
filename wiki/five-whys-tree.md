@@ -91,10 +91,10 @@ Each theme page holds its own receipts. Every number on the tree comes from [[we
 
 | Node | Women |
 |---|---|
-| 2.1 | [[reshma-saujani\|Reshma Saujani]] |
+| 2.1 | [[reshma-saujani\|Reshma Saujani]] · [[brenda-darden-wilkerson\|Brenda Darden Wilkerson]] |
 | 4.4 → 5.1 | [[tanya-reilly\|Tanya Reilly]] |
 | 4.5 | [[lara-hogan\|Lara Hogan]] · case studies: [[herminia-ibarra\|Herminia Ibarra]], [[anita-borg\|Anita Borg]] |
-| 5.2 | [[lara-hogan\|Lara Hogan]] · case study: [[herminia-ibarra\|Herminia Ibarra]] |
+| 5.2 | [[lara-hogan\|Lara Hogan]] · case study: [[herminia-ibarra\|Herminia Ibarra]] · [[brenda-darden-wilkerson\|Brenda Darden Wilkerson]] |
 | 5.3 | [[lara-hogan\|Lara Hogan]] |
 
 The full library is at [[the-tea-party]]. Women used as examples (pioneers and others) are in [[case-studies]].

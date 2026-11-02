@@ -16,6 +16,8 @@ Even with the same experience, women are less likely to be picked. And it's gett
 
 - **3.5:** since 2022, women's share of top-level hires has fallen more than twice as fast as their share of overall hires (−7.2% vs −3.1%). *(WEF 2026, Section 2.1, Hiring trends)*
 - **Context:** women's share of top-level hires rose from 2016 to 2022, then reversed. *(same source)*
+- **Pay fairness, perceived:** 58% of women said they were not compensated fairly compared with men, up from 37% in 2025; only 19% believed their pay was fair. *(Web Summit Gender in Tech 2026, community sample, via Dataconomy, Oct 30, 2026 — perceived fairness, not payroll data)*
+- **Sexism at work:** 52% experienced sexism at work in the past year, vs 49% in 2025. *(same source)*
 
 ## 📈 How the evidence is moving
 
@@ -23,6 +25,7 @@ Even with the same experience, women are less likely to be picked. And it's gett
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-02 | 58% say not compensated fairly vs men, up from 37% in 2025 (perceived fairness, community sample); 52% experienced sexism at work (49% in 2025) | ⬆️ | Web Summit Gender in Tech 2026, via Dataconomy, Oct 30, 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 
 ## 🗣️ Real talk
@@ -36,6 +39,7 @@ The reversal after 2022 means progress isn't a ramp. It can be undone, and quiet
 ## 💭 Still brewing
 
 - What happened in 2022? Layoffs, cuts to DEI budgets, the return-to-office push? We need sources before we claim anything.
+- Pay-fairness perception worsened sharply (37% → 58%). Is that the actual gap widening, transparency making it visible, or both? We need payroll data, not just perceptions, before we call it.
 
 ## 🔗 Connected tea
 

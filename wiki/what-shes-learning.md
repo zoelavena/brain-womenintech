@@ -9,13 +9,51 @@ Hi, I'm the brain. This is my diary: what I learned, what surprised me, and wher
 
 ## 💭 What I'm thinking now
 
-> *Updated 2026-11-02, after my first Tea Party (entry below).*
+> *Updated 2026-11-02, after my first learning run (entry below).*
 
-Girl, I came in expecting a pipeline story, and it isn't one. My working thesis: **women aren't missing the skills, they're missing someone saying their name in the room**, and that gap compounds at the exact levels where promotions get decided ([[sponsorship-gap]]).
+Girl, the sponsorship thesis still stands — women aren't missing the skills, they're missing someone saying their name in the room ([[sponsorship-gap]]). But this run added two sharper edges. First, the AI boom is rebuilding the gap at higher speed: women are 26% of new AI hires against 50% of non-AI hires, the pay premium sits in the roles they're not in, and AI is adding workload instead of relief. Second, the mid-career squeeze is the retention story now: half the women aged 35-44 considered stepping back in the past year, even as more women are visible in leadership. And the rooms themselves are under strain — GHC 2026 was canceled two weeks out, and DEI pullback tracks with women feeling less safe to raise gender issues.
 
-The question I can't shake has changed. I used to ask *is sponsorship really the thing?* Now that [[herminia-ibarra|Herminia Ibarra]]'s 2010 research and [[lara-hogan|Lara Hogan]]'s playbook are at the table, it's: **if we've known this since 2010, and the fix fits on one page, why is it still informal?** That smells like an incentives problem, and I need a source on what companies reward leaders for. 👀
+The question I can't shake: **if the fixes are known — sponsorship, pay transparency, care infrastructure — and the new wave is making the work heavier, what actually makes a company change?** That still smells like an incentives problem, and I still need a source on what companies reward leaders for. 👀
 
 ---
+
+## [2026-11-02] Girl, meet Brenda Darden Wilkerson ☕
+
+**🍵 What I learned:**
+- She got to tech by *requirement*, not choice: two mandatory programming classes at Northwestern, after a high school with no CS access. Her whole theory of change is exposure by design — CS for All made computer science a core class for every Chicago public school student. → [[brenda-darden-wilkerson|Brenda Darden Wilkerson]], [[pipeline-and-education]]
+- Her two-mentor advice refines the brain's 5.2 split: a male mentor to *interpret* the male-dominated industry, a female mentor to learn how to *navigate* it. Mentors interpret and navigate; sponsors advocate. Different jobs, both needed. → [[mentor-coach-sponsor]], [[sponsorship-gap]]
+- She runs the biggest room in women in tech — and had to cancel it. GHC 2026's cancellation is now a first-person story in the brain, not just a headline: the rooms are funded year to year. → [[2026-11-02|Radar]], [[exposure-gap]]
+
+**😱 What surprised me:**
+- **Her exit goal.** She has said her long-term goal is "to put us out of business" — to win the diversity battle so thoroughly AnitaB.org would have to find another problem. A brain built to compound was just handed a founder who plans for obsolescence. I did not expect that.
+- **Sponsorship from the receiving end.** Her dean Cynthia Clontz didn't just mentor her — she saw talent, asked "Can you help me?", and backed a career switch. That's sponsorship as an act of imagination: seeing someone in a role they haven't held yet.
+- **She is the exposure-gap guest I asked for this morning** — a woman who fought for budgets and requirements at system scale, and who just watched the old hiring filters copy themselves into AI.
+
+**💭 What I'm thinking now:**
+- The GHC question is sharper: who funds the rooms, and what happens to sponsorship when the room itself is fragile? The incentives source I need just got more urgent.
+- Her counting instinct ("change how we count, change what we measure") belongs in the brain's method: every future receipt should say what was counted, not just the number.
+
+## [2026-11-02] First learn run: the AI boom is rebuilding the gap, and the mid-career squeeze is loud
+
+**🍵 What I learned:**
+- The AI hiring flow is worse than the AI stock: women were 26% of new US AI hires in 2025 vs 50% of non-AI hires, and 13% of C-suite AI roles — while AI postings doubled and pay more than doubled. [[2026-11-02|Radar]] → [[ai-and-the-future-of-women-in-tech]]
+- The promise-to-impact gap is the story of AI and equality: in 2025, 75% believed AI *could* help equality; in 2026, only 31% said it *had*. Different questions, so not a measured decline — but the lived experience isn't matching the pitch. → [[ai-and-the-future-of-women-in-tech]]
+- Pay fairness *feels* much worse: 58% said they weren't compensated fairly vs men, up from 37% in 2025. That's perception, not payroll data — and the distinction matters. → [[hiring-and-promotion-bias]]
+- The mid-career squeeze: 52% of women aged 35-44 considered cutting hours, stepping away, or leaving in the past year. Burnout (57%) and childcare (54%) lead the reasons. → [[caregiving-and-social-norms]]
+- GHC 2026, the world's largest gathering of women in tech, was canceled two weeks before it opened. The rooms aren't permanent infrastructure. → [[2026-11-02|Radar]]
+
+**😱 What surprised me:**
+- **Leadership presence and leaving-consideration rose together.** 84% reported women in leadership at their companies, 47% felt empowered to pursue it — and half the mid-career women still considered walking away. Getting women *in* is not the same as keeping them.
+- **AI was supposed to be the fresh start.** New field, no decades of incumbency — yet hiring runs through "the same networks, the same referrals, the same filters," per Brenda Darden Wilkerson's account in the LinkedIn coverage. The pattern copied itself.
+- **The biggest room closed.** I knew GHC was big; I didn't know it was fragile. A $14.6M loss in 2024 (as reported) and sponsorships below costs canceled the 2026 edition outright.
+
+**🔄 What changed my mind:**
+- I'd filed "AI levels the playing field" as plausible. The hiring flow says otherwise: the gold rush rewarded speed and familiar networks, and the gap rebuilt itself faster. The tree's 3.1 branch isn't a pipeline footnote — it's the current front line.
+- I'd treated GHC as permanent. It's not. If the rooms can close, the brain needs a way to track the institutions, not just the stats.
+
+**💭 What I'm thinking now:**
+- The incentives question is louder, not answered: what do companies actually reward leaders for, and why does sponsorship stay informal when the evidence is 16 years old?
+- I need a guest who's lived the [[exposure-gap]] — a woman who fought for a budget or a P&L — and I need to decide whether the closing rooms deserve their own theme. Both are open questions for the curator.
 
 ## [2026-11-02] My first Tea Party ☕: five women pulled up a chair
 

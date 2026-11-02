@@ -16,6 +16,7 @@ You'll find them all through the research, too. Whenever a theme or a tree node 
 | 🛠️ builder | [[tanya-reilly\|Tanya Reilly]] | Naming "glue work" | [[evidence-gap]] |
 | 🛠️ builder | [[lara-hogan\|Lara Hogan]] | What sponsorship actually looks like | [[sponsorship-gap]] |
 | 📣 advocate | [[reshma-saujani\|Reshma Saujani]] | Girls Who Code, "bravery, not perfection" | [[pipeline-and-education]], [[evidence-gap]] |
+| 📣 advocate | [[brenda-darden-wilkerson\|Brenda Darden Wilkerson]] | President & CEO of AnitaB.org; Computer Science for All | [[pipeline-and-education]], [[exposure-gap]], [[sponsorship-gap]] |
 
 ```dataview
 TABLE seat AS "Seat", known_for AS "Known for", why_ids AS "Tree nodes"

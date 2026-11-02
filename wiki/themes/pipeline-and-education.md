@@ -24,6 +24,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-02 | 97% of Chicago public school students graduated with at least one computer science class, by Wilkerson's account of Computer Science for All's reach (interview; date not shown on the page as read) | ⬆️ | Interviews with Fotis Georgiadis / Candice Georgiadis |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 
 ## 🎨 From the original research
@@ -33,6 +34,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 ## 🗣️ Real talk
 
 - **[[reshma-saujani|Reshma Saujani]]** founded Girls Who Code. Her frame: girls are raised to be perfect, and boys are raised to be brave. *(TED2016)*
+- **[[brenda-darden-wilkerson|Brenda Darden Wilkerson]]** found computer science by accident, through two required programming classes at Northwestern — after a high school with no CS access despite her STEM involvement. She founded Computer Science for All so every Chicago public school student would get the exposure she didn't; by her account, 97% of CPS students graduated with at least one CS class. *(interviews with Fotis Georgiadis / Candice Georgiadis)*
 
 ## 💔 Why it matters
 
