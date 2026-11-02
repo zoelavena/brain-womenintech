@@ -1,9 +1,8 @@
 ---
 type: concept
 status: brewing
-scope: in-scope
 why_id: "5.2"
-sources: ["[[toast-gender-equity-2026]]", "[[zoe-wwc-board-2026]]"]
+sources: ["[[toast-gender-equity-2026]]", "[[zoe-research-notes]]"]
 updated: 2026-11-02
 ---
 

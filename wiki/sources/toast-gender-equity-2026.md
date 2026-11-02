@@ -12,7 +12,7 @@ updated: 2026-11-02
 
 ## ☕ The tea
 
-This is the sponsorship source. It's a survey of **Canadian tech**, and it's where the root cause gets its receipts: active sponsors, advocacy, confidence, "must leave", and who owns budgets.
+This is the sponsorship source. It's a survey of **Canadian tech**, and it's where the sponsorship gap gets its receipts: active sponsors, advocacy, confidence, "must leave", and who owns budgets.
 
 > Caveat (from Zoe's site): level-based comparisons rest on smaller samples.
 
@@ -32,4 +32,4 @@ This is the sponsorship source. It's a survey of **Canadian tech**, and it's whe
 
 ## ⚠️ Status
 
-These were transcribed from [[zoe-wwc-board-2026]]. **Next step:** add the report to `raw-sources/reports/` and run `/ingest`.
+These were transcribed from [[zoe-research-notes]]. **Next step:** add the report to `raw-sources/reports/` and run `/ingest`.

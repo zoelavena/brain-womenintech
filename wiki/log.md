@@ -22,7 +22,7 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 
 ## [2026-11-02] setup | Public, curated brain
 - The repo is public. Raw clippings and reports are git-ignored, and curator working files stay local.
-- Retired `wiki/me/`. The talk is now a source page: [[wwc-nyc-2026-talk]].
+- Retired `wiki/me/`.
 - Added curator vs visitor modes, `/tour`, the brain's voice (🧠), and her diary [[what-shes-learning]].
 - Origin framing: the brain started from Zoe's research on shestriplethreat.com, and this is its evolution.
 
@@ -37,3 +37,13 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 
 ## [2026-11-02] setup | Parked "Zoe's take"
 - Removed the `🫖 Zoe's take` sections, `/brain-dump`, and the journal (to revisit later). Lines quoted from the original research now sit under `🎨 From the original research`.
+
+## [2026-11-02] setup | Curator decisions
+- New emerging theme: [[ai-and-the-future-of-women-in-tech]], grown out of node 3.1 and added to the tree.
+- [[herminia-ibarra]] moved from the Tea Party to [[case-studies]] because her research covers every industry.
+- Dropped the node 4.2 site check. Curator decisions are now strictly about the women-in-tech research.
+- The WEF 2026 and Toast 2026 reports still need to be added to `raw-sources/reports/` by hand.
+
+## [2026-11-02] setup | A general women-in-tech brain
+- Themes are now one flat, equal list. Removed the "in scope" and "out of scope" labels and the root-path framing.
+- The Five Whys tree is now "Where it started", with every branch drawn equal. Renamed the original notes to [[zoe-research-notes]].

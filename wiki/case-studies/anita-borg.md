@@ -55,4 +55,4 @@ Okay, she's the OG. Long before anyone said "sponsorship," she built the *rooms*
 - Oral history (to ingest): https://ethw.org/Oral-History:Anita_Borg
 
 ## 🔗 Seen around the brain
-[[sponsorship-gap]] · [[exposure-gap]] · [[wwc-nyc-2026-talk]] · [[case-studies]]
+[[sponsorship-gap]] · [[exposure-gap]] · [[case-studies]]

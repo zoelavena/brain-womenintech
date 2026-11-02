@@ -18,7 +18,3 @@ Where this brain started. Zoe's published research: a self-assessment tool built
 
 - World Economic Forum, *Global Gender Gap Report 2026* → [[wef-global-gender-gap-2026]]
 - Toast, *Gender Equity Report 2026* → [[toast-gender-equity-2026]]
-
-## ⚠️ Receipt mismatch
-
-Node 4.2 on the site shows **Women 15.1%** for "took a break for professional development". See [[lint-report]].

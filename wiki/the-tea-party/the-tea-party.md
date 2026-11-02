@@ -15,7 +15,6 @@ You'll find them all through the research, too. Whenever a theme or a tree node 
 |---|---|---|---|
 | 🛠️ builder | [[tanya-reilly\|Tanya Reilly]] | Naming "glue work" | [[evidence-gap]] |
 | 🛠️ builder | [[lara-hogan\|Lara Hogan]] | What sponsorship actually looks like | [[sponsorship-gap]] |
-| 🔬 researcher | [[herminia-ibarra\|Herminia Ibarra]] | Women get mentored, men get sponsored | [[sponsorship-gap]], [[mentor-coach-sponsor]] |
 | 📣 advocate | [[reshma-saujani\|Reshma Saujani]] | Girls Who Code, "bravery, not perfection" | [[pipeline-and-education]], [[evidence-gap]] |
 
 ```dataview
@@ -27,7 +26,7 @@ SORT seat ASC, file.name ASC
 
 ## The seats
 - 🛠️ **Builders** are women working in tech.
-- 🔬 **Researchers** are women who study gender, careers, and sponsorship.
+- 🔬 **Researchers** are women in tech who study gender, careers, and sponsorship in tech.
 - 📣 **Advocates** founded or lead women-in-tech orgs and movements.
 
 Historical women and pioneers don't get a seat. They're well documented elsewhere. But their stories still teach us, so they live in [[case-studies]], alongside any other woman whose story the research uses as an example.

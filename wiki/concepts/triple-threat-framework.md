@@ -1,8 +1,7 @@
 ---
 type: concept
 status: spilled
-scope: in-scope
-sources: ["[[zoe-wwc-board-2026]]", "[[shestriplethreat-site]]"]
+sources: ["[[zoe-research-notes]]", "[[shestriplethreat-site]]"]
 updated: 2026-11-02
 ---
 

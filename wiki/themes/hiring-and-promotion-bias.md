@@ -1,7 +1,6 @@
 ---
 type: theme
 status: steeped
-scope: in-scope
 why_id: "3.5"
 sources: ["[[wef-global-gender-gap-2026]]"]
 updated: 2026-11-02
@@ -11,7 +10,7 @@ updated: 2026-11-02
 
 ## ☕ The tea
 
-Even with the same experience, women are less likely to be picked. And it's getting worse at the top: after rising from 2016 to 2022, women's share of top-level hires is falling. Node 3.5 is on the root path, but the bias itself (4.7) was out of scope for the talk.
+Even with the same experience, women are less likely to be picked. And it's getting worse at the top: after rising from 2016 to 2022, women's share of top-level hires is falling.
 
 ## 🧾 Receipts
 

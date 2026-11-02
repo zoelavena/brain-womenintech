@@ -1,7 +1,7 @@
 ---
-type: guest
+type: case-study
 status: steeped
-seat: researcher
+era_label: modern
 name: Herminia Ibarra
 known_for: the research showing women get mentored while men get sponsored
 era: 2000s–present
@@ -13,11 +13,11 @@ updated: 2026-11-02
 
 # Herminia Ibarra
 
-> 🪑 **Seat:** researcher · **Known for:** *Why Men Still Get More Promotions Than Women* (HBR, 2010, with Nancy Carter and Christine Silva) · **Shows up at:** [[sponsorship-gap]], [[mentor-coach-sponsor]] (4.5, 5.2)
+> 📖 **Case study:** researcher · **Known for:** *Why Men Still Get More Promotions Than Women* (HBR, 2010, with Nancy Carter and Christine Silva) · **Shows up at:** [[sponsorship-gap]], [[mentor-coach-sponsor]] (4.5, 5.2)
 
 ## ☕ Her tea
 
-Before "sponsorship" was a buzzword, she had the receipts. Women had *more* mentors than men, but men were the ones being sponsored, and the men got promoted more. Our node 5.2 is basically her paper. She studies all industries, not just tech, but she pulled up a chair because the pattern is identical.
+Before "sponsorship" was a buzzword, she had the receipts. Women had *more* mentors than men, but men were the ones being sponsored, and the men got promoted more. Our node 5.2 is basically her paper. She studies every industry, not just tech, so she's a case study rather than a Tea Party guest. But the pattern she found is identical in tech.
 
 ## 👩🏽‍💻 Who she is
 - Organizational behavior scholar, and co-author of the 2010 HBR article *Why Men Still Get More Promotions Than Women*. *(herminiaibarra.com, HBR)*
@@ -27,15 +27,15 @@ Before "sponsorship" was a buzzword, she had the receipts. Women had *more* ment
 - By the follow-up, the men had received **15% more promotions**. Both groups made a similar number of lateral moves, but for women those moves often *replaced* advancement. *(same source)*
 - In interviews, men and women alike said mentors gave valuable advice, but it was mostly men who described being *sponsored*. *(same source)*
 
-## 🔮 How I think she thinks
-> The brain's perceived profile, read from her public work. 🟢 = she said it (cited). 🟡 = my read, inferred from the cited work.
+## 🔮 What her work shows
+> 🟢 = she said or found it (cited). 🟡 = my read, inferred from the cited work.
 
 - **She believes** the gap isn't about women's ambition or advice. It's about whose career gets *spent on* by powerful people. 🟢 *(HBR 2010 findings)*
 - **She frames problems** with data first: control for starting level, then look at what's left. Here, what's left is sponsorship. 🟢 *(HBR 2010)*
 - **Her instinct when something's unfair** is to distinguish between things that look alike (mentor vs sponsor) so organizations can't hide behind the easier one. 🟡 *(inferred)*
 - **She'd probably push back** on "just find a mentor" programs that never give women real advocacy. 🟡 *(inferred from the study's conclusions)*
 
-## 🌳 Her take on our tree
+## 🌳 Where it lands on the tree
 > 🟡 My guess at how her work speaks to the [[five-whys-tree]]. I'm not putting words in her mouth.
 
 | Node | What her work says |
@@ -52,4 +52,4 @@ Before "sponsorship" was a buzzword, she had the receipts. Women had *more* ment
 - Reprint and summary: https://herminiaibarra.com/why-men-still-get-more-promotions-than-women/
 
 ## 🔗 Seen around the brain
-[[sponsorship-gap]] · [[mentor-coach-sponsor]] · [[the-tea-party]]
+[[sponsorship-gap]] · [[mentor-coach-sponsor]] · [[case-studies]]

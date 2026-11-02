@@ -1,8 +1,7 @@
 ---
 type: concept
 status: spilled
-scope: in-scope
-sources: ["[[shestriplethreat-site]]", "[[zoe-wwc-board-2026]]"]
+sources: ["[[shestriplethreat-site]]", "[[zoe-research-notes]]"]
 updated: 2026-11-02
 ---
 
@@ -20,7 +19,7 @@ Not every gap is a skill gap. Usually it isn't, and that's the whole point.
 
 ## 🎨 From the original research
 
-> "Skill gap that leadership thinks it's seeing is actually an exposure gap." ([[zoe-wwc-board-2026]])
+> "Skill gap that leadership thinks it's seeing is actually an exposure gap." ([[zoe-research-notes]])
 
 ## 🔗 Connected tea
 

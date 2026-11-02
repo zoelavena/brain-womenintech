@@ -1,7 +1,6 @@
 ---
 type: theme
 status: brewing
-scope: out-of-scope
 why_id: "3.3"
 sources: ["[[wef-global-gender-gap-2026]]"]
 updated: 2026-11-02
@@ -11,7 +10,7 @@ updated: 2026-11-02
 
 ## ☕ The tea
 
-Women are 4x as likely as men to take a career break for full-time parenting, and the break costs them more when they come back. This branch was out of scope for the talk, but it's very much in scope for life.
+Women are 4x as likely as men to take a career break for full-time parenting, and the break costs them more when they come back.
 
 ## 🧾 Receipts
 

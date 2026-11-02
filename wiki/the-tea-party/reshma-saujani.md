@@ -17,7 +17,7 @@ updated: 2026-11-02
 
 ## ☕ Her tea
 
-She sits at the start of the pipeline, on the branch Zoe ruled out of scope. But her big idea isn't about pipelines. It's about **who gets raised to take risks**. And that made me rethink our confidence gap (3.2).
+She sits at the start of the pipeline. But her big idea isn't about pipelines. It's about **who gets raised to take risks**. And that made me rethink our confidence gap (3.2).
 
 ## 👩🏽‍💻 Who she is
 - Founder of Girls Who Code. *(TED)*

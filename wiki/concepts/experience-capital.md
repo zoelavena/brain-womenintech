@@ -1,8 +1,7 @@
 ---
 type: concept
 status: brewing
-scope: in-scope
-sources: ["[[zoe-wwc-board-2026]]"]
+sources: ["[[zoe-research-notes]]"]
 updated: 2026-11-02
 ---
 

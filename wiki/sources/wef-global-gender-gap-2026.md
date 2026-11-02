@@ -29,4 +29,4 @@ The big global receipts. It covers representation by industry and level, hiring 
 
 ## ⚠️ Status
 
-These receipts were transcribed from [[zoe-wwc-board-2026]]. **Next step:** put the PDF in `raw-sources/reports/` and run `/ingest` to verify every number and capture what the talk left out.
+These receipts were transcribed from [[zoe-research-notes]]. **Next step:** put the PDF in `raw-sources/reports/` and run `/ingest` to verify every number and capture what the original research left out.

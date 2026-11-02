@@ -1,7 +1,6 @@
 ---
 type: theme
 status: brewing
-scope: out-of-scope
 why_id: "4.3"
 sources: ["[[toast-gender-equity-2026]]"]
 updated: 2026-11-02

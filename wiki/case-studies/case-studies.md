@@ -17,3 +17,4 @@ SORT file.name ASC
 | Case study | What her story shows | Tree |
 |---|---|---|
 | [[anita-borg\|Anita Borg]] (pioneer, 1949–2003) | Building the rooms (Systers, the Grace Hopper Celebration) where women in computing get seen | 4.5, 4.6 |
+| [[herminia-ibarra\|Herminia Ibarra]] (researcher, cross-industry) | Women had more mentors than men but less powerful ones, and the men got 15% more promotions (HBR 2010) | 4.5, 5.2 |

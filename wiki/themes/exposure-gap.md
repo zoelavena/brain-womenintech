@@ -1,7 +1,6 @@
 ---
 type: theme
 status: spilled
-scope: in-scope
 why_id: "3.4"
 sources: ["[[toast-gender-equity-2026]]", "[[wef-global-gender-gap-2026]]"]
 updated: 2026-11-02
@@ -11,7 +10,7 @@ updated: 2026-11-02
 
 ## ☕ The tea
 
-Plot twist: women give strategic input at the same rate as men. The gap opens the moment **budget and headcount** enter the picture, and budget and team ownership are exactly what director-level promotions look for. So women arrive at the jump with less of the experience that counts. Path: 2.3 → 3.4 → 4.6 → 5.4 → root.
+Plot twist: women give strategic input at the same rate as men. The gap opens the moment **budget and headcount** enter the picture, and budget and team ownership are exactly what director-level promotions look for. So women arrive at the jump with less of the experience that counts.
 
 ## 🧾 Receipts
 
@@ -31,8 +30,8 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 
 ## 🎨 From the original research
 
-> "Skill gap that leadership thinks it's seeing is actually an exposure gap." ([[zoe-wwc-board-2026]])
-> "Women accumulate less experience capital." ([[zoe-wwc-board-2026]])
+> "Skill gap that leadership thinks it's seeing is actually an exposure gap." ([[zoe-research-notes]])
+> "Women accumulate less experience capital." ([[zoe-research-notes]])
 
 ## 🗣️ Real talk
 

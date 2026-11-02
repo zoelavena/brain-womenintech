@@ -1,7 +1,6 @@
 ---
 type: theme
 status: brewing
-scope: out-of-scope
 why_id: "2.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
 updated: 2026-11-02
@@ -11,7 +10,7 @@ updated: 2026-11-02
 
 ## ☕ The tea
 
-Yes, fewer women enter tech, and that's real. Zoe ruled this branch **out of scope** for her talk because it doesn't explain the drop between entry level and the C-suite. It stays here, because the brain will grow.
+Yes, fewer women enter tech, and that's real. On its own, though, it doesn't explain the drop between entry level and the C-suite. That's why the brain looks at the whole career, not just the start.
 
 ## 🧾 Receipts
 
@@ -29,7 +28,7 @@ Yes, fewer women enter tech, and that's real. Zoe ruled this branch **out of sco
 
 ## 🎨 From the original research
 
-> "To be upfront: Neither source explains why fewer women study STEM in the first place." ([[zoe-wwc-board-2026]])
+> "To be upfront: Neither source explains why fewer women study STEM in the first place." ([[zoe-research-notes]])
 
 ## 🗣️ Real talk
 
@@ -41,7 +40,7 @@ Yes, fewer women enter tech, and that's real. Zoe ruled this branch **out of sco
 
 ## 💭 Still brewing
 
-- **AI and the future of women in tech** may deserve its own theme. _Ask Zoe._
+- AI now has its own theme → [[ai-and-the-future-of-women-in-tech]]
 - We need a source on *why* fewer women choose STEM.
 
 ## 🔗 Connected tea

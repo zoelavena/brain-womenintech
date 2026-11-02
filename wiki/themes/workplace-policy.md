@@ -1,7 +1,6 @@
 ---
 type: theme
 status: brewing
-scope: out-of-scope
 why_id: "4.2"
 sources: ["[[wef-global-gender-gap-2026]]"]
 updated: 2026-11-02
@@ -16,7 +15,6 @@ The most common reason men take a career break is professional development. For 
 ## 🧾 Receipts
 
 - **4.2:** men's most common reason for a career break is professional development (19.8%). Women's is full-time parenting (26.5%). *(WEF 2026, Section 2.1, Career pathways)*
-- ⚠️ The published site shows **15.1%** for women taking a professional development break. That number doesn't appear in this context on the board and matches the unpaid care stat in 4.1. It looks like a copy-paste slip. See [[lint-report]].
 
 ## 📈 How the evidence is moving
 

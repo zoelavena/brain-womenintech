@@ -1,7 +1,6 @@
 ---
 type: theme
 status: spilled
-scope: in-scope
 why_id: "4.5"
 sources: ["[[toast-gender-equity-2026]]"]
 updated: 2026-11-02
@@ -11,7 +10,7 @@ updated: 2026-11-02
 
 ## ☕ The tea
 
-Okay so, this is THE root cause on Zoe's tree. When promotion decisions get made, women are much less likely than men to have someone senior saying their name. And the gap is widest at the two levels where those decisions actually happen.
+Okay so, this is where Zoe's original Five Whys research kept landing. When promotion decisions get made, women are much less likely than men to have someone senior saying their name. And the gap is widest at the two levels where those decisions actually happen.
 
 ## 🧾 Receipts
 
@@ -36,7 +35,7 @@ Okay so, this is THE root cause on Zoe's tree. When promotion decisions get made
 
 ## 🎨 From the original research
 
-> "A small change we can do is to become sponsors for our kind." ([[zoe-wwc-board-2026]])
+> "A small change we can do is to become sponsors for our kind." ([[zoe-research-notes]])
 On her board, Zoe tied this to role models: the higher you climb, the more of an example you become for women early in their careers.
 
 ## 🗣️ Real talk

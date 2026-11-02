@@ -1,7 +1,6 @@
 ---
 type: theme
 status: spilled
-scope: in-scope
 why_id: "5.1"
 sources: ["[[toast-gender-equity-2026]]"]
 updated: 2026-11-02
@@ -11,7 +10,7 @@ updated: 2026-11-02
 
 ## ☕ The tea
 
-Girl, she IS leading. She's planning, unblocking, and coaching. But it's described in hands-on IC language that doesn't echo upward, so nobody counts it as leadership experience. Path: 3.2 → 4.4 → 5.1 → root.
+Girl, she IS leading. She's planning, unblocking, and coaching. But it's described in hands-on IC language that doesn't echo upward, so nobody counts it as leadership experience.
 
 ## 🧾 Receipts
 
@@ -31,7 +30,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 ## 🎨 From the original research
 
 From the Triple Threat work on her board:
-> IC work "plays within the SDLC. The work is described in concrete, hands-on terms that don't naturally echo upward." ([[zoe-wwc-board-2026]])
+> IC work "plays within the SDLC. The work is described in concrete, hands-on terms that don't naturally echo upward." ([[zoe-research-notes]])
 The fix she built is [[triple-threat-framework]]: name the overlapping skills so the work becomes visible.
 
 ## 🗣️ Real talk
