@@ -26,7 +26,7 @@ For each finding worth keeping (usually 5 to 12 per run):
 ## 4. Evolve the evidence
 - Add a row (newest first) to `## 📈 How the evidence is moving` on each matching theme: date, a one-line summary, the direction, and the linked source.
 - For **🔄 a newer number** (say a 2027 edition of a report), add it to `🧾 Receipts` as the current figure, and keep the old one marked *(superseded, year)*. Never silently overwrite a receipt.
-- For a **⬇️ challenge**, add it to `💭 Still brewing` on the theme, and to `wiki/lint-report.md` if it contradicts a receipt.
+- For a **⬇️ challenge**, add it to `💭 Still brewing` on the theme, and to the latest MRI report (`wiki/mri/`) if it contradicts a receipt.
 - Only a stat with a real source counts as a receipt. Commentary goes in as context, not as a receipt.
 
 ## 5. Spot women of voice

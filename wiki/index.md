@@ -53,4 +53,4 @@ Women whose stories serve as examples, from pioneers to today. → [[case-studie
 - [[zoe-research-notes]]: Zoe's original research notes behind that research.
 
 ## 🛠️ Housekeeping
-- [[log]] · [[lint-report]]
+- [[log]] · [[mri]] · [[lint-report]]

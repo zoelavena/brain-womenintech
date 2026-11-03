@@ -111,7 +111,7 @@ Slash commands live in `.claude/commands/`.
 - `/learn [focus]`: **the learning run**, which the automated bot runs on a schedule. It searches current women-in-tech news and events since the last run, maps each finding to the tree and themes, evolves the evidence, seats new women of voice at The Tea Party (as `brewing`), files a dated radar digest, and writes the diary entry (what surprised me based on the patterns since earlier entries, and what I'm thinking now).
 - `/ingest <file>`: read a new source, write a source page, update the related themes, concepts, and tree, write a diary entry, update the index and log, list every file you touched, then list any questions for the curator (a new branch or theme, guests to approve).
 - `/meet <source>`: read an interview or article about a woman in tech, seat her at The Tea Party (`wiki/the-tea-party/`), place her story on the tree, quote her in `🗣️ Real talk` on the relevant theme pages, and write a diary entry.
-- `/lint`: receipts and privacy check. Write the results to `wiki/lint-report.md`.
+- `/lint`: receipts and privacy check. Write the results to a dated report in `wiki/mri/` (`mri-YYYY-MM-DD.md`).
 
 ## Always (curator mode)
 

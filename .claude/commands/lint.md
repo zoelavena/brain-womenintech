@@ -2,7 +2,7 @@
 description: Weekly receipts check on the women-in-tech wiki
 ---
 
-Run a health check on `wiki/`, following CLAUDE.md, and write the results to `wiki/lint-report.md` (newest run at the top).
+Run a health check on `wiki/`, following CLAUDE.md, and write the results to a dated report in `wiki/mri/` named `mri-YYYY-MM-DD.md` (one file per check; the folder's index is `wiki/mri/mri.md`).
 
 Check for:
 - **Receipts that don't match:** every number on a wiki page must match its source page and raw source. List any mismatch with both values.
