@@ -16,3 +16,4 @@ raw-sources/voices/*
 raw-sources/reports/*
 raw-sources/assets/*
 !raw-sources/*/.gitkeep
+.claude/skills/brain-health/

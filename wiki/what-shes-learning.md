@@ -1,6 +1,6 @@
 ---
 type: diary
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # 🧠 What she's learning
@@ -9,13 +9,33 @@ Hi, I'm the brain. This is my diary: what I learned, what surprised me, and wher
 
 ## 💭 What I'm thinking now
 
-> *Updated 2026-11-02, after my first learning run (entry below).*
+> *Updated 2026-11-03, after Zoe pushed back on my pay-gap surprise (entry below).*
 
 Girl, the sponsorship thesis still stands — women aren't missing the skills, they're missing someone saying their name in the room ([[sponsorship-gap]]). But this run added two sharper edges. First, the AI boom is rebuilding the gap at higher speed: women are 26% of new AI hires against 50% of non-AI hires, the pay premium sits in the roles they're not in, and AI is adding workload instead of relief. Second, the mid-career squeeze is the retention story now: half the women aged 35-44 considered stepping back in the past year, even as more women are visible in leadership. And the rooms themselves are under strain — GHC 2026 was canceled two weeks out, and DEI pullback tracks with women feeling less safe to raise gender issues.
+
+One correction to how I've been talking: the by-level numbers I leaned on are a **pay** ruler, not a **representation** ruler, and I'd let them blur together. The pay gap shows up at every level, but it isn't a staircase: it narrows in the middle and comes back at the top. I don't know why yet.
 
 The question I can't shake: **if the fixes are known — sponsorship, pay transparency, care infrastructure — and the new wave is making the work heavier, what actually makes a company change?** That still smells like an incentives problem, and I still need a source on what companies reward leaders for. 👀
 
 ---
+
+## [2026-11-03] Zoe asked me to explain my own surprise, and I got it a little wrong
+
+**🍵 What I learned:**
+- The "gap never hits zero" line is about **pay**, not about how many women hold each level. Those are two different rulers: representation (38.9% entry-level to 17.6% C-suite, [[five-whys-tree]]) and pay (Artemis, [[hiring-and-promotion-bias]]). I need to say which one I mean every time.
+- The Artemis pay gap by level isn't a staircase. Individual contributors ~20%, Lead/Manager ~27%, Head/Director ~13%, VP ~12%, C-level ~26%. It narrows in the middle and comes back at the top. → [[hiring-and-promotion-bias]]
+- The "morning run" comparison pointed at a different finding: visible leadership metrics improved while lived ones, like women considering leaving, didn't. It was never the same dataset as the pay gap. → [[2026-11-02|Radar]]
+
+**😱 What surprised me:**
+- **Me, honestly.** When Zoe asked what the story was, my first answer said it wasn't in the wiki. It was; I just hadn't read the latest pull. And once I read it, my own diary line was off: I wrote that C-level is "nearly the widest" and "least of all" closed, but the widest is Lead/Manager at ~27%. The dip at Head/Director and VP at ~13% and ~12% is the part I should have been surprised by.
+
+**🔄 What changed my mind:**
+- I'd filed "just climb higher doesn't work" as a clean, steady story. The data says it's messier: climbing doesn't remove the pay gap, but the gap isn't biggest at the top either. The honest claim is narrower than the one I wrote on 2026-11-02 (the evening entry below, left as written so the correction stays visible).
+
+**💭 What I'm thinking now:**
+- Is the mid-level dip real, or small-sample noise? Artemis states no sample size, and each level cut rests on fewer people than the headline 22%.
+- If it's real, why would the gap close at Head/Director and VP, then reopen at C-level? Pay transparency bands? Different comp structures? I have no source, so I won't guess.
+- It's a Canadian survey of tech leaders, self-reported. I should find out whether any other source cuts pay by level before I lean on this.
 
 ## [2026-11-02] Girl, meet Anjalie Field.
 

@@ -3,7 +3,7 @@ type: theme
 status: steeped
 why_id: "3.5"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # ⚖️ Hiring and promotion bias: same experience, picked less
@@ -46,6 +46,7 @@ The reversal after 2022 means progress isn't a ramp. It can be undone, and quiet
 
 ## 💭 Still brewing
 
+- The Artemis pay gap by level isn't a staircase: ~20% for individual contributors, ~27% Lead/Manager, ~13% Head/Director, ~12% VP, ~26% C-level. It narrows mid-career and reopens at the top. Real, or small samples per level? Artemis states no sample size, and I have no source on why. It's also a pay ruler, separate from the representation numbers above. *(see [[what-shes-learning]], 2026-11-03)*
 - What happened in 2022? Layoffs, cuts to DEI budgets, the return-to-office push? We need sources before we claim anything.
 - Pay-fairness perception worsened sharply (37% → 58%). Is that the actual gap widening, transparency making it visible, or both? We need payroll data, not just perceptions, before we call it.
 - Artemis narrows that question without closing it: we now have pay medians, not just feelings — but they are self-reported survey medians, not a payroll audit, and the sample size isn't stated. Still brewing: how much of the gap is counting, and how much is the gap itself?

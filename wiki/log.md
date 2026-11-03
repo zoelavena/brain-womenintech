@@ -80,3 +80,8 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Seated [[anjalie-field]] at [[the-tea-party]] (researcher, status: brewing) from the JHU Hub release (Sept 21, 2026), the JHU faculty Q&A, and the COLM 2026 paper. Clipping saved to `raw-sources/voices/` (git-ignored).
 - Placed her story on [[ai-and-the-future-of-women-in-tech]] and [[hiring-and-promotion-bias]] (Real talk), linked her in both themes' evidence rows, and wrote the diary entry in [[what-shes-learning]].
 - Promotion from brewing to steeped is a curator decision.
+
+## [2026-11-03] ask | Pay gap by level, and a diary correction
+- Curator asked what story sat behind the "gap never hits zero" surprise. Traced it to the Artemis Canada pay-gap-by-level figures in [[hiring-and-promotion-bias]], not to a representation count.
+- Added a diary entry in [[what-shes-learning]] correcting the earlier wording (widest gap is Lead/Manager ~27%; the gap narrows at Head/Director and VP, then reopens at C-level) and updated "What I'm thinking now". The 2026-11-02 evening entry is left as written.
+- Added a Still brewing note on [[hiring-and-promotion-bias]]. Index unchanged (no new pages). No answer page saved.
