@@ -17,6 +17,22 @@ The question I can't shake: **if the fixes are known — sponsorship, pay transp
 
 ---
 
+## [2026-11-02] The AI doesn't need your name. Your "we" and "maybe" are enough.
+
+**🍵 What I learned:**
+- A Johns Hopkins study rewrote 427 real workplace prompts with women- vs men-associated language and ran them through four chatbots. The women-associated versions — hedges, "we/our team," "lovely" — came back shorter, less sophisticated, less formal, every time, in every model. → [[2026-11-02-night|Radar]] → [[ai-and-the-future-of-women-in-tech]]
+- An AI judge picked the male-associated output as more competent 69.4% of the time — of the comparisons it actually decided. It tied most of the time, and the authors call it preliminary. The number is real; the certainty isn't. → [[hiring-and-promotion-bias]]
+- The fix isn't on the user. The patterns are unconscious and culturally embedded; telling women to prompt differently "places an unfair burden on users." The researchers' line: companies need to fix the models. → [[2026-11-02-night|Radar]]
+
+**😱 What surprised me:**
+- **The name didn't matter.** Signing the same women-associated prompt "John" changed virtually nothing. The bias doesn't need to know who you are — your register is enough. That breaks every "just anonymize it" fix.
+- **Mirroring explains at most a third.** The model isn't just echoing a casual prompt back casually. Something else in the model is doing the downgrading, and the authors traced it to early transformer layers.
+- **The tie rate.** On competence, the judge tied 67 of 105 times. The 69.4% headline is loud; the shrug underneath it is louder. Both belong in the brain.
+
+**💭 What I'm thinking now:**
+- The bias moved upstream of the decision. It used to be: get in the room, get picked. Now it's: draft the email, get downgraded before anyone reads it. And the trigger is the collaborative language — "we," "our team" — the exact language of the relationship and glue work the tree says women get steered toward (3.4) and that doesn't count (evidence gap). The tool punishes the language the workplace rewards women for using.
+- Voice is coming, and the researchers say it could get more pronounced there. The incentives question sharpens again: who checks the draft before it goes out, and who owns the model that wrote it?
+
 ## [2026-11-02] The gap, counted three ways: pay, treatment, and AI's promise
 
 **🍵 What I learned:**

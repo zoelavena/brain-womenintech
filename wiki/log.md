@@ -64,3 +64,8 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - The third stat Zoe named (31% say AI improved gender equality) was already filed in the morning run and was not duplicated.
 - Artemis is from April 2026, outside the usual 30-day window; included because the curator asked for it directly. Its medians are self-reported survey data with no stated sample size — filed as receipts with that caveat.
 - Wrote the diary entry in [[what-shes-learning]]. No Tea Party seats added; Julia Hermann (ISACA/SheLeadsTech) was heard but not seated — single-quote source.
+
+## [2026-11-02] learn | Night run at Zoe's direction: 1 finding, 0 new voices
+- Filed [[2026-11-02-night]] in the radar: Van Koevering & Field (Johns Hopkins, COLM 2026) — women-associated prompt features drew shorter, less sophisticated, less formal outputs across 4 models; LLM judge picked male-associated output as more competent in 69.4% of decided comparisons (preliminary, mostly ties; verified in the paper, Table 7).
+- Evolved the evidence on [[ai-and-the-future-of-women-in-tech]] and [[hiring-and-promotion-bias]]; wrote the diary entry in [[what-shes-learning]].
+- Voices heard but not seated: Katherine Van Koevering, Anjalie Field — single-study sources in this run; Field flagged as a /meet candidate.
