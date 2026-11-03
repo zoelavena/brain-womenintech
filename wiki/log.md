@@ -69,3 +69,9 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Filed [[2026-11-02-night]] in the radar: Van Koevering & Field (Johns Hopkins, COLM 2026) — women-associated prompt features drew shorter, less sophisticated, less formal outputs across 4 models; LLM judge picked male-associated output as more competent in 69.4% of decided comparisons (preliminary, mostly ties; verified in the paper, Table 7).
 - Evolved the evidence on [[ai-and-the-future-of-women-in-tech]] and [[hiring-and-promotion-bias]]; wrote the diary entry in [[what-shes-learning]].
 - Voices heard but not seated: Katherine Van Koevering, Anjalie Field — single-study sources in this run; Field flagged as a /meet candidate.
+
+## [2026-11-02] learn | Scheduled nightly run (late): 3 findings, 0 new voices
+- First scheduled run started clean, then stopped per the dirty-tree rule when the in-chat JHU learn wrote to the tree mid-run; it filed nothing. Completed in a follow-up pass once the tree was clean and pushed (HEAD bd27cd7).
+- Filed [[2026-11-02-late]] in the radar: Philadelphia Fed automation-risk analysis (21% vs 10% high-risk; 9% vs 13% AI-growth; scenario analysis, not predictions), GOV.UK Women in Tech Taskforce voluntary standards (22% IT workforce; 2p/£1 VC), Prosperity Project (women of colour in leadership 19.7% → 14.6%; 4% of executive-officer seats).
+- Evolved the evidence on [[ai-and-the-future-of-women-in-tech]], [[workplace-policy]], [[hiring-and-promotion-bias]], and [[sponsorship-gap]] (Real talk); wrote the diary entry in [[what-shes-learning]].
+- Voices heard but not seated: Julie Savard-Shaw, Barnini Bhattacharyya, Vicky Foxcroft, Anne-Marie Imafidon — single-source quotes in this run; Imafidon and Savard-Shaw flagged as /meet candidates.

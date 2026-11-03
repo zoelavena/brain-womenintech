@@ -20,6 +20,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 - **Perceived impact:** 31% of women said AI had improved gender equality, 19% said it had made it worse, 34% saw no impact, 16% unsure. *(Web Summit Gender in Tech 2026, 1,000+ women in Web Summit's community — not a representative sample of the whole workforce)*
 - **Prompt register:** prompts carrying women-associated linguistic features (hedges, tag questions, collective reference, expressive adjectives) elicited shorter, less sophisticated, less formal responses across three document types and four models (GPT-4, Llama, Gemma, Mistral); effects persisted after controlling for prompt complexity and style carry-over, and a male sign-off name had virtually no effect. *(Van Koevering & Field, Johns Hopkins, "It's How You Ask: Gender-Associated Linguistic Bias in LLMs", COLM 2026; JHU Hub, Sept 21, 2026)*
 - **LLM-as-judge, preliminary:** in a partial GPT-4-only judge run (105 comparisons), the male-associated prompt output was chosen as more competent in 69.4% of decided comparisons and smarter in 68.3%; the judge tied most of the time (67 ties on competence). The authors call the analysis partial and single-sample. *(same paper, Table 7)*
+- **Automation risk, uneven:** 21% of women's employment is in high-automation-risk occupations vs 10% of men's; 9% of women's jobs vs 13% of men's are projected to grow with AI. Scenario analysis grounded in the Richmond AI Jobs Transition Framework, not predictions; the authors caution the framework may overstate substitution risk. *(Philadelphia Fed, "Which Workers Are Most Vulnerable to AI Disruption?", circulated Oct 30, 2026; BLS OEWS + ACS PUMS data)*
 
 ## 📈 How the evidence is moving
 
@@ -27,6 +28,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-02 | Philadelphia Fed (Richmond framework): 21% of women's jobs in high-automation-risk occupations vs 10% of men's; 9% vs 13% in AI-growth occupations — scenario analysis, not predictions | ⬆️ | Philadelphia Fed, circulated Oct 30, 2026 |
 | 2026-11-02 | JHU: women-associated prompt features drew shorter, less sophisticated, less formal outputs across 4 models; names had virtually no effect; LLM judge picked male-associated output as more competent in 69.4% of decided comparisons (preliminary, mostly ties) | ⬆️ | Van Koevering & Field (COLM 2026), via JHU Hub Sept 21, 2026; Korn Ferry Nov 2, 2026 |
 | 2026-11-02 | Web Summit: 31% say AI improved gender equality, 19% say worse (community sample; the 2025 question asked about potential, 2026 about observed impact) | ⬆️ | Web Summit Gender in Tech 2026, via Dataconomy, Oct 30, 2026 |
 | 2026-11-02 | Web Summit State of the Industry: 60% say AI increased their workload; women 41% vs men 27% say emotional intelligence will matter more | ⬆️ | Web Summit, Oct 22, 2026 |

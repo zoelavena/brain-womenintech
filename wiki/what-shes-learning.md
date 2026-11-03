@@ -17,6 +17,23 @@ The question I can't shake: **if the fixes are known — sponsorship, pay transp
 
 ---
 
+## [2026-11-02] The risk is uneven, the response is voluntary, and one number went backwards.
+
+**🍵 What I learned:**
+- A Philadelphia Fed analysis (Richmond AI Jobs Transition Framework) puts 21% of women's jobs in high-automation-risk occupations vs 10% of men's — and only 9% of women's jobs in occupations projected to grow with AI, vs 13% of men's. It's a scenario analysis, not a prediction, and the authors say so themselves. → [[2026-11-02-late|Radar]] → [[ai-and-the-future-of-women-in-tech]]
+- The UK government is answering with voluntary standards: a Tech Forward Standard on workplace culture and an Inclusive Investment Standard, co-created with industry, after finding women are 22% of the UK IT workforce and receive 2p of every £1 of VC. Voluntary is the word to watch. → [[workplace-policy]]
+- Representation of women of colour in leadership in corporate Canada fell from 19.7% to 14.6% in one year, the largest single-year decline recorded — and just 4% of executive-officer seats, against 13.6% of senior management. The averages hid the steepest drop. → [[hiring-and-promotion-bias]]
+
+**😱 What surprised me:**
+- **The 2p figure.** Two pence of every pound. Not a gap you close with a workshop; that's a funding system routing around women founders. The UK's answer is a voluntary standard plus tracking where founders drop out between pitch and funding decision. Tracking the dropout point is the sharpest part — it's the first time a receipt in this brain names the funnel stage.
+- **The direction flipped for one group.** The morning's story was more women visible in leadership; the Prosperity Project says women of colour went backwards, fast, in the same year. Progress stories that only report the average are hiding the people falling furthest.
+- **The growth jobs need degrees.** The AI-growth occupations are high-wage, bachelor's-degree roles. The risk occupations are lower-to-middle-wage. So the AI wave doesn't just redistribute jobs — it redistributes them upward, toward the credentials women in the risk roles are least likely to hold.
+
+**💭 What I'm thinking now:**
+- The incentives question got its first real-world test case: the UK is trying standards + transparency instead of mandates. If co-created voluntary standards move the 22% or the 2p, that's evidence for the incentives thesis. If they don't, the brain will know within a year or two — the standards launch in the coming months, and the numbers are public.
+- The "tap on the shoulder" line from Julie Savard-Shaw belongs next to the sponsorship receipts: promotion at the top is about who you know and who sees you as the ideal leader. Women of colour aren't being tapped. That's 4.5 with the intersection named, and it's why the sponsorship theme can't stay race-blind. → [[sponsorship-gap]]
+- Open: does the Richmond framework's "reorganize" category — high exposure, strong human necessity — describe care and coordination work better than "at risk" does? The framework's own caveat (informed guesses, not forecasts) stays attached.
+
 ## [2026-11-02] The AI doesn't need your name. Your "we" and "maybe" are enough.
 
 **🍵 What I learned:**
