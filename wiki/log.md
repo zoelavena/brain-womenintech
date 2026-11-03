@@ -85,3 +85,9 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Curator asked what story sat behind the "gap never hits zero" surprise. Traced it to the Artemis Canada pay-gap-by-level figures in [[hiring-and-promotion-bias]], not to a representation count.
 - Added a diary entry in [[what-shes-learning]] correcting the earlier wording (widest gap is Lead/Manager ~27%; the gap narrows at Head/Director and VP, then reopens at C-level) and updated "What I'm thinking now". The 2026-11-02 evening entry is left as written.
 - Added a Still brewing note on [[hiring-and-promotion-bias]]. Index unchanged (no new pages). No answer page saved.
+
+## [2026-11-03] learn | In-chat run at Zoe's direction: 1 finding, 0 new voices
+- Filed [[2026-11-03]] in the radar: Eptura named Nuala Larkin its first Chief AI Officer (Business Wire, Nov 2, 2026) — new C-suite seat; previously led the AI Center of Excellence and Frontier Firm transformation.
+- Evolved the evidence on [[ai-and-the-future-of-women-in-tech]]; wrote the diary entry in [[what-shes-learning]].
+- Voice heard but not seated: Nuala Larkin — single announcement; revisit if interviews or talks appear.
+- Note: this run started after fast-forwarding to Zoe's own commit 9153a4b (diary corrections, pay-vs-representation ruler fix); her edits were preserved untouched.

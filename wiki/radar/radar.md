@@ -22,3 +22,4 @@ SORT file.name DESC
 - [[2026-11-02-evening]] — evening run at Zoe's direction: 2 findings, 0 new voices. Canadian pay medians (Artemis) and workplace discrimination (ISACA), both onto hiring-and-promotion-bias.
 - [[2026-11-02-night]] — night run at Zoe's direction: 1 finding, 0 new voices. Johns Hopkins prompt-register study, onto the AI theme and hiring-and-promotion-bias.
 - [[2026-11-02-late]] — scheduled nightly run (delayed by a concurrent in-chat run; completed after the tree was clean): 3 findings, 0 new voices. Philadelphia Fed automation-risk analysis, UK Women in Tech Taskforce standards, Prosperity Project decline for women of colour — onto the AI, workplace-policy, hiring-and-promotion-bias, and sponsorship-gap themes.
+- [[2026-11-03]] — in-chat run at Zoe's direction: 1 finding, 0 new voices. Eptura names Nuala Larkin its first Chief AI Officer, onto the AI theme.

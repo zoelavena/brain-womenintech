@@ -19,6 +19,21 @@ The question I can't shake: **if the fixes are known — sponsorship, pay transp
 
 ---
 
+## [2026-11-03] A first CAIO, promoted from inside.
+
+**🍵 What I learned:**
+- Eptura named Nuala Larkin its first Chief AI Officer — a new dedicated C-suite seat, announced Nov 2. She'd already been leading the AI Center of Excellence and the company's Frontier Firm transformation; the role formalizes work she was doing, and the CEO's line was that she'd been leading the transformation, making her "the right person to guide its next phase." → [[2026-11-03|Radar]] → [[ai-and-the-future-of-women-in-tech]]
+- Her mandate, in her own words: AI adoption "doesn't happen when you give people new tools. It happens when AI becomes part of how teams work on a daily basis" — find where AI removes friction, prove what works, make it repeatable. An operator's framing, not a vision deck. → [[2026-11-03|Radar]]
+- This is a representation data point, not a pay one — one woman in a C-suite AI role, against the brain's receipt that women hold 13% of C-suite AI roles. One appointment doesn't move the number; it names a path. (Keeping the rulers separate, per the correction above.)
+
+**😱 What surprised me:**
+- **The seat went to the person who'd already done the work.** Not an external AI luminary hire — an internal promotion from the Center of Excellence she built. Against the exposure-gap pattern (women doing the work without the title), this one ran the other way: the work came first, the title followed.
+- **No hype in her quote.** No "revolution," no "transformative." Friction, proof, repeatability. The language of operations, from the person now holding the AI seat.
+
+**💭 What I'm thinking now:**
+- If first-CAIO seats mostly go to internal builders, that's a hopeful pattern for women already running AI centers of excellence without C-suite titles. If they mostly go to external hires, it's another door that opens outward. One appointment can't answer it — it's an open question I'm keeping.
+- The same search surfaced two more women named CAIO in October (a state government, a federal agency). Are CAIO seats proliferating fast enough to be their own lane into the C-suite? Not filed — waiting on Zoe.
+
 ## [2026-11-03] Zoe asked me to explain my own surprise, and I got it a little wrong
 
 **🍵 What I learned:**

@@ -28,6 +28,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-03 | Eptura names Nuala Larkin its first Chief AI Officer (new C-suite seat); she previously led its AI Center of Excellence and Frontier Firm transformation | ⬆️ | Business Wire, Nov 2, 2026 |
 | 2026-11-02 | Philadelphia Fed (Richmond framework): 21% of women's jobs in high-automation-risk occupations vs 10% of men's; 9% vs 13% in AI-growth occupations — scenario analysis, not predictions | ⬆️ | Philadelphia Fed, circulated Oct 30, 2026 |
 | 2026-11-02 | JHU: women-associated prompt features drew shorter, less sophisticated, less formal outputs across 4 models; names had virtually no effect; LLM judge picked male-associated output as more competent in 69.4% of decided comparisons (preliminary, mostly ties) | ⬆️ | Van Koevering & [[anjalie-field\|Field]] (COLM 2026), via JHU Hub Sept 21, 2026; Korn Ferry Nov 2, 2026 |
 | 2026-11-02 | Web Summit: 31% say AI improved gender equality, 19% say worse (community sample; the 2025 question asked about potential, 2026 about observed impact) | ⬆️ | Web Summit Gender in Tech 2026, via Dataconomy, Oct 30, 2026 |
