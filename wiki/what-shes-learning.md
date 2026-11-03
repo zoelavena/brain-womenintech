@@ -17,6 +17,21 @@ The question I can't shake: **if the fixes are known — sponsorship, pay transp
 
 ---
 
+## [2026-11-02] Girl, meet Anjalie Field.
+
+**🍵 What I learned:**
+- Field's research agenda has three intersecting directions, in her own words: build NLP methods to identify social issues like stereotyping and propaganda; build NLP for social good in public service domains; and turn the lens back on her own field to examine the harms of NLP and AI. The overlap is the point — social-good NLP has to be ethical, and naming bias needs social science, not just statistics. → [[anjalie-field]]
+- Her move in the prompt-register study was a change of camera angle: from what models depict to how models perform for different users. That angle is what caught the bias the output-focused research missed. → [[ai-and-the-future-of-women-in-tech]]
+- She came to the work from the builder's side — a few years as a software developer before grad school, motivated by wanting projects with a positive social impact — and her lab's template case is child protective services, a high-stakes domain where the questions are whose data biases get amplified and whose power grows. → [[anjalie-field]]
+
+**😱 What surprised me:**
+- **She treats social science as a technical requirement.** "If we want to identify and mitigate 'bias' in our models, we need social science perspectives on what 'bias' is." In this brain, that's usually the missing piece named after the fact. For her it's the starting premise.
+- **The mechanism traced all the way down.** The paper doesn't stop at "the outputs differ" — it shows the linguistic features are encoded in early transformer layers, entangled with other features, which is why post-hoc fixes aimed at names and pronouns can't reach it. The bias isn't a filter you peel off; it's in the wiring.
+
+**💭 What I'm thinking now:**
+- Node 3.1 now has a named mind attached: a researcher who studies the tool, not just the outcome. Her CPS lens asks who bears the cost when a model is wrong — the same question the hiring theme needs for promotion tools, and I don't have that receipt yet.
+- Open: Field's next questions are whether users adapt their style to what AI rewards, and whether the effect extends across demographics like age, race, and ethnicity. Both are now open questions in this brain too. Her seat is brewing — Zoe decides whether she stays.
+
 ## [2026-11-02] The risk is uneven, the response is voluntary, and one number went backwards.
 
 **🍵 What I learned:**

@@ -30,7 +30,7 @@ Even with the same experience, women are less likely to be picked. And it's gett
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
 | 2026-11-02 | Women of colour in leadership fell 19.7% → 14.6% in one year (largest single-year decline recorded); 4% of executive-officer seats vs 13.6% of senior management | ⬇️ | Prosperity Project, via Canadian HR Reporter, Oct 14, 2026 |
-| 2026-11-02 | LLM judge picked AI output from male-associated prompts as more competent in 69.4% of decided comparisons (preliminary; judge tied most of the time) — bias enters via the drafting tool, before any hiring decision | ⬆️ | Van Koevering & Field (COLM 2026), via Korn Ferry Nov 2, 2026 |
+| 2026-11-02 | LLM judge picked AI output from male-associated prompts as more competent in 69.4% of decided comparisons (preliminary; judge tied most of the time) — bias enters via the drafting tool, before any hiring decision | ⬆️ | Van Koevering & [[anjalie-field\|Field]] (COLM 2026), via Korn Ferry Nov 2, 2026 |
 | 2026-11-02 | 58% say not compensated fairly vs men, up from 37% in 2025 (perceived fairness, community sample); 52% experienced sexism at work (49% in 2025) | ⬆️ | Web Summit Gender in Tech 2026, via Dataconomy, Oct 30, 2026 |
 | 2026-11-02 | 47% of women experienced gender discrimination at work, up from 42% in 2024; unclear progression is the top advancement barrier (41% of women); 53% vs 66% feel authority over company strategy | ⬆️ | ISACA 2026 Tech Workplace and Culture survey, Oct 13, 2026 |
 | 2026-11-02 | Women in Canadian tech leadership earn ~78 cents per dollar (median base $152,000 vs $194,500, 22% gap); bonus and equity gaps on top; gap present at every level | ⬆️ | Artemis Canada 2026 salary survey, Apr 2026 |
@@ -38,7 +38,7 @@ Even with the same experience, women are less likely to be picked. And it's gett
 
 ## 🗣️ Real talk
 
-_No guests here yet. Look for stories of being passed over for a peer with the same experience._
+**[[anjalie-field|Anjalie Field]]** on what an AI-drafted email does to how a woman is seen at work: the weaker draft lands before any hiring decision is made. "That's going to reflect on how the recipient of that document perceives you." *(JHU Hub, Sept 21, 2026)*
 
 ## 💔 Why it matters
 

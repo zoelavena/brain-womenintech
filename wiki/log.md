@@ -75,3 +75,8 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Filed [[2026-11-02-late]] in the radar: Philadelphia Fed automation-risk analysis (21% vs 10% high-risk; 9% vs 13% AI-growth; scenario analysis, not predictions), GOV.UK Women in Tech Taskforce voluntary standards (22% IT workforce; 2p/£1 VC), Prosperity Project (women of colour in leadership 19.7% → 14.6%; 4% of executive-officer seats).
 - Evolved the evidence on [[ai-and-the-future-of-women-in-tech]], [[workplace-policy]], [[hiring-and-promotion-bias]], and [[sponsorship-gap]] (Real talk); wrote the diary entry in [[what-shes-learning]].
 - Voices heard but not seated: Julie Savard-Shaw, Barnini Bhattacharyya, Vicky Foxcroft, Anne-Marie Imafidon — single-source quotes in this run; Imafidon and Savard-Shaw flagged as /meet candidates.
+
+## [2026-11-02] meet | Anjalie Field
+- Seated [[anjalie-field]] at [[the-tea-party]] (researcher, status: brewing) from the JHU Hub release (Sept 21, 2026), the JHU faculty Q&A, and the COLM 2026 paper. Clipping saved to `raw-sources/voices/` (git-ignored).
+- Placed her story on [[ai-and-the-future-of-women-in-tech]] and [[hiring-and-promotion-bias]] (Real talk), linked her in both themes' evidence rows, and wrote the diary entry in [[what-shes-learning]].
+- Promotion from brewing to steeped is a curator decision.

@@ -29,7 +29,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
 | 2026-11-02 | Philadelphia Fed (Richmond framework): 21% of women's jobs in high-automation-risk occupations vs 10% of men's; 9% vs 13% in AI-growth occupations — scenario analysis, not predictions | ⬆️ | Philadelphia Fed, circulated Oct 30, 2026 |
-| 2026-11-02 | JHU: women-associated prompt features drew shorter, less sophisticated, less formal outputs across 4 models; names had virtually no effect; LLM judge picked male-associated output as more competent in 69.4% of decided comparisons (preliminary, mostly ties) | ⬆️ | Van Koevering & Field (COLM 2026), via JHU Hub Sept 21, 2026; Korn Ferry Nov 2, 2026 |
+| 2026-11-02 | JHU: women-associated prompt features drew shorter, less sophisticated, less formal outputs across 4 models; names had virtually no effect; LLM judge picked male-associated output as more competent in 69.4% of decided comparisons (preliminary, mostly ties) | ⬆️ | Van Koevering & [[anjalie-field\|Field]] (COLM 2026), via JHU Hub Sept 21, 2026; Korn Ferry Nov 2, 2026 |
 | 2026-11-02 | Web Summit: 31% say AI improved gender equality, 19% say worse (community sample; the 2025 question asked about potential, 2026 about observed impact) | ⬆️ | Web Summit Gender in Tech 2026, via Dataconomy, Oct 30, 2026 |
 | 2026-11-02 | Web Summit State of the Industry: 60% say AI increased their workload; women 41% vs men 27% say emotional intelligence will matter more | ⬆️ | Web Summit, Oct 22, 2026 |
 | 2026-11-02 | LinkedIn: women 26% of new US AI hires (2025) vs 50% non-AI; 13% of C-suite AI roles; more than half of data-annotation hires | ⬆️ | LinkedIn research, via TechTimes, Oct 5, 2026 |
@@ -38,6 +38,8 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 ## 🗣️ Real talk
 
 **Jayeeta Putatunda**, AI engineering lead at investment firm Turing, on keeping up after time away: she took four months of maternity leave and came back to "completely different frameworks and levels of models." Catching up was overwhelming until colleagues helped and a partner shared childcare equally. "Women don't lack the interest or ability to keep up," she said — they "may lack the infrastructure that makes keeping up possible." *(TechTimes, Oct 5, 2026)*
+
+**[[anjalie-field|Anjalie Field]]**, Johns Hopkins computer scientist, on whose side of the model bias research looks: most earlier work examined bias in what models produce; her prompt-register study asked how models perform for different users — and found women-associated prompt language drew weaker drafts from every chatbot tested. "If you prompt a model to write an email you're going to send to someone else at your company, and you're using language features that women more commonly use, you'll get back a response that's less complex, at a lower grade level, and less formal." *(JHU Hub, Sept 21, 2026)*
 
 _More voices wanted: women building AI, leading AI teams, or researching how AI changes hiring and promotion for women._
 
