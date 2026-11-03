@@ -19,3 +19,4 @@ SORT file.name DESC
 ```
 
 - [[2026-11-02]] — first learn run: 5 findings, 0 new voices. AI hiring, pay fairness, the mid-career squeeze, and GHC's cancellation.
+- [[2026-11-02-evening]] — evening run at Zoe's direction: 2 findings, 0 new voices. Canadian pay medians (Artemis) and workplace discrimination (ISACA), both onto hiring-and-promotion-bias.

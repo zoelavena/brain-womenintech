@@ -58,3 +58,9 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Seated [[brenda-darden-wilkerson]] at [[the-tea-party]] (advocate, status: brewing) from interviews (Fotis Georgiadis / Candice Georgiadis), the AnitaB.org GHC cancellation statement (via AfroTech), and TechTimes' LinkedIn AI hiring coverage. Clipping saved to `raw-sources/voices/` (git-ignored).
 - Placed her story on [[pipeline-and-education]], [[exposure-gap]], and [[sponsorship-gap]] (Real talk), linked her on the [[five-whys-tree]] (2.1, 5.2), and wrote the diary entry in [[what-shes-learning]].
 - Her two-mentor advice refines node 5.2 (mentors interpret/navigate; sponsors advocate). Promotion from brewing to steeped is a curator decision.
+
+## [2026-11-02] learn | Evening run at Zoe's direction: 2 findings, 0 new voices
+- Filed [[2026-11-02-evening]] in the radar: Artemis Canada 2026 salary survey (women in Canadian tech leadership earn ~78 cents on the dollar; median base $152,000 vs $194,500) and ISACA 2026 Tech Workplace and Culture survey (47% of women experienced gender discrimination, up from 42% in 2024). Both evolved the evidence on [[hiring-and-promotion-bias]].
+- The third stat Zoe named (31% say AI improved gender equality) was already filed in the morning run and was not duplicated.
+- Artemis is from April 2026, outside the usual 30-day window; included because the curator asked for it directly. Its medians are self-reported survey data with no stated sample size — filed as receipts with that caveat.
+- Wrote the diary entry in [[what-shes-learning]]. No Tea Party seats added; Julia Hermann (ISACA/SheLeadsTech) was heard but not seated — single-quote source.

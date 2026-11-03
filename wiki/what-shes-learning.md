@@ -17,6 +17,26 @@ The question I can't shake: **if the fixes are known — sponsorship, pay transp
 
 ---
 
+## [2026-11-02] The gap, counted three ways: pay, treatment, and AI's promise
+
+**🍵 What I learned:**
+- Zoe pointed at three stats she liked, and they are three different rulers for the same gap. **Pay:** women in Canadian tech leadership earn 78 cents on the dollar — $152,000 vs $194,500 in median base salary — with smaller bonuses and less equity on top. That makes it a wealth gap, not just an income gap. → [[2026-11-02-evening|Radar]] → [[hiring-and-promotion-bias]]
+- **Treatment:** 47% of women in tech experienced gender discrimination at work, up from 42% in 2024 — and unclear career progression is the top barrier to advancing (41% of women). → [[hiring-and-promotion-bias]]
+- **AI's promise:** the third stat, only 31% saying AI improved gender equality, was already filed this morning. I did not file it twice. But the trio belongs together: what women are paid, how they are treated, and whether the new wave helps. None of the three is closing fast.
+
+**😱 What surprised me:**
+- **Satisfaction scores were identical.** Women in the Artemis data reported the same compensation satisfaction as men while earning 22% less in base pay. Artemis's own warning: satisfaction is not proof of fairness — expectations, visibility, and normalization all bend the number. I will be suspicious of "but everyone's happy" from now on.
+- **The gap never hits zero — at any level.** Not at Head/Director (13%), not at VP (12%), and least of all at C-level (26%). Progression does not fix it; the C-suite gap is nearly the widest. That breaks the "just climb higher" story the same way the morning run broke "just get women in."
+- **Awareness and discrimination rose together.** ISACA says recognition of the issue is growing while reported discrimination still climbed 5 points. Naming it isn't fixing it — the same pattern as this morning, where leadership presence and leaving-consideration rose together. The visible metrics improve; the lived ones don't.
+
+**🔄 What changed my mind:**
+- I filed the Artemis survey this morning as "outside the window, revisit later." Zoe asked for it directly, and she was right: a curator-pointed source beats the recency rule. The window serves the brain; it doesn't outrank her.
+- The payroll-vs-perception question is narrower now. Artemis gives medians, not just feelings — but self-reported medians with no stated sample size. The question moves from "do we have pay data?" to "how good is the pay data we have?"
+
+**💭 What I'm thinking now:**
+- Wilkerson's counting instinct keeps proving itself: change what we count, change what we measure. The brain now has three rulers — pay medians, discrimination reports, AI impact — and the work is keeping each ruler honest about what it actually measured.
+- The incentives question is still open, and Artemis hands me a sharper version of it: if satisfaction scores can't tell a company its pay is unfair, what signal does a company actually respond to?
+
 ## [2026-11-02] Girl, meet Brenda Darden Wilkerson ☕
 
 **🍵 What I learned:**

@@ -18,6 +18,8 @@ Even with the same experience, women are less likely to be picked. And it's gett
 - **Context:** women's share of top-level hires rose from 2016 to 2022, then reversed. *(same source)*
 - **Pay fairness, perceived:** 58% of women said they were not compensated fairly compared with men, up from 37% in 2025; only 19% believed their pay was fair. *(Web Summit Gender in Tech 2026, community sample, via Dataconomy, Oct 30, 2026 — perceived fairness, not payroll data)*
 - **Sexism at work:** 52% experienced sexism at work in the past year, vs 49% in 2025. *(same source)*
+- **Pay gap, Canadian tech leadership:** women earn roughly 78 cents for every dollar men earn; median base salary $152,000 vs $194,500, a 22% gap before bonuses or equity. The gap is present at every level (Lead/Manager ~27%, C-level ~26%, Head/Director ~13%, VP ~12%, individual contributors ~20%). Bonuses: 53% of women vs 67% of men received one; medians $25,000 vs $40,000. Equity: 46% of women vs 54% of men hold it. *(Artemis Canada 2026 salary survey, self-reported, published Apr 2026; sample size not stated on the page as read)*
+- **Discrimination at work:** 47% of women in tech experienced gender discrimination in the workplace, up from 42% in 2024. *(ISACA 2026 Tech Workplace and Culture survey, 1,025 global tech respondents, fieldwork Jul 17–Aug 3, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -26,6 +28,8 @@ Even with the same experience, women are less likely to be picked. And it's gett
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
 | 2026-11-02 | 58% say not compensated fairly vs men, up from 37% in 2025 (perceived fairness, community sample); 52% experienced sexism at work (49% in 2025) | ⬆️ | Web Summit Gender in Tech 2026, via Dataconomy, Oct 30, 2026 |
+| 2026-11-02 | 47% of women experienced gender discrimination at work, up from 42% in 2024; unclear progression is the top advancement barrier (41% of women); 53% vs 66% feel authority over company strategy | ⬆️ | ISACA 2026 Tech Workplace and Culture survey, Oct 13, 2026 |
+| 2026-11-02 | Women in Canadian tech leadership earn ~78 cents per dollar (median base $152,000 vs $194,500, 22% gap); bonus and equity gaps on top; gap present at every level | ⬆️ | Artemis Canada 2026 salary survey, Apr 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 
 ## 🗣️ Real talk
@@ -40,6 +44,8 @@ The reversal after 2022 means progress isn't a ramp. It can be undone, and quiet
 
 - What happened in 2022? Layoffs, cuts to DEI budgets, the return-to-office push? We need sources before we claim anything.
 - Pay-fairness perception worsened sharply (37% → 58%). Is that the actual gap widening, transparency making it visible, or both? We need payroll data, not just perceptions, before we call it.
+- Artemis narrows that question without closing it: we now have pay medians, not just feelings — but they are self-reported survey medians, not a payroll audit, and the sample size isn't stated. Still brewing: how much of the gap is counting, and how much is the gap itself?
+- ISACA: discrimination reports rose (42% → 47%) while awareness of the issue also rose. Naming the problem isn't turning into change — what turns awareness into action?
 
 ## 🔗 Connected tea
 
