@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "4.5"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # 📣 The sponsorship gap: no one is advocating for her in the room
@@ -22,6 +22,11 @@ Okay so, this is where Zoe's original Five Whys research kept landing. When prom
 - **With a sponsor**, 79.2% of women say the extra work paid off. Without one, 50.9%. *(same source)*
 - **5.2, mentorship mistaken for sponsorship:** 43% of all respondents have a senior leader actively advocating for them, and another 23% have a mentor who doesn't advocate. *(Toast 2026, Recommendations and Method)*
 - **5.3, the company's role:** "Formalize sponsorship. Train it like a skill." *(Toast 2026, Recommendation 01)*
+- **Sponsor gap, all levels (US/Canada):** 31% of entry-level women have a sponsor vs 45% of men; mid-level 51% vs 54%; senior-level 66% vs 72%. *(McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025; 124 organizations, ~3 million employees, 9,500 surveyed)*
+- **A sponsor moves promotion:** 65% of employees with a sponsor were promoted in the last two years, vs 35% of those without one. Entry-level women are around half as likely as entry-level men to have multiple sponsors or a senior-level sponsor — the kind of advocate who most influences advancement. *(same source)*
+- **Flexibility stigma eats sponsorship:** women who work remotely most of the time are less likely to have a sponsor and far less likely to have been promoted in the last two years than women who work mostly on-site; men show similar sponsorship and promotion levels regardless of where they work. *(same source)*
+- **Sponsored women, Europe:** sponsored women are 200% more likely to see their ideas implemented, and women in European tech are less likely than men to have a sponsor. *(McKinsey, Women in Tech and AI in Europe, Mar 5, 2026)*
+- **Sponsorship exists? (Australia):** only 39% of early-career women say sponsorship exists in their workplace, and only 27% entered tech because of mentor encouragement. "Mentorship advises, whereas sponsorship advocates." *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
 
 > Toast figures come from a survey of Canadian tech. Level-based comparisons rest on smaller samples.
 
@@ -31,6 +36,9 @@ Okay so, this is where Zoe's original Five Whys research kept landing. When prom
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | Sponsor gap at every level (entry 31% vs 45%); promotion 65% with a sponsor vs 35% without; remote work costs women sponsorship and promotions, not men | ⬆️ | McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025 |
+| 2026-11-04 | Sponsored women 200% more likely to see ideas implemented; women less likely than men to have a sponsor | ⬆️ | McKinsey, Women in Tech and AI in Europe, Mar 2026 |
+| 2026-11-04 | Only 39% of early-career women say sponsorship exists in their workplace; mentorship advises, sponsorship advocates | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 
 ## 🎨 From the original research

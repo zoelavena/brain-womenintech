@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.3"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # 🍼 Caregiving and social norms: stepping away costs her more
@@ -19,6 +19,10 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 - **4.1, unpaid care:** in the US, 15.1% of women's day vs 10.1% of men's. In Canada, 16.5% vs 11.6%. *(WEF 2026, Economy Profiles for the US and Canada)*
 - Promotion gaps are smaller after a professional break than after a parenting break, so **the kind of break matters**. *(Zoe's board, summarizing WEF)*
 - **Considering stepping back (past 12 months):** 42% overall, 52% at ages 35-44. Top reasons: burnout/health (57%), childcare cost/availability (54%). *(Web Summit Gender in Tech 2026, community sample, via TechTimes, Oct 28, 2026; multiple answers allowed)*
+- **Home still runs on her (US/Canada):** almost 25% of entry- and senior-level women not interested in promotion say personal obligations make it hard to take on additional work, vs 15% of comparable men. In 2024, women with partners were more than three times as likely as men with partners to be responsible for all or most housework. *(McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025)*
+- **Care is the career break (global, all sectors):** only 27% of women with children under 18 have access to affordable childcare, and 14% say they may need to give up work due to childcare costs. 43% of mothers of under-18s unexpectedly took time off for caring in the past year, and 31% of them gave their employer a different reason, fearing career impact. Of women who took an extended break of 3+ years for caring, only 30% returned to a similar role at the same level and pay; 23% returned at a lower level and/or lower pay. At home, 51% of partnered mothers hold primary responsibility for childcare (5% say their partner does) and 42% bear the greatest share of cleaning and domestic tasks (11% partner). *(Deloitte, Women @ Work 2026; 7,500 women, 15 countries, fieldwork May–June 2026)*
+- **Caregiving tops the barriers list (cybersecurity):** 45% of women in cybersecurity named work-life balance and caregiving demands the top challenge for women staying and advancing, vs 29% of men. 42% of women said support for caregivers or flexible work arrangements would make the most difference to their success. *(ISC2, Women in Cybersecurity study, Mar 2026; 16,029 respondents — cybersecurity only)*
+- **The parenthood penalty (Australia):** 41% of mid-career respondents believe having children has, or would, hinder their leadership, promotion, or new responsibilities (42% of women vs 33% of men). Half of mid-career respondents agree working part-time would hinder career progression. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
 
 ## 📈 How the evidence is moving
 
@@ -26,6 +30,10 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | Parenthood penalty: 41% of mid-career respondents say children hinder leadership/promotion; 50% say part-time work slows progression | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
+| 2026-11-04 | Caregiving is the top barrier (45% women vs 29% men); 42% of women say caregiver/flex support would matter most — cybersecurity | ⬆️ | ISC2, Women in Cybersecurity study, Mar 2026 |
+| 2026-11-04 | Childcare access 27%; 14% may give up work over cost; 3+ year caring breaks return 30% same level/pay, 23% lower; domestic load 51% vs 5% | ⬆️ | Deloitte, Women @ Work 2026 |
+| 2026-11-04 | Personal obligations block extra work for ~25% of women vs 15% of men; women with partners 3x as likely to carry all/most housework | ⬆️ | McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025 |
 | 2026-11-02 | 42% considered cutting hours, stepping away, or quitting in the past 12 months; 52% at ages 35-44; burnout 57%, childcare 54% | ⬆️ | Web Summit Gender in Tech 2026, via TechTimes, Oct 28, 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 

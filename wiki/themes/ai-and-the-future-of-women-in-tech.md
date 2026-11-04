@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # 🤖 AI and the future of women in tech
@@ -21,6 +21,11 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 - **Prompt register:** prompts carrying women-associated linguistic features (hedges, tag questions, collective reference, expressive adjectives) elicited shorter, less sophisticated, less formal responses across three document types and four models (GPT-4, Llama, Gemma, Mistral); effects persisted after controlling for prompt complexity and style carry-over, and a male sign-off name had virtually no effect. *(Van Koevering & Field, Johns Hopkins, "It's How You Ask: Gender-Associated Linguistic Bias in LLMs", COLM 2026; JHU Hub, Sept 21, 2026)*
 - **LLM-as-judge, preliminary:** in a partial GPT-4-only judge run (105 comparisons), the male-associated prompt output was chosen as more competent in 69.4% of decided comparisons and smarter in 68.3%; the judge tied most of the time (67 ties on competence). The authors call the analysis partial and single-sample. *(same paper, Table 7)*
 - **Automation risk, uneven:** 21% of women's employment is in high-automation-risk occupations vs 10% of men's; 9% of women's jobs vs 13% of men's are projected to grow with AI. Scenario analysis grounded in the Richmond AI Jobs Transition Framework, not predictions; the authors caution the framework may overstate substitution risk. *(Philadelphia Fed, "Which Workers Are Most Vulnerable to AI Disruption?", circulated Oct 30, 2026; BLS OEWS + ACS PUMS data)*
+- **AI encouragement gap, entry level (US/Canada):** only 21% of entry-level women are encouraged by their manager to use AI, vs 33% of men at the same level — and only 37% of entry-level women believe AI will improve their career prospects, vs 60% of employees overall. *(McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025)*
+- **Europe's AI triple threat:** women fell to 19% of core tech roles (representation, not pay). Women in entry-level product development and software engineering saw the largest demand declines from 2024 to 2025 (−17% and −13%); AI, data, and analytics is the only job family with rising entry-level demand, up 11% for men and 7% for women. *(McKinsey, Women in Tech and AI in Europe, Mar 5, 2026)*
+- **AI anxiety (global, all sectors):** 57% of women are concerned AI may replace their job, and 58% are concerned about their ability to learn the new skills needed for future job security. *(Deloitte, Women @ Work 2026; 7,500 women, 15 countries, fieldwork May–June 2026)*
+- **AI skills (cybersecurity):** AI was the most pressing skills need cited (41% of respondents). Women participants were more likely than men to report significant knowledge of AI and machine learning (27% vs 17%), and more likely to have considered changing careers to prepare for an AI-driven future (27% vs 17%). *(ISC2, Women in Cybersecurity study, Mar 2026; 16,029 respondents — cybersecurity only)*
+- **AI experimentation (Australia):** 77% of respondents say their workplace encourages them to experiment with new tools or technologies, including AI. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
 
 ## 📈 How the evidence is moving
 
@@ -28,6 +33,11 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | 77% encouraged to experiment with AI at work (Australia) | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
+| 2026-11-04 | AI is the most pressing skills need (41%); women report more significant AI/ML knowledge than men (27% vs 17%) yet more often consider changing careers for AI (27% vs 17%) — cybersecurity | ⬆️ | ISC2, Women in Cybersecurity study, Mar 2026 |
+| 2026-11-04 | 57% concerned AI may replace their job; 58% concerned about learning new skills for future job security | ⬆️ | Deloitte, Women @ Work 2026 |
+| 2026-11-04 | Entry-level demand fell hardest where women sit (−17% product, −13% software eng); AI/data/analytics entry demand rose 11% men, 7% women; core tech representation 19% | ⬆️ | McKinsey, Women in Tech and AI in Europe, Mar 2026 |
+| 2026-11-04 | AI encouragement gap at entry level: 21% of women vs 33% of men encouraged by managers to use AI; AI optimism 37% vs 60% | ⬆️ | McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025 |
 | 2026-11-03 | Eptura names Nuala Larkin its first Chief AI Officer (new C-suite seat); she previously led its AI Center of Excellence and Frontier Firm transformation | ⬆️ | Business Wire, Nov 2, 2026 |
 | 2026-11-02 | Philadelphia Fed (Richmond framework): 21% of women's jobs in high-automation-risk occupations vs 10% of men's; 9% vs 13% in AI-growth occupations — scenario analysis, not predictions | ⬆️ | Philadelphia Fed, circulated Oct 30, 2026 |
 | 2026-11-02 | JHU: women-associated prompt features drew shorter, less sophisticated, less formal outputs across 4 models; names had virtually no effect; LLM judge picked male-associated output as more competent in 69.4% of decided comparisons (preliminary, mostly ties) | ⬆️ | Van Koevering & [[anjalie-field\|Field]] (COLM 2026), via JHU Hub Sept 21, 2026; Korn Ferry Nov 2, 2026 |

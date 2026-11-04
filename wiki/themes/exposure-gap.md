@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "3.4"
 sources: ["[[toast-gender-equity-2026]]", "[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # 💼 The exposure gap: women get relationships, men get resources
@@ -19,6 +19,7 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 - **Same strategic input:** 61.4% of women vs 60.8% of men. *(same source)*
 - **4.6, the parallel outside tech:** women ministers hold about 1 in 10 high-influence portfolios, and men are nearly twice as likely to lead one (17.5%). *(WEF 2026, Section 2.3)* This is government, not tech, but the WEF itself draws the parallel: women have gained more roles but not more influence.
 - **5.4:** when budget and headcount are at stake, the default goes to men (see 3.4).
+- **Low-influence roles (Europe):** women make up 39% of product management roles and 53% of design roles — but those jobs are only 10% and 5% of the tech workforce and rarely lead to the C-suite, so women have less influence over the direction of AI and tech. Women also receive 44% more requests to volunteer for unrecognized "office housework" tasks, averaging 200 extra hours a year on work that doesn't advance their careers. *(McKinsey, Women in Tech and AI in Europe, Mar 5, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -26,6 +27,7 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | Women concentrated in low-influence roles (39% product, 53% design); 44% more volunteer requests, +200 hrs/year of unrecognized work | ⬆️ | McKinsey, Women in Tech and AI in Europe, Mar 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 
 ## 🎨 From the original research

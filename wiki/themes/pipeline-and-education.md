@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "2.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # 🎓 Pipeline and education: fewer women start in tech
@@ -17,6 +17,10 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 - **2.1:** in tech, women hold 38.9% of entry-level roles, below the 46% average across all industries. *(WEF 2026, Table 2.1)*
 - Of the 117 countries with data, only one, Botswana, graduates more women than men in STEM. *(WEF 2026, Section 1.4)*
 - **3.1, new AI roles:** women hold 45% of data annotator roles and 19% of AI engineer roles. Data annotators earn less than the median non-AI job. *(WEF 2026, Figure 2.10)*
+- **Europe, representation falling (not pay):** women fell from 22% of core tech roles in McKinsey's previous report to 19% today. Tech-degree graduation rose (33% of bachelor's, 39% of PhDs), but the pipeline from graduation to tech roles fell 20 percentage points. Representation keeps falling with seniority: 13% of management roles, 8% of senior management. *(McKinsey, Women in Tech and AI in Europe, Mar 5, 2026)*
+- **Seeing no one like her (cybersecurity):** 24% of women in entry- and junior-level roles rarely or never see women in leadership or technical positions, vs 15% of men; overall 83% of participants reported seeing women in leadership and/or technical roles. *(ISC2, Women in Cybersecurity study, Mar 2026; 16,029 respondents — cybersecurity only, perception-based)*
+- **The youngest name the culture first (Australia):** perceptions of an entrenched boys' club inverted with seniority — 39% of early-career (Foundation) respondents agree one exists, vs 35% overall; in 2025 the pattern ran the other way (16% entry-level to 36% C-suite). 47% of all respondents have considered leaving tech. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia. The report's foreword states 43% for early-career respondents — a different cut from the 39% Foundation figure; both are the report's own words.)*
+- **Ambition starts high, belief lags (US, Gen Z, all sectors):** 58% of Gen Z women vs 74% of Gen Z men want a senior executive role; 26% of Gen Z women are "maybes" who would consider leadership under the right circumstances (vs 17% of men). Only 43% of Gen Z women believe workplaces genuinely want women in senior leadership (vs 56% of men). *(LeanIn.Org, Gen Z Women and Leadership factsheet, Apr 2026; 3,007 US adults, May 5–19, 2026 — general workforce, not tech-only)*
 
 ## 📈 How the evidence is moving
 
@@ -24,6 +28,10 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | Gen Z ambition 58% vs 74%; only 43% of young women believe companies want women leaders; 26% are persuadable "maybes" — general workforce | ⬆️ | LeanIn.Org, Gen Z factsheet, Apr 2026 |
+| 2026-11-04 | Boys'-club perceptions inverted to early career (39% Foundation vs 35% overall); 47% have considered leaving tech | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
+| 2026-11-04 | 24% of entry/junior women rarely or never see women in leadership or technical roles vs 15% of men — cybersecurity, perception-based | ⬆️ | ISC2, Women in Cybersecurity study, Mar 2026 |
+| 2026-11-04 | Core tech representation 22% → 19%; degree-to-workforce pipeline fell 20 points even as women's STEM graduation rose; 13% management, 8% senior management | ⬆️ | McKinsey, Women in Tech and AI in Europe, Mar 2026 |
 | 2026-11-02 | 97% of Chicago public school students graduated with at least one computer science class, by Wilkerson's account of Computer Science for All's reach (interview; date not shown on the page as read) | ⬆️ | Interviews with Fotis Georgiadis / Candice Georgiadis |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 

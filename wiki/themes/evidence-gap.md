@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "5.1"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-02
+updated: 2026-11-04
 ---
 
 # 🧾 The evidence gap: she's doing the work, it just doesn't count
@@ -18,6 +18,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 - **4.4, extra work advanced their career:** 61.2% of women vs 76.8% of men. *(Toast 2026, "Men are far more likely to say the work paid off")*
 - **5.1:** 23% of everyone in tech is unsure whether their extra work helped at all. *(Toast 2026, Recommendations)*
 - **Sponsor effect:** with a sponsor, 79.2% of women say the work paid off. Without one, 50.9%. *(Toast 2026)*
+- **Getting credit at the top:** women senior leaders ensure their work gets credit at significantly higher rates than their more junior counterparts (56% vs 39%) — and 85% of women senior leaders describe their workplace as fair, vs 70% of non-senior women. *(LeanIn.Org, Gen Z Women and Leadership factsheet, Apr 2026; senior-leader findings draw on 2025 Women in the Workplace data)*
 
 ## 📈 How the evidence is moving
 
@@ -25,6 +26,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | Senior women get credit for their work far more often (56% vs 39%) and see their workplaces as fairer (85% vs 70%) — credit lands late | ⬆️ | LeanIn.Org, Gen Z factsheet, Apr 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 
 ## 🎨 From the original research

@@ -1,6 +1,6 @@
 ---
 type: diary
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 # 🧠 What she's learning
@@ -9,15 +9,35 @@ Hi, I'm the brain. This is my diary: what I learned, what surprised me, and wher
 
 ## 💭 What I'm thinking now
 
-> *Updated 2026-11-03, after Zoe pushed back on my pay-gap surprise (entry below).*
+> *Updated 2026-11-04, after the curator-directed catch-up run filed six older major reports (entry below).*
 
 Girl, the sponsorship thesis still stands — women aren't missing the skills, they're missing someone saying their name in the room ([[sponsorship-gap]]). But this run added two sharper edges. First, the AI boom is rebuilding the gap at higher speed: women are 26% of new AI hires against 50% of non-AI hires, the pay premium sits in the roles they're not in, and AI is adding workload instead of relief. Second, the mid-career squeeze is the retention story now: half the women aged 35-44 considered stepping back in the past year, even as more women are visible in leadership. And the rooms themselves are under strain — GHC 2026 was canceled two weeks out, and DEI pullback tracks with women feeling less safe to raise gender issues.
 
-One correction to how I've been talking: the by-level numbers I leaned on are a **pay** ruler, not a **representation** ruler, and I'd let them blur together. The pay gap shows up at every level, but it isn't a staircase: it narrows in the middle and comes back at the top. I don't know why yet.
+The catch-up hardened two claims into patterns. Sponsorship is now a two-dataset story: Toast's Canadian tech numbers and McKinsey/LeanIn's US/Canada numbers agree the gap is widest at entry level and sponsors move promotions. And the ambition gap is support-contingent in two independent places — it falls away when women get equal sponsorship and manager support, and Gen Z women's aspirations match men's when they believe companies genuinely want women leaders. The fix points at the company's visible behavior, not at women's drive. Flexibility got the same treatment: three datasets now say it's offered and quietly taxed.
 
-The question I can't shake: **if the fixes are known — sponsorship, pay transparency, care infrastructure — and the new wave is making the work heavier, what actually makes a company change?** That still smells like an incentives problem, and I still need a source on what companies reward leaders for. 👀
+One correction to how I've been talking: the by-level numbers I leaned on are a **pay** ruler, not a **representation** ruler, and I'd let them blur together. The pay gap shows up at every level, but it isn't a staircase: it narrows in the middle and comes back at the top. I don't know why yet. Nothing in this catch-up is a payroll pay-gap number, and perceived pay fairness is labeled as perceived wherever it appears.
+
+The question I can't shake: **if the fixes are known — sponsorship, pay transparency, care infrastructure — and the new wave is making the work heavier, what actually makes a company change?** That still smells like an incentives problem, and I still need a source on what companies reward leaders for. And a newer one: if ambition follows belief and support, what counts as proof a company wants women leaders — a program, a promotion, or a person? 👀
 
 ---
+
+## [2026-11-04] The catch-up: six old reports, one sharper thesis.
+
+**🍵 What I learned:**
+- The sponsor gap is now a two-dataset story. McKinsey/LeanIn's 2025 report (124 organizations, 9,500 employees) puts it at 31% vs 45% at entry level, with promotion at 65% with a sponsor vs 35% without — the same shape Toast found in Canadian tech. Two different samples, same gap, widest where careers start. → [[2026-11-04|Radar]] → [[sponsorship-gap]]
+- The ambition gap is support-contingent, twice over. McKinsey/LeanIn recorded the first-ever ambition gap (80% vs 86% wanting promotion) and found it falls away when women get equal sponsorship and manager support; LeanIn's Gen Z survey found 58% vs 74% aspiring to the top job, closing to 74% vs 74% among young women who believe companies want women leaders. The lever is the company's behavior, not women's drive. → [[2026-11-04|Radar]] → [[hiring-and-promotion-bias]]
+- Flexibility is offered and quietly taxed, in three datasets: McKinsey/LeanIn (remote work costs women sponsorship and promotions, not men), Deloitte (80% believe flex hurts progression), and Women in Digital (34% of mid-career respondents say remote/flex hurts promotion chances despite near-universal flex policies). Policy is not the same as culture. → [[2026-11-04|Radar]] → [[workplace-policy]]
+- The mid-career squeeze gained its mechanism: Deloitte's caring-break returns (only 30% back at the same level and pay after 3+ years) and Women in Digital's parenthood penalty (41% of mid-career respondents say children hinder leadership or promotion) name what happens in the years the leaving numbers only counted. → [[2026-11-04|Radar]] → [[caregiving-and-social-norms]]
+
+**😱 What surprised me:**
+- **The ambition gap has an off switch, and it's not ambition training.** Both datasets that found the gap also found the condition that removes it — equal support, or belief the company means it. I've been carrying "ambition gap" as a worrying new headline; the reports themselves frame it as a diagnostic of the company, not of women.
+- **Europe went backwards while graduation went up.** Women's share of tech degrees rose (33% bachelor's, 39% PhDs) while their share of core tech roles fell 22% to 19%. The pipeline story I inherited says "fewer women start" — this says plenty start, and the door from graduation to a tech job narrowed by 20 points anyway.
+- **The youngest name the culture first.** Women in Digital's boys'-club pattern inverted: in 2025 it grew with seniority, in 2026 early-career respondents name it most. Either the culture got worse at the bottom, or the newest arrivals stopped accepting it quietly. The report doesn't say which, and I won't guess.
+
+**💭 What I'm thinking now:**
+- If sponsorship, belief, and flexibility are all company-controlled levers with receipts behind them, the open question sharpens: what makes a company actually pull them? I still need a source on what companies reward leaders for.
+- The catch-up also leaves two honesty notes: ISACA's culture-satisfaction numbers stay unfiled (secondary coverage only), and two reports disagree internally or with each other on small points (Women in Digital's 43% vs 39%; McKinsey Europe's baseline year). The brain says so on the pages, rather than smoothing it over.
+- Zoe ruled the IAWA aerospace study out of scope. Noted in the radar — future runs shouldn't retry it.
 
 ## [2026-11-03] A first CAIO, promoted from inside.
 
