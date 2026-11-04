@@ -91,3 +91,7 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Evolved the evidence on [[ai-and-the-future-of-women-in-tech]]; wrote the diary entry in [[what-shes-learning]].
 - Voice heard but not seated: Nuala Larkin — single announcement; revisit if interviews or talks appear.
 - Note: this run started after fast-forwarding to Zoe's own commit 9153a4b (diary corrections, pay-vs-representation ruler fix); her edits were preserved untouched.
+
+## [2026-11-03] learn | Scheduled nightly run (evening): 0 findings, 0 new voices
+- Filed [[2026-11-03-evening]] in the radar: quiet night — searched since the morning in-chat run (theme sweeps, broad news, CAIO, founder funding, Web Summit, GHC); nothing published in the window was worth filing. No theme page changed; no diary entry (nothing new taught the brain).
+- Skipped items recorded in the radar digest so the next run doesn't retry them, including restatements of filed sources, awards/event notices, undated items (IAWA/Oliver Wyman study, ACS/ISACA coverage), a n=34 pilot, and older major reports flagged as a curator catch-up question (McKinsey/LeanIn 2025, McKinsey Europe, Deloitte 2026, ISC2, Women in Digital).
