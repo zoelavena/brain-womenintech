@@ -33,6 +33,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | WEF 3 Work Trends #143: "knowledge guilds" proposed so experts training AI keep a stake in the value their knowledge creates (proposals only); entry-level AI exposure raises the experience question — general workforce, no gender breakdown | ⬆️ | WEF, 3 Work Trends Issue 143, Nov 4, 2026 |
 | 2026-11-04 | 77% encouraged to experiment with AI at work (Australia) | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
 | 2026-11-04 | AI is the most pressing skills need (41%); women report more significant AI/ML knowledge than men (27% vs 17%) yet more often consider changing careers for AI (27% vs 17%) — cybersecurity | ⬆️ | ISC2, Women in Cybersecurity study, Mar 2026 |
 | 2026-11-04 | 57% concerned AI may replace their job; 58% concerned about learning new skills for future job security | ⬆️ | Deloitte, Women @ Work 2026 |

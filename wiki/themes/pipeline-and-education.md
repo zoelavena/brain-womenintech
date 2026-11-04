@@ -28,6 +28,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | WEF 3 Work Trends #143: AI taking entry-level tasks raises how the next generation gains expert experience; youth programmes need reach, job-connected prep, and first-weeks support — general workforce, no gender breakdown | ⬆️ | WEF, 3 Work Trends Issue 143, Nov 4, 2026 |
 | 2026-11-04 | Gen Z ambition 58% vs 74%; only 43% of young women believe companies want women leaders; 26% are persuadable "maybes" — general workforce | ⬆️ | LeanIn.Org, Gen Z factsheet, Apr 2026 |
 | 2026-11-04 | Boys'-club perceptions inverted to early career (39% Foundation vs 35% overall); 47% have considered leaving tech | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
 | 2026-11-04 | 24% of entry/junior women rarely or never see women in leadership or technical roles vs 15% of men — cybersecurity, perception-based | ⬆️ | ISC2, Women in Cybersecurity study, Mar 2026 |

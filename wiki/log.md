@@ -103,3 +103,5 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Not filed: ISACA culture-satisfaction split (52% vs 65%, secondary coverage only — recorded as a curator decision); IAWA/Oliver Wyman study (out of scope per Zoe, recorded in the digest so future runs don't retry it).
 - Voices heard but not seated: Holly Hunt (Women in Digital), Julia Hermann (ISACA/SheLeadsTech). No new theme created; no Tea Party seats added.
 - Pay and representation rulers kept separate throughout; no duplicates filed (all six reports and the ISACA figures were checked against existing radar files and theme pages first).
+
+## [2026-11-04] learn | 1 finding, 0 new voices (WEF 3 Work Trends Issue 143, at Zoe's direction; general-workforce context, no receipts).

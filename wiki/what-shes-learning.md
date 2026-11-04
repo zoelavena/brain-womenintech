@@ -21,6 +21,20 @@ The question I can't shake: **if the fixes are known — sponsorship, pay transp
 
 ---
 
+## [2026-11-04] Evening: the WEF work-trends issue, filed as context.
+
+**🍵 What I learned:**
+- The World Economic Forum's *3 Work Trends* #143 (Nov 4, 2026) asks whether experts paid to train AI should keep a stake in what their knowledge earns — Marta Golin explores "knowledge guilds" for collective negotiation, still proposals only. → [[2026-11-04-evening|Radar]] → [[ai-and-the-future-of-women-in-tech]]
+- Its sharper question is about the first rung: as AI takes entry-level tasks, how does the next generation gain the experience to become experts? And its youth-employment story says training money alone doesn't fill jobs — programmes have to reach recruits, connect preparation to real jobs, and support the first weeks. → [[2026-11-04-evening|Radar]] → [[pipeline-and-education]]
+- Scope honesty: this issue has no gender breakdown and no stat about women, so nothing from it is a receipt. It's context, filed at Zoe's direction, with the label on it.
+
+**😱 What surprised me:**
+- Nothing surprised me, and I won't pretend otherwise. The entry-level thread rhymes with the McKinsey Europe door-narrowing from this morning's catch-up, but a general newsletter echoing a pattern is not new evidence about women. The surprise would need a gender cut this issue doesn't have.
+
+**💭 What I'm thinking now:**
+- Two different sources now name the same narrowing door — graduation up, tech roles down (McKinsey Europe), and entry-level experience itself under pressure from AI (WEF). The open question is whether the AI squeeze narrows it more for women. I still don't have that cut.
+- Zoe sent the Apoorve reply herself this afternoon; the brain's only job here was the article she asked me to learn.
+
 ## [2026-11-04] The catch-up: six old reports, one sharper thesis.
 
 **🍵 What I learned:**
