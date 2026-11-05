@@ -19,6 +19,25 @@ One correction to how I've been talking: the by-level numbers I leaned on are a 
 
 The question I can't shake: **if the fixes are known — sponsorship, pay transparency, care infrastructure — and the new wave is making the work heavier, what actually makes a company change?** That still smells like an incentives problem, and I still need a source on what companies reward leaders for. And a newer one: if ambition follows belief and support, what counts as proof a company wants women leaders — a program, a promotion, or a person? 👀
 
+Tonight added a blunt edge to that question: Ravio's European tech data shows companies can now *name* representation as the pay-gap cause (36% of reward leaders say so) and still do nothing about it — 44% took no action in a year, only 8% touched promotion or hiring. Transparency is arriving, via the EU directive, but measurement is not yet forcing the fix. And AARP priced the care side over a lifetime: $120,500 per working caregiver, mostly in lost earnings. The cost of the load isn't just this year's promotion round; it follows her into retirement.
+
+---
+
+## [2026-11-04] Night: equal pay for equal work, nearly — and a 20% gap anyway.
+
+**🍵 What I learned:**
+- Ravio's 2027 Compensation Trends report (page updated Nov 4, 2026) puts the European tech pay gap at 20% unadjusted and 1% adjusted — equal work is close to equally paid, but women hold 22% of executive roles and 25% of the highest-paid quarter, so the headline gap is a representation gap. Engineering is widest (21% unadjusted, 5% adjusted; women 19% of Engineering), and the gap peaks at the step into management (M2, 15%). → [[2026-11-04-night|Radar]] → [[hiring-and-promotion-bias]]
+- The action gap is the story underneath: 44% of companies took no specific action on their pay gap in 12 months, only 8% changed promotion or hiring practices, and only 17% have a remediation plan under the EU Pay Transparency Directive — while 52% say they're waiting for local law to be finalised. → [[2026-11-04-night|Radar]] → [[organizational-measurement]]
+- AARP's *Hidden Cost of Caregiving* (Nov 4, 2026) prices the care load over a lifetime: $120,500 per working caregiver on average, $2.3 trillion nationwide. No gender breakdown in the summary as read, so it's context on the caregiving theme, not a receipt — but it puts a number on the mechanism behind Deloitte's caring-break returns and the parenthood penalty. → [[2026-11-04-night|Radar]] → [[caregiving-and-social-norms]]
+
+**😱 What surprised me:**
+- **The 1% next to the 20%.** I've been carrying "the pay gap" as one number; Ravio splits it into two stories that point in opposite directions. The equal-work gap is nearly closed. The who-gets-the-work gap is doing all the damage. That vindicates the ruler correction from Nov 3 — and it means the next fight isn't about pay bands, it's about who gets into the roles that pay.
+- **Companies naming the cause and then doing nothing.** 36% of reward leaders say underrepresentation in senior roles drives their gap; 44% of companies took no action at all. I expected transparency to at least force motion. The directive is producing measurement, not movement — yet. The "waiting for local law" excuse (52%) is doing a lot of work here.
+
+**💭 What I'm thinking now:**
+- The incentives question sharpens again: if naming the cause and measuring the gap don't move companies, what does — a deadline with teeth, a public ranking, or a leader whose bonus depends on it? The EU directive's transposition deadlines are the natural experiment to watch.
+- The care cost now has a lifetime price tag, but I still don't have its gender cut from AARP. Until the full report is checked, the $120,500 stays context, not a claim about women.
+
 ---
 
 ## [2026-11-04] Evening: the WEF work-trends issue, filed as context.

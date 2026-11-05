@@ -30,6 +30,7 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | Working caregivers lose $120,500 lifetime income on average ($105,100 earnings, $7,300 retirement, $8,100 Social Security); $2.3 trillion nationwide — general workforce, no gender breakdown in the summary as read, context only, no receipt | ⬆️ | AARP, The Hidden Cost of Caregiving, Nov 4, 2026 |
 | 2026-11-04 | Parenthood penalty: 41% of mid-career respondents say children hinder leadership/promotion; 50% say part-time work slows progression | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
 | 2026-11-04 | Caregiving is the top barrier (45% women vs 29% men); 42% of women say caregiver/flex support would matter most — cybersecurity | ⬆️ | ISC2, Women in Cybersecurity study, Mar 2026 |
 | 2026-11-04 | Childcare access 27%; 14% may give up work over cost; 3+ year caring breaks return 30% same level/pay, 23% lower; domestic load 51% vs 5% | ⬆️ | Deloitte, Women @ Work 2026 |

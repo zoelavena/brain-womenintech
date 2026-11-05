@@ -17,6 +17,7 @@ More people are *unsure* whether they can advance where they are than people who
 - **4.3:** 32% of people in tech are unsure whether they can advance where they are, more than the 19% who believe they must leave. *(Toast 2026, Recommendations)*
 - **2.2:** 1 in 4 women believe they must leave to advance (25.4%), vs 1 in 10 men (10.7%). *(Toast 2026, "The Must Leave Belief")*
 - **No realistic path (US/Canada):** among senior-level employees who don't want to advance, 11% of women see no path to promotion that feels realistic, vs 3% of men; 18% of senior women have been passed over for promotions (vs 12% of men), and 21% think more senior people are burned out or unhappy (vs 11%). *(McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025)*
+- **Naming the cause, skipping the fix (European tech):** 44% of companies took no specific action on their gender pay gap in the last 12 months; only 8% changed promotion or hiring practices, though 36% of People and Reward leaders named underrepresentation in senior roles as the top driver. Only 30% have calculated and documented their gap by worker category and 17% have a remediation plan under the EU Pay Transparency Directive. *(Ravio, Compensation Trends 2027, page updated Nov 4, 2026; survey of 150 People and Reward Leaders)*
 
 ## 📈 How the evidence is moving
 
@@ -24,6 +25,7 @@ More people are *unsure* whether they can advance where they are than people who
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-04 | Companies name representation as the pay-gap cause (36%) but 44% took no action in 12 months; only 8% changed promotion/hiring; 30% have documented their gap by worker category, 17% have a remediation plan | ⬆️ | Ravio, Compensation Trends 2027, Nov 4, 2026 |
 | 2026-11-04 | Senior women who don't want to advance: 11% see no realistic path (vs 3% of men); 18% passed over for promotions (vs 12%) | ⬆️ | McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 

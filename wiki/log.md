@@ -105,3 +105,10 @@ Append-only. Newest at the bottom. Format: `## [YYYY-MM-DD] operation | title`
 - Pay and representation rulers kept separate throughout; no duplicates filed (all six reports and the ISACA figures were checked against existing radar files and theme pages first).
 
 ## [2026-11-04] learn | 1 finding, 0 new voices (WEF 3 Work Trends Issue 143, at Zoe's direction; general-workforce context, no receipts).
+
+## [2026-11-04] learn | Scheduled nightly run (night): 2 findings, 0 new voices
+- Filed [[2026-11-04-night]] in the radar: Ravio Compensation Trends 2027 (European tech pay gap 20% unadjusted / 1% adjusted, Engineering 21%/5%, M2 peak 15%, executives 22% women; action gap — 44% no action, 8% changed promotion/hiring, 17% remediation plan) and AARP The Hidden Cost of Caregiving ($120,500 lifetime loss per working caregiver, $2.3T nationwide; general-workforce context, no gender breakdown in the summary as read, no receipt).
+- Evolved the evidence on [[hiring-and-promotion-bias]], [[organizational-measurement]], and [[caregiving-and-social-norms]]; wrote the diary entry in [[what-shes-learning]] and added a paragraph to "What I'm thinking now" (transparency producing measurement, not movement, yet).
+- Voices heard but not seated: Liis Reitz, Matt McFarlane, Andreea Lupu, Becky Hewson-Haworth (Ravio pay-transparency quotes, single quotes each). No new theme created; no Tea Party seats added.
+- Skipped and recorded in the digest: ACS/ISACA authority and culture-split coverage (secondary only, standing rule); Edward Jones/Age Wave caregiving study (secondary only); FinTech Magazine appointments, AI & Software Report awards list, HerAnova award (notices/lists, standing skip); Harvard Shorenstein Are Women Being Left Out of AI? (Oct 14, 2026 — outside the nightly window, flagged as a curator catch-up question).
+- Note: Ravio page discrepancy recorded, not smoothed over — article body cites 1,600+ companies, source line cites 1,800+ companies and 618,000+ datapoints.
