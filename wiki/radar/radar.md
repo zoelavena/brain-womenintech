@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # 🛰️ The radar
@@ -27,3 +27,4 @@ SORT file.name DESC
 - [[2026-11-04]] — curator-directed catch-up run at Zoe's direction: 7 findings, 0 new voices. Filed McKinsey/LeanIn Women in the Workplace 2025, McKinsey Women in Tech and AI in Europe, Deloitte Women @ Work 2026, ISC2 Women in Cybersecurity, Women in Digital Driving Change in Tech 2026, and the LeanIn Gen Z factsheet, plus an ISACA enrichment (burnout 64% vs 57%) — all verified at primary sources, onto all 9 themes. IAWA aerospace study recorded out of scope per Zoe.
 - [[2026-11-04-evening]] — evening run at Zoe's direction: 1 finding, 0 new voices. WEF 3 Work Trends Issue 143, filed as general-workforce context (no gender breakdown, no receipts) onto the pipeline and AI themes.
 - [[2026-11-04-night]] — scheduled nightly run: 2 findings, 0 new voices. Ravio Compensation Trends 2027 (European tech pay gap 20% unadjusted / 1% adjusted; action gap: 44% no action, 8% changed promotion/hiring) onto hiring-and-promotion-bias and organizational-measurement; AARP Hidden Cost of Caregiving ($120,500 lifetime loss per working caregiver, general-workforce context, no receipt) onto caregiving-and-social-norms. Harvard Shorenstein AI report (Oct 14) flagged as a curator catch-up question.
+- [[2026-11-05]] — scheduled nightly run: 3 findings, 0 new voices. Ensono Speak Up 2026 (70% advanced/expert AI skills, 42% more work in less time, 87% burnout; 92% in-person visibility matters, 53% more in-office days, caregiving leading in-office challenge 49%; 83% aspire to exec leadership, 43% content where they are) onto the AI, workplace-policy, caregiving, and hiring-and-promotion-bias themes; Banking Tech Awards 2026 nominees (Chatterjee, Masood, Gao on gatekeeping, sponsorship by name, retention in emerging markets) onto hiring-and-promotion-bias, sponsorship-gap, and pipeline; Commonwealth pushback report ($1.18B, 2019–2023) filed as 🌱 Didn't fit — general gender equality, no receipt. Curator decisions: seat Chatterjee?, track the pushback as context?, Victorian Women's Trust Gender and AI (Oct 2026) catch-up?
