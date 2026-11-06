@@ -57,6 +57,8 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 **[[anjalie-field|Anjalie Field]]**, Johns Hopkins computer scientist, on whose side of the model bias research looks: most earlier work examined bias in what models produce; her prompt-register study asked how models perform for different users — and found women-associated prompt language drew weaker drafts from every chatbot tested. "If you prompt a model to write an email you're going to send to someone else at your company, and you're using language features that women more commonly use, you'll get back a response that's less complex, at a lower grade level, and less formal." *(JHU Hub, Sept 21, 2026)*
 
+**[[julie-chatterjee|Julie Chatterjee]]**, group CEO of Northmill Bank, on who gets to build with the new tools: she has driven AI across software development, internal operations and customer services — 2,000+ tailored welcome journeys, plus an AI-literacy push so employees across functions gain the skills to use the technology. "When organisations break down technical gatekeeping and give women across all functions the confidence to build with new technology, we naturally create a stronger pipeline into executive roles." *(FinTech Futures, Nov 5, 2026)*
+
 _More voices wanted: women building AI, leading AI teams, or researching how AI changes hiring and promotion for women._
 
 ## 💔 Why it matters

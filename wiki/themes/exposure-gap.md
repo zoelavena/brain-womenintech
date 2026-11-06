@@ -40,6 +40,7 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 _No guest here yet. Look for stories of women steered into people or program roles, or who fought to own a budget or P&L._
 - Related: [[anita-borg|Anita Borg]]'s conferences and networks were early *exposure* infrastructure, putting women's technical work on stage.
 - **[[brenda-darden-wilkerson|Brenda Darden Wilkerson]]** on AI hiring: companies recruit "through the same networks, the same referrals, the same filters that they've always used" — "generally, that's not given women the same sort of exposure they should have." *(TechTimes, Oct 5, 2026, reporting LinkedIn research)*
+- **[[julie-chatterjee|Julie Chatterjee]]** on technical gatekeeping as rationed exposure: the pipeline into executive roles gets built when women across all functions get the confidence to build with new technology — the technical work itself is the resource, and gatekeeping decides who gets it. *(FinTech Futures, Nov 5, 2026)*
 
 ## 💔 Why it matters
 

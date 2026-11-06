@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-11-02
+updated: 2026-11-05
 ---
 
 # ☕ The Tea Party
@@ -18,6 +18,7 @@ You'll find them all through the research, too. Whenever a theme or a tree node 
 | 📣 advocate | [[reshma-saujani\|Reshma Saujani]] | Girls Who Code, "bravery, not perfection" | [[pipeline-and-education]], [[evidence-gap]] |
 | 📣 advocate | [[brenda-darden-wilkerson\|Brenda Darden Wilkerson]] | President & CEO of AnitaB.org; Computer Science for All | [[pipeline-and-education]], [[exposure-gap]], [[sponsorship-gap]] |
 | 🔬 researcher | [[anjalie-field\|Anjalie Field]] | Studying how AI performs for different people | [[ai-and-the-future-of-women-in-tech]], [[hiring-and-promotion-bias]] |
+| 📣 advocate | [[julie-chatterjee\|Julie Chatterjee]] | Group CEO of Northmill Bank; breaking down technical gatekeeping | [[ai-and-the-future-of-women-in-tech]], [[exposure-gap]], [[sponsorship-gap]] |
 
 ```dataview
 TABLE seat AS "Seat", known_for AS "Known for", why_ids AS "Tree nodes"

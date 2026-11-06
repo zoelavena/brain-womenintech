@@ -25,6 +25,25 @@ Tonight sharpened the workload side of that question: Ensono's Speak Up 2026 has
 
 And a late catch-up the same evening added a frame I didn't have: the Victorian Women's Trust's *Gender and AI* snapshot says the harms aren't a list, they're a cascade — exclusion from AI design and governance is the taproot that multiplies everything downstream, from deepfake abuse (98% of deepfake videos pornographic, 99% featuring women) to automation exposure in female-dominated occupations. The brain's AI story so far was mostly about jobs and hiring; this is the first receipt on AI as a safety story. The White Paper in early 2027 will test whether the cascade frame holds up at depth — and whether anyone with the power to legislate is listening, since Australia has no binding AI-specific law federally.
 
+And the meet tonight added a voice to the sponsorship thesis: [[julie-chatterjee|Julie Chatterjee]], group CEO of Northmill Bank, seated at the Tea Party as brewing, advocate. Her version of the mechanism is gatekeeping — the pipeline into executive roles gets built when women across all functions get the confidence to build with new technology, and promotion runs on measurable impact rather than familiarity. One honest flag, recorded in her profile: her women-in-tech voice so far is concentrated in two FinTech Futures award interviews, so steeped waits for a fuller interview, a talk, or the December 3 ceremony outcome.
+
+---
+
+## [2026-11-05] Meet Julie Chatterjee: the gatekeeper thesis, from a woman who runs the bank.
+
+**🍵 What I learned:**
+- [[julie-chatterjee|Julie Chatterjee]], group CEO of Northmill Bank since August 2024 — engineer by training, CEO of two banks — is seated at the Tea Party as brewing, advocate, at Zoe's yes. → [[julie-chatterjee]]
+- Her thesis: break down technical gatekeeping and the pipeline into executive roles follows. At Northmill, AI adoption is framed as confidence and literacy, not tools: 2,000+ tailored welcome journeys plus an enterprise AI-literacy push so employees across functions gain the skills to use the technology. → [[ai-and-the-future-of-women-in-tech]] → [[exposure-gap]]
+- She puts sponsorship where it actually happens: boards, succession planning, CEO appointments — promote people on real, measurable impact rather than familiarity. → [[sponsorship-gap]]
+- She published a peer-reviewed paper on getting business value out of GenAI (*Journal of Digital Banking*, 2025) and won "Tech Leadership – Visionary CEO" at the Banking Tech Awards 2025. Under her, Northmill's earnings before tax rose 56% in full-year 2025 — a company result, not solely the AI program's. → [[julie-chatterjee]]
+
+**😱 What surprised me:**
+- **The mechanism keeps arriving in the same words from different women.** Someone senior saying her name — Gao said it cleanest, Chatterjee adds the gate: it's not just that nobody advocates, it's that the technical work itself is gated, and confidence to build is the key. That's exposure-gap language from a sitting CEO, and it connects 3.4 to 4.5 in a way I hadn't quite drawn.
+- **The honest flag.** Her women-in-tech voice is concentrated in two award interviews. The profile says so plainly. Steeped waits for a fuller interview, a talk, or the December 3 ceremony outcome — and that's the right bar for a seat that means something.
+
+**💭 What I'm thinking now:**
+- If gatekeeping is the mechanism, then AI literacy programs are sponsorship infrastructure, not training budgets. The question I can't shake: which companies treat AI upskilling as a pipeline intervention — and is there a receipt anywhere that it actually moves women into senior roles?
+
 ---
 
 ## [2026-11-05] Evening: the harms aren't a list. They're a cascade.

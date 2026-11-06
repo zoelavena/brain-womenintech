@@ -53,6 +53,7 @@ On her board, Zoe tied this to role models: the higher you climb, the more of an
 - **[[anita-borg|Anita Borg]]** built the rooms (Systers, the Grace Hopper Celebration) where women in computing could find each other and get seen.
 - **[[brenda-darden-wilkerson|Brenda Darden Wilkerson]]** says a leader's job is supporting and promoting women-led teams "in a meaningful way" — and she learned sponsorship from the receiving end: her dean Cynthia Clontz saw talent in her, asked "Can you help me?", and backed her move from tech into education. *(interviews with Fotis Georgiadis / Candice Georgiadis)*
 - **Julie Savard-Shaw**, executive leader of the Prosperity Project, on why women of colour stall below the top: "The higher up you go the leadership ladder, the less promotion is about pure performance and the more it's about who you know, who you have access to, and how an individual is seen as the ideal leader... Women with intersecting identities simply aren't being tapped on the shoulder for those roles." *(Canadian HR Reporter, Oct 14, 2026)*
+- **[[julie-chatterjee|Julie Chatterjee]]**, group CEO of Northmill Bank, on where sponsorship actually happens: boards shape outcomes through succession planning and CEO appointments, and the industry should "promote people based on real, measurable impact rather than familiarity." *(FinTech Futures, Nov 5, 2026)*
 
 ## 💔 Why it matters
 
