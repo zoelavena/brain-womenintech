@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 🤖 AI and the future of women in tech
@@ -28,6 +28,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 - **AI anxiety (global, all sectors):** 57% of women are concerned AI may replace their job, and 58% are concerned about their ability to learn the new skills needed for future job security. *(Deloitte, Women @ Work 2026; 7,500 women, 15 countries, fieldwork May–June 2026)*
 - **AI skills (cybersecurity):** AI was the most pressing skills need cited (41% of respondents). Women participants were more likely than men to report significant knowledge of AI and machine learning (27% vs 17%), and more likely to have considered changing careers to prepare for an AI-driven future (27% vs 17%). *(ISC2, Women in Cybersecurity study, Mar 2026; 16,029 respondents — cybersecurity only)*
 - **AI experimentation (Australia):** 77% of respondents say their workplace encourages them to experiment with new tools or technologies, including AI. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
+- **Who gets the AI work:** "It isn't so much on who's getting promoted anymore. It's who's getting the AI work," says Lovelace co-author Vanessa Vallely — if women aren't given opportunities on the big AI programmes, "we will just perpetuate the bias in the systems, the processes and the things that we build." *(Prolific North, Nov 4, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -35,6 +36,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-06 | Vallely (Lovelace co-author): "It isn't so much on who's getting promoted anymore. It's who's getting the AI work" — AI is "another massive big risk" to the inequalities the report found; women left off the big AI programmes get pushed "further down the stack" | ⬆️ | Prolific North, Nov 4, 2026 |
 | 2026-11-05 | VWT Gender and AI (Oct 2026): 20 gendered harms mapped as a cascading system; filed filtered to women-in-tech harms — 44% of 133 AI systems gender-biased; 88% of leading AI researchers male; women 30% of global AI workforce; gendered digital exclusion loop (revised Nov 5 per Zoe's direction; deepfake figures removed as out of scope) | ⬆️ | Victorian Women's Trust, Oct 2026 |
 | 2026-11-05 | Ensono Speak Up 2026 (1,500 women in tech, US/UK/India): 70% rate gen-AI skills advanced/expert (experts doubled since 2024), but 42% expected to produce more in less time because of AI; 87% report at least some burnout | ⬆️ | Ensono, Speak Up 2026, Nov 5, 2026 |
 | 2026-11-04 | WEF 3 Work Trends #143: "knowledge guilds" proposed so experts training AI keep a stake in the value their knowledge creates (proposals only); entry-level AI exposure raises the experience question — general workforce, no gender breakdown | ⬆️ | WEF, 3 Work Trends Issue 143, Nov 4, 2026 |
@@ -58,6 +60,8 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 **[[anjalie-field|Anjalie Field]]**, Johns Hopkins computer scientist, on whose side of the model bias research looks: most earlier work examined bias in what models produce; her prompt-register study asked how models perform for different users — and found women-associated prompt language drew weaker drafts from every chatbot tested. "If you prompt a model to write an email you're going to send to someone else at your company, and you're using language features that women more commonly use, you'll get back a response that's less complex, at a lower grade level, and less formal." *(JHU Hub, Sept 21, 2026)*
 
 **[[julie-chatterjee|Julie Chatterjee]]**, group CEO of Northmill Bank, on who gets to build with the new tools: she has driven AI across software development, internal operations and customer services — 2,000+ tailored welcome journeys, plus an AI-literacy push so employees across functions gain the skills to use the technology. "When organisations break down technical gatekeeping and give women across all functions the confidence to build with new technology, we naturally create a stronger pipeline into executive roles." *(FinTech Futures, Nov 5, 2026)*
+
+**[[vanessa-vallely|Vanessa Vallely]]**, co-author of the Lovelace Report, on the question that replaced promotion: "It isn't so much on who's getting promoted anymore. It's who's getting the AI work." Her warning: if women aren't on the big AI programmes, "it's going to push us further down the stack." *(Prolific North, Nov 4, 2026)*
 
 _More voices wanted: women building AI, leading AI teams, or researching how AI changes hiring and promotion for women._
 

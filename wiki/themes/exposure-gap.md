@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "3.4"
 sources: ["[[toast-gender-equity-2026]]", "[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 
 # 💼 The exposure gap: women get relationships, men get resources
@@ -20,6 +20,7 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 - **4.6, the parallel outside tech:** women ministers hold about 1 in 10 high-influence portfolios, and men are nearly twice as likely to lead one (17.5%). *(WEF 2026, Section 2.3)* This is government, not tech, but the WEF itself draws the parallel: women have gained more roles but not more influence.
 - **5.4:** when budget and headcount are at stake, the default goes to men (see 3.4).
 - **Low-influence roles (Europe):** women make up 39% of product management roles and 53% of design roles — but those jobs are only 10% and 5% of the tech workforce and rarely lead to the C-suite, so women have less influence over the direction of AI and tech. Women also receive 44% more requests to volunteer for unrecognized "office housework" tasks, averaging 200 extra hours a year on work that doesn't advance their careers. *(McKinsey, Women in Tech and AI in Europe, Mar 5, 2026)*
+- **AI work as exposure:** the Lovelace co-author warns that if women aren't on the big AI programmes, "it's going to push us further down the stack" — access to AI work is the new version of the exposure gap. *(Prolific North, Nov 4, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -27,6 +28,7 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-06 | Vallely: AI work is the new exposure — women not on the big AI programmes get pushed "further down the stack"; the question is who's getting the AI work, not just who's getting promoted | ⬆️ | Prolific North, Nov 4, 2026 |
 | 2026-11-04 | Women concentrated in low-influence roles (39% product, 53% design); 44% more volunteer requests, +200 hrs/year of unrecognized work | ⬆️ | McKinsey, Women in Tech and AI in Europe, Mar 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 
@@ -41,6 +43,7 @@ _No guest here yet. Look for stories of women steered into people or program rol
 - Related: [[anita-borg|Anita Borg]]'s conferences and networks were early *exposure* infrastructure, putting women's technical work on stage.
 - **[[brenda-darden-wilkerson|Brenda Darden Wilkerson]]** on AI hiring: companies recruit "through the same networks, the same referrals, the same filters that they've always used" — "generally, that's not given women the same sort of exposure they should have." *(TechTimes, Oct 5, 2026, reporting LinkedIn research)*
 - **[[julie-chatterjee|Julie Chatterjee]]** on technical gatekeeping as rationed exposure: the pipeline into executive roles gets built when women across all functions get the confidence to build with new technology — the technical work itself is the resource, and gatekeeping decides who gets it. *(FinTech Futures, Nov 5, 2026)*
+- **[[vanessa-vallely|Vanessa Vallely]]** on AI work as the new resource: if women aren't given opportunities on the big AI programmes, "it's going to push us further down the stack." *(Prolific North, Nov 4, 2026)*
 
 ## 💔 Why it matters
 

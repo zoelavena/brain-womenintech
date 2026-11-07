@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.3"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 🍼 Caregiving and social norms: stepping away costs her more
@@ -52,6 +52,7 @@ The penalty isn't for stepping away. It's for stepping away *to care*.
 
 - 84% of Web Summit respondents reported women in leadership at their companies, and 47% felt empowered to pursue leadership — yet 52% of women aged 35-44 considered leaving. Presence at the top is not retention.
 - The survey doesn't establish which factors explain the 35-44 spike. Don't claim it's all caregiving; burnout, culture, and pay sit in the same answers.
+- The Lovelace Report complicates the caregiving story: only 3% of its respondents cited childcare as an issue holding them back — Vallely's read is that the *cost* of childcare is the problem, not childcare as a reason to stall a career. That sits next to Web Summit's 54% naming childcare cost/availability among reasons for considering stepping back, and Ensono's 49% naming caregiving the leading in-office challenge. The brain doesn't yet know which care costs bite hardest, or whether "childcare" means the same thing in the two surveys. Don't claim childcare doesn't matter — claim the mechanism is unsettled. *(Lovelace Report, 2025, via Prolific North, Nov 4, 2026)*
 
 ## 🔗 Connected tea
 

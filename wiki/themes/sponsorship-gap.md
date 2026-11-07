@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "4.5"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-04
+updated: 2026-11-06
 ---
 
 # 📣 The sponsorship gap: no one is advocating for her in the room
@@ -27,6 +27,7 @@ Okay so, this is where Zoe's original Five Whys research kept landing. When prom
 - **Flexibility stigma eats sponsorship:** women who work remotely most of the time are less likely to have a sponsor and far less likely to have been promoted in the last two years than women who work mostly on-site; men show similar sponsorship and promotion levels regardless of where they work. *(same source)*
 - **Sponsored women, Europe:** sponsored women are 200% more likely to see their ideas implemented, and women in European tech are less likely than men to have a sponsor. *(McKinsey, Women in Tech and AI in Europe, Mar 5, 2026)*
 - **Sponsorship exists? (Australia):** only 39% of early-career women say sponsorship exists in their workplace, and only 27% entered tech because of mentor encouragement. "Mentorship advises, whereas sponsorship advocates." *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
+- **Paying for her own development (UK):** 70% of the women surveyed were paying out of their own pockets to develop their own careers, rather than receiving the support they needed from employers. *(Lovelace Report, WeAreTechWomen & Oliver Wyman, 2025; 500+ mid-to-senior women surveyed — as reported by Prolific North, Nov 4, 2026)*
 
 > Toast figures come from a survey of Canadian tech. Level-based comparisons rest on smaller samples.
 
@@ -36,6 +37,7 @@ Okay so, this is where Zoe's original Five Whys research kept landing. When prom
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-06 | Lovelace: 70% of women surveyed paid out of their own pockets to develop their careers, rather than receiving employer support | ⬆️ | WeAreTechWomen & Oliver Wyman, 2025, via Prolific North, Nov 4, 2026 |
 | 2026-11-04 | Sponsor gap at every level (entry 31% vs 45%); promotion 65% with a sponsor vs 35% without; remote work costs women sponsorship and promotions, not men | ⬆️ | McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025 |
 | 2026-11-04 | Sponsored women 200% more likely to see ideas implemented; women less likely than men to have a sponsor | ⬆️ | McKinsey, Women in Tech and AI in Europe, Mar 2026 |
 | 2026-11-04 | Only 39% of early-career women say sponsorship exists in their workplace; mentorship advises, sponsorship advocates | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |

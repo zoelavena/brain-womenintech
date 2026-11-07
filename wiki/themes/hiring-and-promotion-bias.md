@@ -3,7 +3,7 @@ type: theme
 status: steeped
 why_id: "3.5"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # ⚖️ Hiring and promotion bias: same experience, picked less
@@ -31,6 +31,8 @@ Even with the same experience, women are less likely to be picked. And it's gett
 - **Ambition is belief-contingent (US, Gen Z, all sectors):** 58% of Gen Z women vs 74% of Gen Z men want a senior executive role someday — but 74% of Gen Z women who believe workplaces genuinely want women in leadership want the top job, matching men. Only 43% of Gen Z women hold that belief (vs 56% of men). *(LeanIn.Org, Gen Z Women and Leadership factsheet, Apr 2026; survey of 3,007 US adults, May 5–19, 2026, Gen Z ages 18–29 — general workforce, not tech-only)*
 - **Burnout, same survey as the discrimination receipt:** 64% of women report work-related stress or burnout, vs 57% of men; heavy workload (48%), lack of resources (43%), and unsupportive management (42%) are the top drivers. *(ISACA 2026 Tech Workplace and Culture survey, 1,025 global tech respondents, fieldwork Jul 17–Aug 3, 2026; via ISACA's own press release, Oct 13, 2026)*
 - **Pay gap, European tech (pay ruler):** 20% unadjusted, 1% adjusted in 2026 — unadjusted unchanged from 2025. Engineering is the widest function (21% unadjusted, 5% adjusted; women 19% of Engineering). The unadjusted gap peaks at the step into management (M2, 15%) and narrows to 3% at executive level, where women hold 22% of roles but earn 3–8% less base, 21–28% less bonus, and 18–27% less annual equity than male peers. Women are 36% of the European tech workforce and 25% of the highest-paid quarter. *(Ravio, Compensation Trends 2027, page updated Nov 4, 2026; article body cites 1,600+ European tech companies, source line cites 1,800+ companies and 618,000+ datapoints — discrepancy noted in the radar)*
+- **Representation is falling, not flat (European tech):** women are 36% of the European tech workforce in 2026, down from 38% in 2025 and 41% in 2024. Women hold 22% of executive roles, 36% of management roles, 40% of professional (IC) roles; Engineering is lowest at 19% (flat across all three years), and Sales fell 42% → 33% in a year. The UK holds steady at 41%; Germany and the Netherlands are lowest at 34%. *(Ravio, Compensation Trends 2027; blog "Women in tech statistics 2026", page updated Nov 4, 2026; live data from 1,800+ companies, 618,000+ datapoints)*
+- **Promotion takes twice as long (UK):** men are promoted in two years; women in four. Pay disparities reach up to £50,000, and promotion delays sit "at every single juncture of a woman's career." *(Lovelace Report, WeAreTechWomen & Oliver Wyman, 2025; 500+ mid-to-senior women surveyed, 20 senior technologists interviewed, Mercer Comptryx data from 600+ UK tech firms — as reported by Prolific North, Nov 4, 2026)*
 - **Ambition, redefined:** 83% of women in tech aspire to executive leadership, but 43% are increasingly content in their current positions; among those not pursuing executive leadership, preference for hands-on technical work rose to 41% from 35% last year. Work-life balance is the most important workplace factor (40%) and a top reason for not pursuing leadership (33%). *(Ensono, Speak Up 2026, Nov 5, 2026; 1,500 female-identifying tech professionals, US/UK/India)*
 - **Automation exposure and biased recruiting (AI harms, labour cluster):** 15 of the 20 occupations most exposed to automation are female-dominated; the snapshot names biased recruiting systems that suppress wages and amplify pay gaps, alongside female-dominated occupations disproportionately automated and reinforced occupational segregation. Filed as a mechanism claim, not a payroll figure. New from the snapshot PDF: a 2025 Australian study testing OpenAI and Microsoft models as preferred job candidates in software engineering found the models favoured male and Caucasian profiles, especially in senior roles; the Australian tech sector's total remuneration gender pay gap runs significantly higher than the economy-wide average, and nearly half of women in STEM report harassment at five times the rate reported by men; and the "ghost work" behind AI — violent-content data-labelling workers, often outsourced to the Global South — is traumatising and low-paid. *(Victorian Women's Trust, Gender and AI: Where's the Harm?, Oct 2026; automation figure via Jobs and Skills Australia)*
 
@@ -40,6 +42,8 @@ Even with the same experience, women are less likely to be picked. And it's gett
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-06 | Ravio: women 36% of European tech workforce in 2026, down from 38% (2025) and 41% (2024); 22% of executives, 36% of management, 40% of IC roles; Engineering 19% (flat), Sales fell 42% → 33% | 🔄 | Ravio, Compensation Trends 2027, Nov 4, 2026 |
+| 2026-11-06 | Lovelace Report, one year on: 40,000–60,000 women leave UK tech/digital jobs each year, costing £2bn–£3.5bn; men promoted in 2 years vs women in 4; pay gaps up to £50,000 | ⬆️ | WeAreTechWomen & Oliver Wyman, 2025, via Prolific North, Nov 4, 2026 |
 | 2026-11-05 | VWT Gender and AI (Oct 2026): 15 of the 20 occupations most exposed to automation are female-dominated; biased recruiting systems named as suppressing wages and amplifying pay gaps (mechanism claim, not a payroll figure); 2025 Australian study found OpenAI/Microsoft models favoured male and Caucasian profiles for software engineering candidates, especially senior roles; tech pay gap higher than economy-wide average; nearly half of women in STEM report harassment at 5x men's rate | ⬆️ | Victorian Women's Trust, Oct 2026 |
 | 2026-11-05 | Ensono Speak Up 2026: 83% aspire to executive leadership, but 43% increasingly content in current role; hands-on technical work preference rose to 41% (from 35%); work-life balance the top workplace factor (40%) and a top reason not to pursue leadership (33%) | ⬆️ | Ensono, Speak Up 2026, Nov 5, 2026 |
 | 2026-11-05 | BTA 2026 nominees: Chatterjee (Northmill) — promote on "real, measurable impact rather than familiarity"; Gao (Pangura) — "If someone senior puts a woman's name forward for such a role, that is the opportunity"; Masood (Systems) — women enter in emerging markets but rarely sustain into leadership | ⬆️ | FinTech Futures, Nov 5, 2026 |
@@ -61,6 +65,8 @@ Even with the same experience, women are less likely to be picked. And it's gett
 ## 🗣️ Real talk
 
 **[[anjalie-field|Anjalie Field]]** on what an AI-drafted email does to how a woman is seen at work: the weaker draft lands before any hiring decision is made. "That's going to reflect on how the recipient of that document perceives you." *(JHU Hub, Sept 21, 2026)*
+
+**[[vanessa-vallely|Vanessa Vallely]]** on the promotion clock: men get promoted in two years; for women it's four — and on the fix: "It is not about fixing women. We don't need fixing. It's the systems which we operate in that do." *(Prolific North, Nov 4, 2026)*
 
 ## 💔 Why it matters
 
