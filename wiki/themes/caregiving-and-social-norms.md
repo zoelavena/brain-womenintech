@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.3"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-06
+updated: 2026-11-12
 ---
 
 # 🍼 Caregiving and social norms: stepping away costs her more
@@ -24,6 +24,7 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 - **Caregiving tops the barriers list (cybersecurity):** 45% of women in cybersecurity named work-life balance and caregiving demands the top challenge for women staying and advancing, vs 29% of men. 42% of women said support for caregivers or flexible work arrangements would make the most difference to their success. *(ISC2, Women in Cybersecurity study, Mar 2026; 16,029 respondents — cybersecurity only)*
 - **The parenthood penalty (Australia):** 41% of mid-career respondents believe having children has, or would, hinder their leadership, promotion, or new responsibilities (42% of women vs 33% of men). Half of mid-career respondents agree working part-time would hinder career progression. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
 - **Caregiving is the leading in-office challenge:** 49% of women in tech say balancing caregiving responsibilities with work is the leading challenge associated with in-person work; women in India are far more likely than US and UK peers to face both in-person visibility and caregiving challenges. *(Ensono, Speak Up 2026, Nov 5, 2026; 1,500 female-identifying tech professionals, US/UK/India)*
+- **Burnout's stated causes, and the hybrid twist:** producing more work in less time is the most-cited contributor to burnout (36%), followed by pressure to always be available (34%) and balancing caregiving with work (32%). Hybrid workers are *more* likely than primarily in-person workers to report caregiving difficulties with office attendance (54% vs 42%) — the arrangement meant to ease the load reports more strain, not less. India splits sharpest: 61% of Indian respondents name caregiving the leading in-office challenge, vs 46% in the US and 39% in the UK. *(Ensono, Speak Up 2026, via HRKatha, Nov 11, 2026 — full-report cuts beyond the Nov 5 release)*
 
 ## 📈 How the evidence is moving
 
@@ -31,6 +32,7 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-12 | Ensono Speak Up 2026, fuller cut (via HRKatha, Nov 11): burnout's causes rank as more output in less time (36%), always available (34%), caregiving balance (32%); hybrid workers report more caregiving difficulty with office attendance than in-person workers (54% vs 42%); India 61% name caregiving the leading in-office challenge vs 46% US, 39% UK | ⬆️ | Ensono, Speak Up 2026, via HRKatha, Nov 11, 2026 |
 | 2026-11-05 | Ensono Speak Up 2026: balancing caregiving responsibilities with work is the leading challenge associated with in-person work (49%); women in India far more likely than US/UK peers to face both visibility and caregiving challenges | ⬆️ | Ensono, Speak Up 2026, Nov 5, 2026 |
 | 2026-11-04 | Working caregivers lose $120,500 lifetime income on average ($105,100 earnings, $7,300 retirement, $8,100 Social Security); $2.3 trillion nationwide — general workforce, no gender breakdown in the summary as read, context only, no receipt | ⬆️ | AARP, The Hidden Cost of Caregiving, Nov 4, 2026 |
 | 2026-11-04 | Parenthood penalty: 41% of mid-career respondents say children hinder leadership/promotion; 50% say part-time work slows progression | ⬆️ | Women in Digital, Driving Change in Tech 2026, Aug 2026 |
