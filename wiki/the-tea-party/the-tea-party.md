@@ -18,6 +18,7 @@ You'll find them all through the research, too. Whenever a theme or a tree node 
 | 📣 advocate | [[reshma-saujani\|Reshma Saujani]] | Girls Who Code, "bravery, not perfection" | [[pipeline-and-education]], [[evidence-gap]] |
 | 📣 advocate | [[brenda-darden-wilkerson\|Brenda Darden Wilkerson]] | President & CEO of AnitaB.org; Computer Science for All | [[pipeline-and-education]], [[exposure-gap]], [[sponsorship-gap]] |
 | 🔬 researcher | [[anjalie-field\|Anjalie Field]] | Studying how AI performs for different people | [[ai-and-the-future-of-women-in-tech]], [[hiring-and-promotion-bias]] |
+| 🔬 researcher | [[lissa-matyas\|Lissa Matyas]] | ICTC; AI exposure is concentrated in women's jobs | [[ai-and-the-future-of-women-in-tech]], [[pipeline-and-education]] |
 | 📣 advocate | [[julie-chatterjee\|Julie Chatterjee]] | Group CEO of Northmill Bank; breaking down technical gatekeeping | [[ai-and-the-future-of-women-in-tech]], [[exposure-gap]], [[sponsorship-gap]] |
 | 📣 advocate | [[vanessa-vallely\|Vanessa Vallely]] | Co-founder of WeAreTechWomen; co-author of the Lovelace Report; "It's not about fixing women" | [[pipeline-and-education]], [[ai-and-the-future-of-women-in-tech]], [[exposure-gap]], [[hiring-and-promotion-bias]], [[sponsorship-gap]] |
 

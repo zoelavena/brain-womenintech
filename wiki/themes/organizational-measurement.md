@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.3"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-06
+updated: 2026-11-13
 ---
 
 # 🗺️ Organizational measurement: companies don't make the path visible
@@ -19,6 +19,7 @@ More people are *unsure* whether they can advance where they are than people who
 - **No realistic path (US/Canada):** among senior-level employees who don't want to advance, 11% of women see no path to promotion that feels realistic, vs 3% of men; 18% of senior women have been passed over for promotions (vs 12% of men), and 21% think more senior people are burned out or unhappy (vs 11%). *(McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025)*
 - **Naming the cause, skipping the fix (European tech):** 44% of companies took no specific action on their gender pay gap in the last 12 months; only 8% changed promotion or hiring practices, though 36% of People and Reward leaders named underrepresentation in senior roles as the top driver. Only 30% have calculated and documented their gap by worker category and 17% have a remediation plan under the EU Pay Transparency Directive. *(Ravio, Compensation Trends 2027, page updated Nov 4, 2026; survey of 150 People and Reward Leaders)*
 - **Representation is falling (European tech):** women are 36% of the tech workforce in 2026, down from 38% in 2025 and 41% in 2024. Germany, the Netherlands, and Sweden saw the sharpest dips (4–6 percentage points); the UK held steady at 41%. With the EU Pay Transparency Directive in force, representation moves from a diversity metric to a regulatory risk. *(Ravio, Compensation Trends 2027; blog "Women in tech statistics 2026", page updated Nov 4, 2026)*
+- **Proof up, practice down (global enterprises):** 68.5% of enterprises said gender equality and diversity initiatives improved business outcomes in 2025, up 11.1 points from 2018 — yet the share actually implementing such initiatives fell from 37.4% (2018) to 26.5% (2025), even as 74.8% report having a policy in place. The decline included measures enterprises themselves called most effective, including maternity-leave and support programmes and equal-pay initiatives. Among enterprises reporting increased profits through initiatives promoting women in management, 87.4% reported gains of at least 5%. *(ILO, Women in Business and Management: Scaling Success, Nov 3, 2026; 2025 survey of 11,957 enterprises in 99 countries, via UN News)*
 
 ## 📈 How the evidence is moving
 
@@ -26,6 +27,7 @@ More people are *unsure* whether they can advance where they are than people who
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-13 | ILO: 68.5% of enterprises say gender-equality initiatives improved business outcomes (up 11.1 points since 2018), yet the share implementing them fell 37.4% → 26.5%, while 74.8% hold a policy — proof up, practice down | ⬆️ | ILO, Women in Business and Management: Scaling Success, Nov 3, 2026 |
 | 2026-11-06 | Ravio: representation 41% → 38% → 36% over three years; the EU directive turns representation into a regulatory risk, not just a diversity metric | 🔄 | Ravio, Compensation Trends 2027, Nov 4, 2026 |
 | 2026-11-04 | Companies name representation as the pay-gap cause (36%) but 44% took no action in 12 months; only 8% changed promotion/hiring; 30% have documented their gap by worker category, 17% have a remediation plan | ⬆️ | Ravio, Compensation Trends 2027, Nov 4, 2026 |
 | 2026-11-04 | Senior women who don't want to advance: 11% see no realistic path (vs 3% of men); 18% passed over for promotions (vs 12%) | ⬆️ | McKinsey & LeanIn.Org, Women in the Workplace 2025, Dec 2025 |

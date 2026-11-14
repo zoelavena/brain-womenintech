@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.3"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 # 🍼 Caregiving and social norms: stepping away costs her more
@@ -25,6 +25,8 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 - **The parenthood penalty (Australia):** 41% of mid-career respondents believe having children has, or would, hinder their leadership, promotion, or new responsibilities (42% of women vs 33% of men). Half of mid-career respondents agree working part-time would hinder career progression. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
 - **Caregiving is the leading in-office challenge:** 49% of women in tech say balancing caregiving responsibilities with work is the leading challenge associated with in-person work; women in India are far more likely than US and UK peers to face both in-person visibility and caregiving challenges. *(Ensono, Speak Up 2026, Nov 5, 2026; 1,500 female-identifying tech professionals, US/UK/India)*
 - **Burnout's stated causes, and the hybrid twist:** producing more work in less time is the most-cited contributor to burnout (36%), followed by pressure to always be available (34%) and balancing caregiving with work (32%). Hybrid workers are *more* likely than primarily in-person workers to report caregiving difficulties with office attendance (54% vs 42%) — the arrangement meant to ease the load reports more strain, not less. India splits sharpest: 61% of Indian respondents name caregiving the leading in-office challenge, vs 46% in the US and 39% in the UK. *(Ensono, Speak Up 2026, via HRKatha, Nov 11, 2026 — full-report cuts beyond the Nov 5 release)*
+- **The break costs her more, three years on:** among senior individual contributors returning from a full-time parenting break, men are 44% more likely than women to be promoted in their first year back; three years after returning, 7.2% of women had moved up in seniority vs 10.0% of men. Women are more than four times as likely as men to take the break at all (26.5% vs 6.0%). *(WEF, Global Gender Gap Report 2026, Sept 16, 2026, and LinkedIn Economic Graph data, as reported by Slayton Search, Nov 4, 2026 — secondary-reported; the WEF report itself was not opened.)*
+- **Care constrains the business, not just the career:** among women entrepreneurs surveyed by the ILO, unpaid care responsibilities affected the businesses of 59% of respondents, and women reporting greater constraints from family responsibilities were around 10 percentage points less likely to use GenAI. *(ILO, Women in Digital Business initiative, Nov 9, 2026; voluntary online survey, June–Nov 2025, not nationally representative)*
 
 ## 📈 How the evidence is moving
 
@@ -32,6 +34,8 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-13 | WEF (via Slayton): men 44% more likely than women to be promoted in the first year back from a parenting break; after three years 7.2% of women vs 10.0% of men had moved up — women 4x as likely to take the break (26.5% vs 6.0%) | ⬆️ | WEF GGG 2026, via Slayton Search, Nov 4, 2026 |
+| 2026-11-13 | ILO: unpaid care affected the businesses of 59% of women entrepreneurs surveyed; greater family-responsibility constraints meant ~10 points lower GenAI use | ⬆️ | ILO, Women in Digital Business, Nov 9, 2026 |
 | 2026-11-12 | Ensono Speak Up 2026, fuller cut (via HRKatha, Nov 11): burnout's causes rank as more output in less time (36%), always available (34%), caregiving balance (32%); hybrid workers report more caregiving difficulty with office attendance than in-person workers (54% vs 42%); India 61% name caregiving the leading in-office challenge vs 46% US, 39% UK | ⬆️ | Ensono, Speak Up 2026, via HRKatha, Nov 11, 2026 |
 | 2026-11-05 | Ensono Speak Up 2026: balancing caregiving responsibilities with work is the leading challenge associated with in-person work (49%); women in India far more likely than US/UK peers to face both visibility and caregiving challenges | ⬆️ | Ensono, Speak Up 2026, Nov 5, 2026 |
 | 2026-11-04 | Working caregivers lose $120,500 lifetime income on average ($105,100 earnings, $7,300 retirement, $8,100 Social Security); $2.3 trillion nationwide — general workforce, no gender breakdown in the summary as read, context only, no receipt | ⬆️ | AARP, The Hidden Cost of Caregiving, Nov 4, 2026 |

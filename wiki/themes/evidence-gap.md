@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "5.1"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-04
+updated: 2026-11-13
 ---
 
 # 🧾 The evidence gap: she's doing the work, it just doesn't count
@@ -19,6 +19,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 - **5.1:** 23% of everyone in tech is unsure whether their extra work helped at all. *(Toast 2026, Recommendations)*
 - **Sponsor effect:** with a sponsor, 79.2% of women say the work paid off. Without one, 50.9%. *(Toast 2026)*
 - **Getting credit at the top:** women senior leaders ensure their work gets credit at significantly higher rates than their more junior counterparts (56% vs 39%) — and 85% of women senior leaders describe their workplace as fair, vs 70% of non-senior women. *(LeanIn.Org, Gen Z Women and Leadership factsheet, Apr 2026; senior-leader findings draw on 2025 Women in the Workplace data)*
+- **The GenAI divide is a skills and support divide, not a tool divide:** among women entrepreneurs surveyed, GenAI use was 65% among women able to use word-processing/spreadsheet tools independently vs 24% among those unable; 76% where family and community strongly support women's use of digital tools vs 23% where mostly not accepted; 53% of own-account workers vs 75% of women running businesses with 50+ workers; 61% of women with registered businesses vs 50% operating informally. Only 23% had access to a laptop, and use was ~30% among women who found internet very difficult to afford vs 64% among those who considered it affordable. *(ILO, Women in Digital Business initiative, Nov 9, 2026; voluntary online survey, June–Nov 2025, not nationally representative; no income or productivity outcomes measured)*
 
 ## 📈 How the evidence is moving
 
@@ -26,6 +27,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-13 | ILO: GenAI use among women entrepreneurs tracks skills and support, not the tool — 65% vs 24% by digital skills, 76% vs 23% by family/community support, 53% own-account vs 75% at 50+ worker firms; only 23% had a laptop | ⬆️ | ILO, Women in Digital Business, Nov 9, 2026 |
 | 2026-11-04 | Senior women get credit for their work far more often (56% vs 39%) and see their workplaces as fairer (85% vs 70%) — credit lands late | ⬆️ | LeanIn.Org, Gen Z factsheet, Apr 2026 |
 | 2026 | Baseline receipts above | 🟰 baseline | WEF 2026, Toast 2026 |
 

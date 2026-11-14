@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 # 🤖 AI and the future of women in tech
@@ -30,6 +30,8 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 - **AI skills (cybersecurity):** AI was the most pressing skills need cited (41% of respondents). Women participants were more likely than men to report significant knowledge of AI and machine learning (27% vs 17%), and more likely to have considered changing careers to prepare for an AI-driven future (27% vs 17%). *(ISC2, Women in Cybersecurity study, Mar 2026; 16,029 respondents — cybersecurity only)*
 - **AI experimentation (Australia):** 77% of respondents say their workplace encourages them to experiment with new tools or technologies, including AI. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
 - **Who gets the AI work:** "It isn't so much on who's getting promoted anymore. It's who's getting the AI work," says Lovelace co-author Vanessa Vallely — if women aren't given opportunities on the big AI programmes, "we will just perpetuate the bias in the systems, the processes and the things that we build." *(Prolific North, Nov 4, 2026)*
+- **AI exposure is concentrated in women's jobs (Canada):** women hold 62.7% of employment in the 10% of occupations with the highest AI task exposure (bookkeeping, payroll administration, data entry); 64.3% of employed women aged 15–24 work in occupations where AI is far more likely to automate their core tasks entirely than to augment them. Among 55 digital occupations, women hold just 10.6% of the jobs combining high AI exposure with high potential for AI to complement human work. *(ICTC, testimony to the House of Commons Standing Committee on the Status of Women, Nov 2, 2026; research across 505 occupations)*
+- **GenAI adoption among women entrepreneurs — the divide decides who gains:** 56% of the nearly 18,000 women entrepreneurs surveyed (mainly Kenya, Nigeria, Egypt) already use GenAI, mostly for writing/content (64% of users) and research (49%). Use was 65% among women able to use word-processing/spreadsheet tools independently vs 24% among those unable; 76% where family and community strongly support women's use of digital tools vs 23% where mostly not accepted; 53% of own-account workers vs 75% of women running businesses with 50+ workers. Unpaid care constrained the businesses of 59% of respondents. *(ILO, Women in Digital Business initiative, Nov 9, 2026; voluntary online survey, June–Nov 2025, not nationally representative; no income or productivity outcomes measured)*
 
 ## 📈 How the evidence is moving
 
@@ -37,6 +39,8 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-13 | ICTC (Canada, 505 occupations): women hold 62.7% of employment in the highest-AI-exposure occupations; 64.3% of women 15–24 in automate-rather-than-augment roles; women hold just 10.6% of high-exposure/high-complementarity digital jobs | ⬆️ | ICTC, House of Commons testimony, Nov 2, 2026 |
+| 2026-11-13 | ILO: 56% of ~18,000 women entrepreneurs use GenAI, but use tracks the divides — 65% vs 24% by digital skills, 76% vs 23% by family/community support, 53% own-account vs 75% at 50+ worker firms; care constrained 59% of their businesses | ⬆️ | ILO, Women in Digital Business, Nov 9, 2026 |
 | 2026-11-12 | Ensono Speak Up 2026, fuller cut (via HRKatha, Nov 11): 62% say AI made workloads more manageable, 42% face higher output expectations, 47% say work became more strategic; self-rated AI experts dipped 28% → 25% while combined advanced+expert rose 65% → 70% | ⬆️ | Ensono, Speak Up 2026, via HRKatha, Nov 11, 2026 |
 | 2026-11-06 | Vallely (Lovelace co-author): "It isn't so much on who's getting promoted anymore. It's who's getting the AI work" — AI is "another massive big risk" to the inequalities the report found; women left off the big AI programmes get pushed "further down the stack" | ⬆️ | Prolific North, Nov 4, 2026 |
 | 2026-11-05 | VWT Gender and AI (Oct 2026): 20 gendered harms mapped as a cascading system; filed filtered to women-in-tech harms — 44% of 133 AI systems gender-biased; 88% of leading AI researchers male; women 30% of global AI workforce; gendered digital exclusion loop (revised Nov 5 per Zoe's direction; deepfake figures removed as out of scope) | ⬆️ | Victorian Women's Trust, Oct 2026 |
@@ -73,7 +77,7 @@ If AI eats the entry-level work where people learn, the first rung of the ladder
 
 ## 💭 Still brewing
 
-- Does AI automation hit roles women hold more often, like support, coordination, and annotation, harder than the roles men hold?
+- Does AI automation hit roles women hold more often, like support, coordination, and annotation, harder than the roles men hold? ICTC's Canada numbers (Nov 13) give a partial answer: yes on exposure — 62.7% of employment in the highest-exposure occupations is women's, and 64.3% of young women sit in automate-rather-than-augment roles. The open part is what happens next: augmentation, displacement, or neither.
 - AI in hiring and promotion: does it reduce the bias at 3.5, or bake it in?
 - Who gets the AI upskilling and the high-visibility AI projects? That's the [[exposure-gap]] all over again, unless someone sponsors it ([[sponsorship-gap]]).
 - Where does this attach to the tree? It started at 3.1, but it may touch 2.3 (the jump to leadership) and 3.4 (resource work) too.
