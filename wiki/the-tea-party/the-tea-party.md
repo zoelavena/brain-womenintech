@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-11-06
+updated: 2026-11-14
 ---
 
 # ☕ The Tea Party
@@ -21,6 +21,7 @@ You'll find them all through the research, too. Whenever a theme or a tree node 
 | 🔬 researcher | [[lissa-matyas\|Lissa Matyas]] | ICTC; AI exposure is concentrated in women's jobs | [[ai-and-the-future-of-women-in-tech]], [[pipeline-and-education]] |
 | 📣 advocate | [[julie-chatterjee\|Julie Chatterjee]] | Group CEO of Northmill Bank; breaking down technical gatekeeping | [[ai-and-the-future-of-women-in-tech]], [[exposure-gap]], [[sponsorship-gap]] |
 | 📣 advocate | [[vanessa-vallely\|Vanessa Vallely]] | Co-founder of WeAreTechWomen; co-author of the Lovelace Report; "It's not about fixing women" | [[pipeline-and-education]], [[ai-and-the-future-of-women-in-tech]], [[exposure-gap]], [[hiring-and-promotion-bias]], [[sponsorship-gap]] |
+| 📣 advocate | [[anne-marie-imafidon\|Anne-Marie Imafidon]] | Women in Tech Envoy; Stemettes co-founder; changing the whole pipeline | [[workplace-policy]], [[pipeline-and-education]] |
 
 ```dataview
 TABLE seat AS "Seat", known_for AS "Known for", why_ids AS "Tree nodes"
