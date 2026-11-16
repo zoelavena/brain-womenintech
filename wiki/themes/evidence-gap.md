@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "5.1"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # 🧾 The evidence gap: she's doing the work, it just doesn't count
@@ -22,6 +22,9 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 - **The GenAI divide is a skills and support divide, not a tool divide:** among women entrepreneurs surveyed, GenAI use was 65% among women able to use word-processing/spreadsheet tools independently vs 24% among those unable; 76% where family and community strongly support women's use of digital tools vs 23% where mostly not accepted; 53% of own-account workers vs 75% of women running businesses with 50+ workers; 61% of women with registered businesses vs 50% operating informally. Only 23% had access to a laptop, and use was ~30% among women who found internet very difficult to afford vs 64% among those who considered it affordable. *(ILO, Women in Digital Business initiative, Nov 9, 2026; voluntary online survey, June–Nov 2025, not nationally representative; no income or productivity outcomes measured)*
 - **The AI gap moved from access to confidence (US):** ever-use of AI chatbots is now 50% of men vs 47% of women (from 39% vs 28% in 2024) — the access gap closed. But men use chatbots daily more (27% vs 20%), for work more (40% vs 35%), say they help productivity more (35% vs 25%), and feel extremely/very confident more (22% vs 15%). Women are about twice as likely to say AI will affect them personally negatively rather than positively over 20 years (33% vs 17%). *(Pew Research Center, The Gender Gap in AI, Oct 16, 2026; survey Feb 17–23, 2026)*
 - **Support, not skill, decides AI use (US):** 46% of women never use AI at work vs 36% of men; 64% of women report receiving *no* AI training at work vs 49% of men, with less mentorship and encouragement. Training, mentorship, and encouragement are associated with greater AI use, confidence, and perceived value for both women and men. *(Harvard Shorenstein Center, Are Women Being Left Out of AI?, Oct 14, 2026; CHIP50 survey, 5,403 U.S. adults, July 2026)*
+- **The support fix, measured (Denmark):** employer encouragement cut the gender gap in ever-use of ChatGPT from 11.9 to 5 percentage points; employer-provided training cut it to 3.6 points. *(Humlum & Vestergaard, BFI Working Paper 2025–56 — secondary-reported via Medium, Nov 6, 2026; the working paper itself was not opened)*
+- **The confidence paradox (Singapore):** 84% of young women use AI tools at least once a week (37% daily), 75% show a core foundational understanding, and fewer hold misconceptions than men (25% vs 34%) — yet only 6% feel very confident they will thrive in an AI-driven environment vs 16% of men, only 8% see themselves as AI leaders or guides vs 20% of men, and only 21% believe AI careers are equally open to both genders vs 50% of men. *(United Women Singapore, with the Micron Foundation; Milieu Insight, May–June 2026; 800 students and young career starters aged 16–29, 640 women, 160 men — secondary-reported via FutureCIO, Nov 6, 2026)*
+- **The gap is small — and flat — in Ireland:** 29.0% of men and 27.8% of women intentionally use GenAI at work; adjusted for education, occupation, sector, firm size, contract type and age, women are about 4 points less likely to use it (−3.6, p ≈ 0.05). The gap does not widen with intensity: frequency, multi-tool use and depth of engagement run along occupational and educational lines, not gender. *(Working in Ireland Survey, GenAI Use in Work, Nov 2026; nationally representative sample of 4,300 workers)*
 
 ## 📈 How the evidence is moving
 
@@ -29,6 +32,9 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-15 | UWS Singapore: 84% of young women use AI weekly, 75% show foundational understanding, fewer misconceptions than men — yet 6% vs 16% feel very confident they'll thrive, 8% vs 20% see themselves as AI leaders — secondary-reported | ⬆️ | United Women Singapore / Micron Foundation, via FutureCIO, Nov 6, 2026 |
+| 2026-11-15 | Working in Ireland Survey: gender gap in GenAI use is small (29.0% vs 27.8%; adjusted −3.6 points) and does NOT widen with intensity — depth runs on occupation and education, not gender | ⬇️ | Working in Ireland Survey, GenAI Use in Work, Nov 2026 |
+| 2026-11-15 | Danish working paper: employer encouragement cut the ever-use gap from 11.9 to 5 points, employer-provided training cut it to 3.6 — the first measured dose of the support fix; secondary-reported | ⬆️ | Humlum & Vestergaard, BFI Working Paper 2025–56, via Medium, Nov 6, 2026 |
 | 2026-11-14 | Pew: the chatbot access gap closed (50% men vs 47% women ever-use, from 39% vs 28% in 2024) — but daily use 27% vs 20%, work use 40% vs 35%, productivity help 35% vs 25%, confidence 22% vs 15%. The gap moved from access to confidence | ⬆️ | Pew Research Center, Oct 16, 2026 |
 | 2026-11-14 | Shorenstein: 46% of women never use AI at work vs 36% of men; 64% vs 49% got no AI training at work — and support (training, mentorship, encouragement) tracks use and confidence for both genders | ⬆️ | Harvard Shorenstein Center, Oct 14, 2026 |
 | 2026-11-13 | ILO: GenAI use among women entrepreneurs tracks skills and support, not the tool — 65% vs 24% by digital skills, 76% vs 23% by family/community support, 53% own-account vs 75% at 50+ worker firms; only 23% had a laptop | ⬆️ | ILO, Women in Digital Business, Nov 9, 2026 |

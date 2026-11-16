@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # ☕ The Women in Tech Brain: Index
