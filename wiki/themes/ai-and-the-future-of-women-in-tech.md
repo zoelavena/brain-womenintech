@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 # 🤖 AI and the future of women in tech
@@ -48,6 +48,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-16 | Davis Polk names Nicola ("Nikki") Shaver its first chief AI and knowledge officer (starts Dec 1); co-founder/CEO of Legaltech Hub, ex-Paul Hastings tech leader — second woman into a brand-new CAIO seat in a week after Eptura's Larkin; a representation data point, not a trend | ⬆️ | Law.com / Reuters, Nov 9, 2026 |
 | 2026-11-15 | UWS Singapore: 84% of young women use AI weekly, 75% show foundational understanding, fewer misconceptions than men (25% vs 34%) — yet only 6% feel very confident they'll thrive vs 16% of men, 8% see themselves as AI leaders vs 20%, 21% vs 50% believe AI careers equally open — secondary-reported | ⬆️ | United Women Singapore / Micron Foundation, via FutureCIO, Nov 6, 2026 |
 | 2026-11-15 | Working in Ireland Survey: gender gap in GenAI use is small (29.0% men vs 27.8% women; adjusted −3.6 points) and does NOT widen with intensity — depth runs on occupation and education, not gender; gains flow to employers, not workers; use 8.5% (<€15k) to 73.8% (€110k+) | ⬇️ | Working in Ireland Survey, GenAI Use in Work, Nov 2026 |
 | 2026-11-15 | Danish working paper: employer encouragement cut the ever-use gap from 11.9 to 5 points, employer-provided training cut it to 3.6 — the first measured dose of the support fix; secondary-reported (correction: these cuts are Danish, not Irish as the Nov 14 log said) | ⬆️ | Humlum & Vestergaard, BFI Working Paper 2025–56, via Medium, Nov 6, 2026 |

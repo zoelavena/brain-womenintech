@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.3"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 # 🗺️ Organizational measurement: companies don't make the path visible
@@ -21,6 +21,7 @@ More people are *unsure* whether they can advance where they are than people who
 - **Representation is falling (European tech):** women are 36% of the tech workforce in 2026, down from 38% in 2025 and 41% in 2024. Germany, the Netherlands, and Sweden saw the sharpest dips (4–6 percentage points); the UK held steady at 41%. With the EU Pay Transparency Directive in force, representation moves from a diversity metric to a regulatory risk. *(Ravio, Compensation Trends 2027; blog "Women in tech statistics 2026", page updated Nov 4, 2026)*
 - **Proof up, practice down (global enterprises):** 68.5% of enterprises said gender equality and diversity initiatives improved business outcomes in 2025, up 11.1 points from 2018 — yet the share actually implementing such initiatives fell from 37.4% (2018) to 26.5% (2025), even as 74.8% report having a policy in place. The decline included measures enterprises themselves called most effective, including maternity-leave and support programmes and equal-pay initiatives. Among enterprises reporting increased profits through initiatives promoting women in management, 87.4% reported gains of at least 5%. *(ILO, Women in Business and Management: Scaling Success, Nov 3, 2026; 2025 survey of 11,957 enterprises in 99 countries, via UN News)*
 - **Voluntary action moves the joiners, not the field (UK finance):** Investing in Women Code signatories directed 32% of their investment value to teams with at least one female founder in 2025 (up 5 points on 2024) vs 15% across the wider UK market; all-female teams took 6% of signatory value vs 2% market-wide — and the market's all-female share is unchanged at 2%. Six years of reporting, same split: the code changes its members' behaviour, the market barely moves. *(Investing in Women Code Annual Report 2026, Dept for Business and Trade, Oct 7, 2026; 110 VC signatories, 1,497 funded deals)*
+- **The record totals hide a shrinking all-female share (US and Europe):** in the US, all-female teams took 1.1% of venture dollars in 2025, down from 2.1% in 2024, even as female-founded companies overall raised a record $73.6 billion — more than $30 billion of it from two companies, Anthropic and Scale AI. In Europe, all-female teams took 1% of deal value in 2026, down from 1.3% in 2025, while the female-founded total (€9.7 billion) tracked near-record. On both sides of the Atlantic, the headline total is a record and the all-female slice is falling — the money is concentrating, not spreading. *(PitchBook, All In US 2025, March 2026; PitchBook, European VC female founders dashboard, Sept 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -28,6 +29,8 @@ More people are *unsure* whether they can advance where they are than people who
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-16 | PitchBook US All In 2025: all-female teams 1.1% of US VC dollars, down from 2.1% in 2024, while female-founded overall hit a record $73.6bn — >$30bn from Anthropic + Scale AI; zero of 124 new unicorns all-female | 🔄 | PitchBook, All In US 2025, March 2026, via Inc., March 10, 2026 |
+| 2026-11-16 | PitchBook Europe 2026: all-female teams 1% of European VC deal value, down from 1.3% in 2025, while the female-founded total (€9.7bn) tracked near-record — record totals, shrinking all-female slice, on both sides of the Atlantic | 🔄 | PitchBook, European VC female founders dashboard, Sept 2026 |
 | 2026-11-14 | Investing in Women Code: signatories 32% of value to teams with a female founder vs 15% market; all-female 6% vs 2% — voluntary action moves the joiners, not the field, for the sixth year running | 🔄 | Investing in Women Code Annual Report 2026, Oct 7, 2026 |
 | 2026-11-13 | ILO: 68.5% of enterprises say gender-equality initiatives improved business outcomes (up 11.1 points since 2018), yet the share implementing them fell 37.4% → 26.5%, while 74.8% hold a policy — proof up, practice down | ⬆️ | ILO, Women in Business and Management: Scaling Success, Nov 3, 2026 |
 | 2026-11-06 | Ravio: representation 41% → 38% → 36% over three years; the EU directive turns representation into a regulatory risk, not just a diversity metric | 🔄 | Ravio, Compensation Trends 2027, Nov 4, 2026 |
