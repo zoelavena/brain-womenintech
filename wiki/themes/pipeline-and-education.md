@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "2.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # 🎓 Pipeline and education: fewer women start in tech
@@ -31,6 +31,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 - **The confidence gap is widening before the pipeline starts (Ireland):** 60% of Transition Year girls named a lack of confidence in their STEM ability as a barrier — up from 55% in 2025 and 50% in 2024. Two-thirds (66%) named poor gender equality in STEM careers as the leading barrier, 66% a lack of information about STEM careers, 61% limited school visits by female STEM role models. Only 27% of girls in single-sex schools have access to Leaving Cert computer science vs 60% in mixed-sex schools; 71% of single-sex girls' schools offer a STEM subject other than Maths or Science vs 96% of single-sex boys' schools. *(I Wish, Survey of Female Students' Attitudes to STEM 2026, Oct 22–23, 2026; report does not state a sample size in the pages read)*
 - **9 in 10 enjoy the work — and the top rating slipped (Sweden):** 88% of Women in Tech Sweden members give one of the two highest ratings for enjoying working in tech (51.8% the very highest, 36.1% second-highest) — but the top rating fell from 53.8% in 2025 to 51.8%. *(Women in Tech Sweden, State of Women in Tech 2026, June 2026; survey of 2,807 members, 98.8% women — a self-selected member survey, read as a retention signal from the women who stayed)*
 - **Programmes, not just standards (UK):** the TechFirst Women's Programme will support 300 women with mentoring, skills development and matching with live vacancies, aiming for paid roles lasting at least six months by March 2027; a scale-up women's programme for founders of high-potential, high-growth businesses launches in 2027. The government's case: enabling women to found and grow businesses at the same rate as men could unlock £310 billion (the Rose Review's £250bn, inflation-adjusted). *(GOV.UK, Oct 29, 2026; FE News, Nov 2, 2026)*
+- **It's the choice, not the preparation (10 countries):** women are 35% of global STEM graduates, unchanged for a decade. Across ten centralised admissions systems, the pipeline gap (academic preparedness) varies widely, −19 to +31 percentage points — but the choice gap is remarkably stable: even among top scorers, women are about 25 percentage points less likely than men to rank STEM first. Women were 51.2% of top-achieving applicants but only 34% of the high-achieving applicants who prioritised a STEM programme. Closing the pipeline gap entirely would still leave high-achieving STEM applicants majority male (57–75%) in every setting. The authors do not identify mechanisms directly; stereotypes, role models and perceptions of STEM careers are the named candidates. *(Ahimbisibwe et al., Pipeline vs. Choice: The Global Gender Gap in STEM Applications, LSE CEP Discussion Paper 2120, Aug 2025; updated version Oct 28, 2026, SOFI Working Papers 12/2026, conditionally accepted by Economics of Education Review — working paper, not yet peer-reviewed)*
 
 ## 📈 How the evidence is moving
 
@@ -38,6 +39,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-17 | Pipeline vs Choice (LSE CEP DP 2120, updated Oct 28, 2026): women 35% of global STEM graduates, unchanged for a decade; pipeline gap varies −19 to +31 points across 10 admissions systems, but the choice gap is stable — top-scoring women ~25 points less likely to rank STEM first; women 51.2% of top achievers but 34% of STEM-first applicants; closing the pipeline gap alone would still leave STEM applicants majority male (57–75%) everywhere — working paper, conditionally accepted | ⬇️ | LSE CEP DP 2120, updated Oct 28, 2026 |
 | 2026-11-16 | PitchBook US All In 2025: all-female teams 1.1% of US VC dollars in 2025, down from 2.1% in 2024 ($3.2bn/794 deals vs $191.1bn/10,048 all-male); female-founded overall a record $73.6bn/27.7%, but >$30bn from Anthropic + Scale AI; zero of 124 new unicorns all-female; first-time recipients 27.7% → 21.2% since 2021 | 🔄 | PitchBook, All In US 2025, March 2026, via Inc., March 10, 2026 |
 | 2026-11-16 | PitchBook Europe 2026: all-female teams 1% of European VC deal value, down from 1.3% in 2025; mixed teams 16.3% (up from 15%); female-founded total €9.7bn, near-record — the total is up, the all-female slice is shrinking; female-focused funds forming (Auxxo €33.3m, Women Backing Women £130m, Araya Sie £7.5m) | 🔄 | PitchBook, European VC female founders dashboard, Sept 2026 |
 | 2026-11-14 | Investing in Women Code 2026: signatories directed 32% of investment value to teams with a female founder vs 15% market; all-female 6% vs 2%; wider market all-female share stuck at 2% — the code moved its joiners, not the field | 🔄 | Investing in Women Code Annual Report 2026, Oct 7, 2026 |
@@ -73,7 +75,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 ## 💭 Still brewing
 
 - AI now has its own theme → [[ai-and-the-future-of-women-in-tech]]
-- We need a source on *why* fewer women choose STEM.
+- The "why fewer women choose STEM" question is answered in part (Nov 17): the LSE paper says it's choice, not preparation — a ~25-point choice gap stable across ten countries, while the pipeline gap swings −19 to +31. What the paper does *not* answer is the mechanism: the authors say their data can't identify it directly, and name stereotypes, role models and perceptions of STEM careers as candidates. So the question moves from "why" to "what makes her choose otherwise, at the moment of choosing?"
 
 ## 🔗 Connected tea
 

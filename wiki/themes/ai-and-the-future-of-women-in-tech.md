@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # 🤖 AI and the future of women in tech
@@ -41,6 +41,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 - **Who gets the AI work:** "It isn't so much on who's getting promoted anymore. It's who's getting the AI work," says Lovelace co-author Vanessa Vallely — if women aren't given opportunities on the big AI programmes, "we will just perpetuate the bias in the systems, the processes and the things that we build." *(Prolific North, Nov 4, 2026)*
 - **AI exposure is concentrated in women's jobs (Canada):** women hold 62.7% of employment in the 10% of occupations with the highest AI task exposure (bookkeeping, payroll administration, data entry); 64.3% of employed women aged 15–24 work in occupations where AI is far more likely to automate their core tasks entirely than to augment them. Among 55 digital occupations, women hold just 10.6% of the jobs combining high AI exposure with high potential for AI to complement human work. *(ICTC, testimony to the House of Commons Standing Committee on the Status of Women, Nov 2, 2026; research across 505 occupations)*
 - **GenAI adoption among women entrepreneurs — the divide decides who gains:** 56% of the nearly 18,000 women entrepreneurs surveyed (mainly Kenya, Nigeria, Egypt) already use GenAI, mostly for writing/content (64% of users) and research (49%). Use was 65% among women able to use word-processing/spreadsheet tools independently vs 24% among those unable; 76% where family and community strongly support women's use of digital tools vs 23% where mostly not accepted; 53% of own-account workers vs 75% of women running businesses with 50+ workers. Unpaid care constrained the businesses of 59% of respondents. *(ILO, Women in Digital Business initiative, Nov 9, 2026; voluntary online survey, June–Nov 2025, not nationally representative; no income or productivity outcomes measured)*
+- **A third woman takes a brand-new Chief AI Officer seat:** Barclays appointed Anita Tanna its first Chief AI Officer (in post since October 2026), after nearly three years as group chief of staff to the CEO and a career in equity sales — she has never run a technology organisation. Her brief is accelerating AI adoption across the group and finding where it returns the most value. Third brand-new CAIO seat held by a woman after Larkin (Eptura, Nov 2) and Shaver (Davis Polk, Nov 9): two rhyming press releases are now three seats in a month, across banking, worktech and law. Still appointments, not outcomes — Barclays has not said what Tanna controls, whom she reports to, or what budget she holds. *(Traders Magazine, Nov 9, 2026; FinTech Futures, Oct 26, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -48,6 +49,7 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-17 | Barclays names Anita Tanna its first chief AI officer (in post since Oct 2026) — from group chief of staff to the CEO, equity-sales background, never ran a tech organisation; third woman into a brand-new CAIO seat after Larkin (Eptura) and Shaver (Davis Polk) — two rhyming press releases are now three seats in a month; still appointments, not outcomes | ⬆️ | Traders Magazine, Nov 9, 2026; FinTech Futures, Oct 26, 2026 |
 | 2026-11-16 | Davis Polk names Nicola ("Nikki") Shaver its first chief AI and knowledge officer (starts Dec 1); co-founder/CEO of Legaltech Hub, ex-Paul Hastings tech leader — second woman into a brand-new CAIO seat in a week after Eptura's Larkin; a representation data point, not a trend | ⬆️ | Law.com / Reuters, Nov 9, 2026 |
 | 2026-11-15 | UWS Singapore: 84% of young women use AI weekly, 75% show foundational understanding, fewer misconceptions than men (25% vs 34%) — yet only 6% feel very confident they'll thrive vs 16% of men, 8% see themselves as AI leaders vs 20%, 21% vs 50% believe AI careers equally open — secondary-reported | ⬆️ | United Women Singapore / Micron Foundation, via FutureCIO, Nov 6, 2026 |
 | 2026-11-15 | Working in Ireland Survey: gender gap in GenAI use is small (29.0% men vs 27.8% women; adjusted −3.6 points) and does NOT widen with intensity — depth runs on occupation and education, not gender; gains flow to employers, not workers; use 8.5% (<€15k) to 73.8% (€110k+) | ⬇️ | Working in Ireland Survey, GenAI Use in Work, Nov 2026 |
@@ -103,6 +105,7 @@ If AI eats the entry-level work where people learn, the first rung of the ladder
 - Where does this attach to the tree? It started at 3.1, but it may touch 2.3 (the jump to leadership) and 3.4 (resource work) too.
 - The $45,000 AI pay figure is a composition effect (a 10-point rise in the male share of hires was associated with ~$45,000 higher median listed pay across AI occupations), not a like-for-like gap. What *is* the like-for-like AI pay gap? We don't have that number yet.
 - Nov 2026 evidence speaks to the 3.5 question above: the JHU prompt study says the bias is baked in before any hiring decision, in the drafting tool itself. Open: do users adapt their style over time to match what AI rewards (the authors' next question)?
+- The CAIO seats: two women in brand-new seats in a week (Larkin, Shaver) was a data point, not a trend — now Tanna at Barclays makes three in a month, across banking, worktech and law. Is seat-creation a wave? The test is the next quarter's appointments, and whether any of the three gets a budget, a team, or a reporting line on the record — and whether the 13% of C-suite AI roles receipt moves.
 
 ## 🔗 Connected tea
 

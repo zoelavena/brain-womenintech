@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "5.1"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-15
+updated: 2026-11-17
 ---
 
 # 🧾 The evidence gap: she's doing the work, it just doesn't count
@@ -25,6 +25,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 - **The support fix, measured (Denmark):** employer encouragement cut the gender gap in ever-use of ChatGPT from 11.9 to 5 percentage points; employer-provided training cut it to 3.6 points. *(Humlum & Vestergaard, BFI Working Paper 2025–56 — secondary-reported via Medium, Nov 6, 2026; the working paper itself was not opened)*
 - **The confidence paradox (Singapore):** 84% of young women use AI tools at least once a week (37% daily), 75% show a core foundational understanding, and fewer hold misconceptions than men (25% vs 34%) — yet only 6% feel very confident they will thrive in an AI-driven environment vs 16% of men, only 8% see themselves as AI leaders or guides vs 20% of men, and only 21% believe AI careers are equally open to both genders vs 50% of men. *(United Women Singapore, with the Micron Foundation; Milieu Insight, May–June 2026; 800 students and young career starters aged 16–29, 640 women, 160 men — secondary-reported via FutureCIO, Nov 6, 2026)*
 - **The gap is small — and flat — in Ireland:** 29.0% of men and 27.8% of women intentionally use GenAI at work; adjusted for education, occupation, sector, firm size, contract type and age, women are about 4 points less likely to use it (−3.6, p ≈ 0.05). The gap does not widen with intensity: frequency, multi-tool use and depth of engagement run along occupational and educational lines, not gender. *(Working in Ireland Survey, GenAI Use in Work, Nov 2026; nationally representative sample of 4,300 workers)*
+- **Perceived pay fairness, split by who is looking (US):** 69% of men believe pay is equal at their own company vs 43% of women; 27% of women say they personally earn less than a colleague of the opposite gender in the same role, vs 3% of men — a 9x gap. Among women, 37% of primary caregivers say they personally earn less because of their gender, vs 25% of women without children and 25% who share caregiving equally. *(Omni Calculator, Gender Pay Gap Perception Survey 2026, Nov 9, 2026; 808 employed US adults and 403 founders/CEOs/C-suite executives — perceived fairness, not payroll data)*
 
 ## 📈 How the evidence is moving
 
@@ -32,6 +33,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-17 | Omni Calculator: 69% of men vs 43% of women believe pay is equal at their own company; 27% of women vs 3% of men say they personally earn less in the same role; primary caregivers 37% vs 25% — perceived fairness, labelled as perceived | ⬆️ | Omni Calculator, Gender Pay Gap Perception Survey 2026, Nov 9, 2026 |
 | 2026-11-15 | UWS Singapore: 84% of young women use AI weekly, 75% show foundational understanding, fewer misconceptions than men — yet 6% vs 16% feel very confident they'll thrive, 8% vs 20% see themselves as AI leaders — secondary-reported | ⬆️ | United Women Singapore / Micron Foundation, via FutureCIO, Nov 6, 2026 |
 | 2026-11-15 | Working in Ireland Survey: gender gap in GenAI use is small (29.0% vs 27.8%; adjusted −3.6 points) and does NOT widen with intensity — depth runs on occupation and education, not gender | ⬇️ | Working in Ireland Survey, GenAI Use in Work, Nov 2026 |
 | 2026-11-15 | Danish working paper: employer encouragement cut the ever-use gap from 11.9 to 5 points, employer-provided training cut it to 3.6 — the first measured dose of the support fix; secondary-reported | ⬆️ | Humlum & Vestergaard, BFI Working Paper 2025–56, via Medium, Nov 6, 2026 |
