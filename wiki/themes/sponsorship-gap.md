@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "4.5"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 # 📣 The sponsorship gap: no one is advocating for her in the room
@@ -30,6 +30,7 @@ Okay so, this is where Zoe's original Five Whys research kept landing. When prom
 - **Paying for her own development (UK):** 70% of the women surveyed were paying out of their own pockets to develop their own careers, rather than receiving the support they needed from employers. *(Lovelace Report, WeAreTechWomen & Oliver Wyman, 2025; 500+ mid-to-senior women surveyed — as reported by Prolific North, Nov 4, 2026)*
 - **Recognition, not competence, is the gate (Australia):** in a study of 23 women leaders in project-based organisations, relational, strategic and execution-based competencies did not automatically translate into leadership progression — organisational recognition was central to whether they were valued and turned into opportunities, and gendered norms reduced the visibility of relational and coordination work by treating it as expected support work rather than leadership. The study's prescription: promotion criteria, project allocation and formal sponsorship designed to make women's leadership work visible and explicitly recognised, plus monitoring invisible labour. *(Engineering, Construction and Architectural Management, Emerald, Nov 10, 2026; qualitative, 23 interviews, self-reported, cross-sectional — a mechanism claim, not a rate)*
 - **The call, twice in one day (Sydney and Minneapolis):** at the Abundium Women in Multinationals Summit, CEO Dani Matthews said "Women are too often over-mentored and under-sponsored. Ambition grows when someone senior believes in you before the proof arrives"; Jennifer Westacott called for greater board accountability in developing female leadership pipelines; Jane Huxley said "Almost every important decision about you and your career is made when you are not in the room." The same day, at the GOVIT Leadership Summit, Fay Young told women state and local IT leaders to "Remember where you were, remember where you came from and remember the obstacles that you had to overcome"; Seattle CTO Shannon Smith said leaders must "keep the ladder extended for others to climb." *(Abundium WIM Summit 2026, via Medianet, Nov 17, 2026; Route Fifty, Nov 17, 2026)*
+- **Sponsorship programmes are being cut, not just missing (global enterprises):** mentoring and sponsorship initiatives fell from 41.8% of firms in 2018 to 20.4% in 2025 — more than halved — while recruitment, retention and promotion initiatives aimed at women fell 69.6% → 36.7% and skills training and executive leadership development fell 60.9% → 37.3%. The cuts hit hardest the measures that move people up. *(ILO, Women in Business and Management: Scaling Success, Nov 3, 2026; 2025 survey of 11,957 enterprises in 99 countries, via World Research Institute analysis)*
 
 > Toast figures come from a survey of Canadian tech. Level-based comparisons rest on smaller samples.
 
@@ -39,6 +40,7 @@ Okay so, this is where Zoe's original Five Whys research kept landing. When prom
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-18 | ILO breakdown: mentoring and sponsorship initiatives more than halved, 41.8% → 20.4% (2018–2025); recruitment/retention/promotion initiatives aimed at women fell 69.6% → 36.7%; skills training and executive leadership development fell 60.9% → 37.3% — the cuts hit hardest the measures that move people up | ⬆️ | ILO, Women in Business and Management: Scaling Success, Nov 3, 2026, via World Research Institute |
 | 2026-11-17 | The sponsorship call, twice in one day: Abundium WIM Summit (Sydney) — Matthews: "over-mentored and under-sponsored… Ambition grows when someone senior believes in you before the proof arrives"; Westacott on board accountability; Huxley: "Almost every important decision about you and your career is made when you are not in the room" — and the GOVIT panel (Minneapolis): Young, "Remember where you were"; Smith, "keep the ladder extended" | ⬆️ | Abundium WIM Summit 2026, via Medianet, Nov 17, 2026; Route Fifty, Nov 17, 2026 |
 | 2026-11-16 | Recognition, not competence, is the gate: 23 women leaders in Australia — competencies did not automatically translate into progression; relational and coordination work treated as expected support work, not leadership; study prescribes formal sponsorship that makes women's leadership work visible, plus monitoring invisible labour | ⬆️ | Engineering, Construction and Architectural Management, Emerald, Nov 10, 2026 |
 | 2026-11-06 | Lovelace: 70% of women surveyed paid out of their own pockets to develop their careers, rather than receiving employer support | ⬆️ | WeAreTechWomen & Oliver Wyman, 2025, via Prolific North, Nov 4, 2026 |
