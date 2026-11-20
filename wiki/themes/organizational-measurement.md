@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.3"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # 🗺️ Organizational measurement: companies don't make the path visible
@@ -32,6 +32,7 @@ More people are *unsure* whether they can advance where they are than people who
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-19 | Ravio pay-quartile cut (Compensation Trends 2027): women 48% of the lowest-paid quarter vs 25% of the highest; the full ladder 48/40/30/25 — pay quartiles are one of the measures the EU Pay Transparency Directive requires companies to report, so the ladder is the shape transparency will have to move | 🔄 | Ravio, Compensation Trends 2027, Nov 4, 2026 |
 | 2026-11-18 | ILO breakdown: mentoring/sponsorship initiatives more than halved, 41.8% → 20.4% (2018–2025); recruitment/retention/promotion initiatives for women fell 69.6% → 36.7%; skills training fell 60.9% → 37.3%; only 19.8% of firms report women among senior managers in P&L roles vs 62.5% in HR | ⬆️ | ILO, Nov 3, 2026, via World Research Institute |
 | 2026-11-18 | Austria: the June 7, 2026 EU Pay Transparency Directive transposition deadline came and went without Austria transposing it; draft bill (100+ staff income reports, fines up to €60,000) stalled; possible EU infringement proceedings; national gap 15.5% (down from 16.3%) | ⬆️ | ad-hoc-news, Nov 1, 2026, citing Chamber of Labour Upper Austria and Statistics Austria |
 | 2026-11-17 | Omni Calculator: 49% of employers conduct no pay equity review at all; 30% found a gap and made no change, only 16% ever adjusted pay after a review — the sharpest measurement yet of the incentives question: companies can find a gap and still do nothing | ⬆️ | Omni Calculator, Gender Pay Gap Perception Survey 2026, Nov 9, 2026 |

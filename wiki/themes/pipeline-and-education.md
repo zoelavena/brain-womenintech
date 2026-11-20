@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "2.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # 🎓 Pipeline and education: fewer women start in tech
@@ -40,6 +40,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-19 | CMI Ready to Lead (Oct 2026; 601 UK managers, with Girlguiding, Young Women's Trust and Women@Tech): 71% of women aged 17–21 want to be leaders, but only 25% of managers strongly agree young women are supported to develop management or leadership skills and 28% say women are actively encouraged to apply for leadership roles | ⬆️ | CMI, Ready to Lead, Oct 26, 2026 |
 | 2026-11-18 | DOJ OLC opinion (Aug 12, 2026): three NSF STEM programmes unconstitutional as structured (LSAMP, AGEP, IUSE-HSI; ~$104m of $938m FY2026 STEM education appropriation); ADVANCE — NSF's programme for women in STEM academic careers, funded since the early 2000s — survives only if sex-based eligibility criteria are removed; House letter (Brown, Adams, Rivas, Oct 29) demanded answers by Nov 12; no response surfaced by Nov 17 | ⬆️ | DOJ OLC opinion, Aug 12, 2026, via GovSci; House letter, Oct 29, 2026 |
 | 2026-11-17 | Pipeline vs Choice (LSE CEP DP 2120, updated Oct 28, 2026): women 35% of global STEM graduates, unchanged for a decade; pipeline gap varies −19 to +31 points across 10 admissions systems, but the choice gap is stable — top-scoring women ~25 points less likely to rank STEM first; women 51.2% of top achievers but 34% of STEM-first applicants; closing the pipeline gap alone would still leave STEM applicants majority male (57–75%) everywhere — working paper, conditionally accepted | ⬇️ | LSE CEP DP 2120, updated Oct 28, 2026 |
 | 2026-11-16 | PitchBook US All In 2025: all-female teams 1.1% of US VC dollars in 2025, down from 2.1% in 2024 ($3.2bn/794 deals vs $191.1bn/10,048 all-male); female-founded overall a record $73.6bn/27.7%, but >$30bn from Anthropic + Scale AI; zero of 124 new unicorns all-female; first-time recipients 27.7% → 21.2% since 2021 | 🔄 | PitchBook, All In US 2025, March 2026, via Inc., March 10, 2026 |

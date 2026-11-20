@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.2"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # 📜 Workplace policy: men step away to grow, women step away to care
@@ -24,7 +24,8 @@ The most common reason men take a career break is professional development. For 
 - **In-office is back, visibility is the currency:** 53% of women in tech say their organizations require more in-office days than a year ago; 92% agree being visible in person is important for career advancement; balancing caregiving responsibilities with work is the leading challenge associated with in-person work (49%). *(Ensono, Speak Up 2026, Nov 5, 2026; 1,500 female-identifying tech professionals, US/UK/India)*
 - **The office return, measured:** the share working primarily in person rose from 28% in 2025 to 36% in 2026, while hybrid fell from 61% to 55%. 52% strongly agree in-person visibility matters for advancement — 63% of primarily in-person workers, vs 45% of hybrid workers. *(Ensono, Speak Up 2026, via HRKatha, Nov 11, 2026 — full-report cuts beyond the Nov 5 release)*
 - **Flexibility is offered, progression is doubted (global, all sectors):** 80% of women believe flexible working negatively impacts career progression at their company, and 85% believe their workload would not be adjusted if they reduced their hours. Only 26% say flexible working is openly discussed and supported, and only 15% say it is available to all regardless of caregiving status — though 49% have a formal or informal arrangement. *(Deloitte, Women @ Work 2026; 7,500 women, 15 countries, fieldwork May–June 2026)*
-- **The flexibility paradox (Australia):** 76% of mid-career respondents say their workplace offers flexibility meeting their work-life needs and 76% say clear policies allow flexible or remote work — yet 34% agree working remotely or flexibly hurts their chances of promotion, and half of mid-career respondents agree working part-time would hinder career progression. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)*
+- **The flexibility paradox (Australia):** 76% of mid-career respondents say their workplace offers flexibility meeting their work-life needs and 76% say clear policies allow flexible or remote work — yet 34% agree working remotely or flexibly hurts their chances of promotion, and half of mid-career respondents agree working part-time would hinder career progression. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)
+- **Cut flexibility and she leaves (UK/Ireland, all sectors):** 42% of female professionals would start looking for a new job if their flexibility was reduced, vs 34% of men; 72% of women rank flexibility as highly important vs 49% of men. 24% report their employer increased required office days in the past year; among them, dissatisfaction runs 39% for women vs 27% for men. Satisfaction with the flexible-working policy is 70% at two to three office days a week and 29% at five days. *(Robert Walters, Employee Benefits Guide, Oct 22, 2026; 3,100 white-collar professionals, UK and Ireland — general workforce, not tech-only)**
 
 ## 📈 How the evidence is moving
 
@@ -32,6 +33,7 @@ The most common reason men take a career break is professional development. For 
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-19 | Robert Walters Employee Benefits Guide (Oct 22, 2026; 3,100 UK/Ireland white-collar professionals): 42% of women would start looking for a new job if flexibility was reduced vs 34% of men; 72% of women rank flexibility highly important vs 49% of men; satisfaction 70% at 2–3 office days vs 29% at 5 days | ⬆️ | Robert Walters, via Onrec, Oct 22, 2026 |
 | 2026-11-14 | UK programmes follow the standards: a scale-up women's programme launches 2027; TechFirst Women's Programme (300 women, paid roles by March 2027) already filed Nov 2; Imafidon names harassment and discrimination as "a key driver of poor participation" and the 74% culture mandate as the reason to act | ⬆️ | GOV.UK, Oct 29, 2026; FE News, Nov 2, 2026 |
 | 2026-11-12 | Ensono Speak Up 2026, fuller cut (via HRKatha, Nov 11): primarily in-person work rose 28% → 36% in a year, hybrid fell 61% → 55%; 52% strongly agree in-person visibility matters for advancement (63% of in-person workers vs 45% of hybrid) | ⬆️ | Ensono, Speak Up 2026, via HRKatha, Nov 11, 2026 |
 | 2026-11-05 | Ensono Speak Up 2026: 53% say their organizations require more in-office days than a year ago; 92% agree being visible in person is important for career advancement; caregiving is the leading in-office challenge (49%) | ⬆️ | Ensono, Speak Up 2026, Nov 5, 2026 |

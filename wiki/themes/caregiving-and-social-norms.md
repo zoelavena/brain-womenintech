@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.3"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # 🍼 Caregiving and social norms: stepping away costs her more
@@ -35,6 +35,7 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-19 | Robert Walters (Oct 22, 2026; 3,100 UK/Ireland white-collar professionals): 42% of women would look for a new job if flexibility was reduced vs 34% of men; women more likely to say the policy is applied unfairly (19% vs 14%) and to be given fixed office days (28% vs 21%); 51% of women hold informal flexibility agreements with their line manager | ⬆️ | Robert Walters, via Onrec, Oct 22, 2026 |
 | 2026-11-18 | Akamai (Censuswide, March 2026; 1,500 UK women): 39% of women who left tech would consider returning — higher salary (52%), work-life balance (43%), better career progression (43%); improved work-life balance (38%), flexible arrangements (37%) and hybrid working (38%) would encourage a return; inflexible hours (56%) and lack of work-life balance (42%) were significant reasons to leave | ⬆️ | Akamai, Apr 13, 2026 |
 | 2026-11-13 | WEF (via Slayton): men 44% more likely than women to be promoted in the first year back from a parenting break; after three years 7.2% of women vs 10.0% of men had moved up — women 4x as likely to take the break (26.5% vs 6.0%) | ⬆️ | WEF GGG 2026, via Slayton Search, Nov 4, 2026 |
 | 2026-11-13 | ILO: unpaid care affected the businesses of 59% of women entrepreneurs surveyed; greater family-responsibility constraints meant ~10 points lower GenAI use | ⬆️ | ILO, Women in Digital Business, Nov 9, 2026 |
