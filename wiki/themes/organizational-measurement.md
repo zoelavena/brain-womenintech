@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.3"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # 🗺️ Organizational measurement: companies don't make the path visible
@@ -25,6 +25,8 @@ More people are *unsure* whether they can advance where they are than people who
 - **Found a gap, did nothing (US):** 49% of employers conduct no pay equity review at all; among those that do, 30% found a gap and made no change, and only 16% ever adjusted anyone's pay after a review found a discrepancy. 73% of employers believe pay is equal at their organisation vs 50% of employees. *(Omni Calculator, Gender Pay Gap Perception Survey 2026, Nov 9, 2026; 808 employed US adults and 403 founders/CEOs/C-suite executives — a commercial survey)*
 - **The fix itself is being cut (global enterprises):** mentoring and sponsorship initiatives fell from 41.8% of firms in 2018 to 20.4% in 2025 — more than halved — while recruitment, retention and promotion initiatives aimed at women fell 69.6% → 36.7% and skills training and executive leadership development fell 60.9% → 37.3%. The cuts hit hardest the measures that move people up. Only 19.8% of firms report women among senior managers in profit-and-loss roles, vs 62.5% in HR. *(ILO, Women in Business and Management: Scaling Success, Nov 3, 2026; 2025 survey of 11,957 enterprises in 99 countries, via World Research Institute analysis)*
 - **The deadline that passed unmet (Austria):** the June 7, 2026 deadline for transposing the EU Pay Transparency Directive came and went without Austria transposing it. A draft bill would require employers with 100+ staff to file regular income reports, with fines up to €60,000 for repeat violations — but the governing coalition has yet to agree on it, and Austria faces possible EU infringement proceedings. Austria's national pay gap stands at 15.5% (down from 16.3%), with women effectively unpaid from Nov 5, 2026. *(ad-hoc-news, Nov 1, 2026, citing the Chamber of Labour Upper Austria and Statistics Austria wage-tax data for 2024)*
+- **Mandatory transparency moved the number (B.C.):** the gender pay gap narrowed from 18.4% in 2022 to 14.5% in 2025 since the Pay Transparency Act took effect in 2023; women earned 85 cents per dollar in 2025. 81% of Indeed job postings in B.C. included pay information (vs 56% Canada-wide), but only 64% of the ~700 employers required to report did so. Inside the headline: racialized women earned 26% less than non-racialized men, recent newcomer women 31% less than Canadian-born men, Indigenous women 17% less than non-Indigenous men. *(Government of British Columbia, Pay Transparency Annual Report, June 2026)*
+- **Two Equal Pay Days, a day apart:** France's Les Glorieuses calculation put women symbolically unpaid from 10:51 a.m. on Nov 19 (11.8% hourly gap, Eurostat 2024); the UK's fell Nov 20 (11.5%). At the current pace, equality in France would not be reached until 2062 — and on INSEE's annual wage-income measure the French gap is 21.8%, nearly double the hourly figure. *(France 24 English, Nov 19, 2026; Fawcett Society, Nov 20, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -32,6 +34,9 @@ More people are *unsure* whether they can advance where they are than people who
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-20 | Equal Pay Day arrived Nov 20 (UK): the gap is 11.5%, women effectively unpaid for the final 42 days; on Nov 6 the government announced salary information will be mandatory in job adverts; Fawcett calls for a ban on salary-history questions and a legal Right to Know | 🔄 | Fawcett Society, Nov 20, 2026 |
+| 2026-11-20 | France: Les Glorieuses calculates women symbolically stopped being paid at 10:51 a.m. on Nov 19 — 11.8% hourly gap (Eurostat 2024); EU gap 15.1% → 11.1% (2016→2024); equality in France not until 2062 at the current pace | ⬆️ | France 24 English, Nov 19, 2026 |
+| 2026-11-20 | B.C. Pay Transparency Annual Report (June 2026): the gap narrowed 18.4% → 14.5% (2022→2025) since the Pay Transparency Act took effect in 2023 — the first multi-year narrowing under a mandatory-reporting law; 81% of Indeed postings in B.C. include pay info vs 56% Canada-wide; only 64% of the ~700 employers required to report did so; the requirement expands to ~8,500 employers this fall | ⬆️ | Government of British Columbia, June 2026 |
 | 2026-11-19 | Ravio pay-quartile cut (Compensation Trends 2027): women 48% of the lowest-paid quarter vs 25% of the highest; the full ladder 48/40/30/25 — pay quartiles are one of the measures the EU Pay Transparency Directive requires companies to report, so the ladder is the shape transparency will have to move | 🔄 | Ravio, Compensation Trends 2027, Nov 4, 2026 |
 | 2026-11-18 | ILO breakdown: mentoring/sponsorship initiatives more than halved, 41.8% → 20.4% (2018–2025); recruitment/retention/promotion initiatives for women fell 69.6% → 36.7%; skills training fell 60.9% → 37.3%; only 19.8% of firms report women among senior managers in P&L roles vs 62.5% in HR | ⬆️ | ILO, Nov 3, 2026, via World Research Institute |
 | 2026-11-18 | Austria: the June 7, 2026 EU Pay Transparency Directive transposition deadline came and went without Austria transposing it; draft bill (100+ staff income reports, fines up to €60,000) stalled; possible EU infringement proceedings; national gap 15.5% (down from 16.3%) | ⬆️ | ad-hoc-news, Nov 1, 2026, citing Chamber of Labour Upper Austria and Statistics Austria |
