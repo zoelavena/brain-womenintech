@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "3.4"
 sources: ["[[toast-gender-equity-2026]]", "[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-14
+updated: 2026-11-22
 ---
 
 # 💼 The exposure gap: women get relationships, men get resources
@@ -22,6 +22,7 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 - **Low-influence roles (Europe):** women make up 39% of product management roles and 53% of design roles — but those jobs are only 10% and 5% of the tech workforce and rarely lead to the C-suite, so women have less influence over the direction of AI and tech. Women also receive 44% more requests to volunteer for unrecognized "office housework" tasks, averaging 200 extra hours a year on work that doesn't advance their careers. *(McKinsey, Women in Tech and AI in Europe, Mar 5, 2026)*
 - **AI work as exposure:** the Lovelace co-author warns that if women aren't on the big AI programmes, "it's going to push us further down the stack" — access to AI work is the new version of the exposure gap. *(Prolific North, Nov 4, 2026)*
 - **The growth went to men, not the jobs (US):** in AI-exposed occupations, men's employment grew 6.3% for each 1-point rise in AI-exposure score vs 0.2% for women (2017–19 vs Jan 2023–June 2026); at the top of the exposure scale, +17.8% men vs +0.5% women. The jobs grew; women's share of the growth didn't. Pew cautions the link is not necessarily causal. *(Pew Research Center, Oct 22, 2026; CPS + O*NET, 480 occupations)*
+- **Women are 86% of the workers most exposed to AI job loss:** a 2026 Washington Post analysis of jobs most threatened by AI found women make up 86% of workers who are highly exposed to AI job loss — and the least able to adapt to it. The exposure story now has both ends: the jobs most exposed are women's, and the growth in AI-exposed occupations went almost entirely to men. *(Washington Post, March 2026, via LeanIn.Org, November 2026 — secondary-reported; the Post interactive was not opened)*
 
 ## 📈 How the evidence is moving
 
@@ -29,6 +30,7 @@ Plot twist: women give strategic input at the same rate as men. The gap opens th
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-22 | Washington Post (via LeanIn.Org): women make up 86% of workers highly exposed to AI job loss — and the least able to adapt to it; secondary-reported, Post interactive not opened | ⬆️ | Washington Post, March 2026, via LeanIn.Org, Nov 2026 |
 | 2026-11-14 | Pew: job growth in AI-exposed occupations went almost entirely to men — +6.3% men vs +0.2% women per point of AI exposure; at the top of the scale +17.8% vs +0.5%. The jobs grew; women's share of the growth didn't | ⬆️ | Pew Research Center, Oct 22, 2026 |
 | 2026-11-06 | Vallely: AI work is the new exposure — women not on the big AI programmes get pushed "further down the stack"; the question is who's getting the AI work, not just who's getting promoted | ⬆️ | Prolific North, Nov 4, 2026 |
 | 2026-11-04 | Women concentrated in low-influence roles (39% product, 53% design); 44% more volunteer requests, +200 hrs/year of unrecognized work | ⬆️ | McKinsey, Women in Tech and AI in Europe, Mar 2026 |
