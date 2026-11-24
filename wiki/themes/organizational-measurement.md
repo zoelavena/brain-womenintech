@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.3"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-20
+updated: 2026-11-23
 ---
 
 # 🗺️ Organizational measurement: companies don't make the path visible
@@ -27,6 +27,8 @@ More people are *unsure* whether they can advance where they are than people who
 - **The deadline that passed unmet (Austria):** the June 7, 2026 deadline for transposing the EU Pay Transparency Directive came and went without Austria transposing it. A draft bill would require employers with 100+ staff to file regular income reports, with fines up to €60,000 for repeat violations — but the governing coalition has yet to agree on it, and Austria faces possible EU infringement proceedings. Austria's national pay gap stands at 15.5% (down from 16.3%), with women effectively unpaid from Nov 5, 2026. *(ad-hoc-news, Nov 1, 2026, citing the Chamber of Labour Upper Austria and Statistics Austria wage-tax data for 2024)*
 - **Mandatory transparency moved the number (B.C.):** the gender pay gap narrowed from 18.4% in 2022 to 14.5% in 2025 since the Pay Transparency Act took effect in 2023; women earned 85 cents per dollar in 2025. 81% of Indeed job postings in B.C. included pay information (vs 56% Canada-wide), but only 64% of the ~700 employers required to report did so. Inside the headline: racialized women earned 26% less than non-racialized men, recent newcomer women 31% less than Canadian-born men, Indigenous women 17% less than non-Indigenous men. *(Government of British Columbia, Pay Transparency Annual Report, June 2026)*
 - **Two Equal Pay Days, a day apart:** France's Les Glorieuses calculation put women symbolically unpaid from 10:51 a.m. on Nov 19 (11.8% hourly gap, Eurostat 2024); the UK's fell Nov 20 (11.5%). At the current pace, equality in France would not be reached until 2062 — and on INSEE's annual wage-income measure the French gap is 21.8%, nearly double the hourly figure. *(France 24 English, Nov 19, 2026; Fawcett Society, Nov 20, 2026)*
+- **One pay gap, two shapes (developers, global):** women developers earn 17.6% less than men after adjusting for human capital, technical skills and firm characteristics. The gap splits by income level: 8.8% in high-income economies, 22.9% upper-middle, 36.6% lower-middle — and 47.9% in South Asia. In high-income countries the gap widens toward the top (glass ceiling); in lower-middle-income countries it is worst at the bottom (sticky floor). The unexplained share runs 45% in high-income countries and 68.5% elsewhere. *(Prakash & Yadav, Journal for Labour Market Research 59(1), Article 17, 2025; 53,507 developers, 173 countries, 2022 Stack Overflow Developer Survey — payroll data, self-reported, binary-gendered)*
+- **FoundHER puts $100,000 where the market doesn't:** Prosus, iyzico and Endeavor Türkiye's FoundHER Challenge Türkiye gave $100,000 in equity-free grants to three women-led startups (Cubtale $40,000, Usersdot $30,000, Vispera $30,000), chosen from 190+ applications. Only 18% of entrepreneurs in Türkiye are women (TÜİK, 2025), and only one quarter of investments in 2025 went to startups with women founders (startups.watch). A programme-level counterpoint to the PitchBook concentration story: the market's money concentrates, so the programmes move small amounts deliberately to the places the market skips. *(Prosus, Nov 23, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -34,6 +36,8 @@ More people are *unsure* whether they can advance where they are than people who
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-23 | Prakash & Yadav (J Labour Market Research, 2025): global adjusted developer pay gap 17.6% — 8.8% high-income (glass ceiling) vs 36.6% lower-middle (sticky floor) vs 47.9% South Asia; unexplained share 45% high-income, 68.5% elsewhere | ⬆️ | Journal for Labour Market Research 59(1), Art. 17, 2025 |
+| 2026-11-23 | Prosus FoundHER Challenge Türkiye: $100,000 equity-free to three women-led startups from 190+ applications; Türkiye — 18% of entrepreneurs are women, 1/4 of 2025 investments to women-founded startups — programme money moving where the market's money concentrates away from | ⬆️ | Prosus, Nov 23, 2026 |
 | 2026-11-21 | Grant Thornton Women in Business 2026 (March 2026; IBR research, mid-market): women hold 32.9% of senior management globally, down 1.1 points from 34.0% in 2025; parity projected 2051 on the trend line; all-male leadership teams up 4.1% → 5.7%; commitment held — 92.7% of firms have DE&I initiatives, gender-equality strategies on pay 42.2% (up 2.9 points), recruitment/selection 41.1% (up 2.0), senior management positions 40.9% (up 3.2) | ⬇️ | Grant Thornton, Women in Business 2026, March 2026 |
 | 2026-11-20 | Equal Pay Day arrived Nov 20 (UK): the gap is 11.5%, women effectively unpaid for the final 42 days; on Nov 6 the government announced salary information will be mandatory in job adverts; Fawcett calls for a ban on salary-history questions and a legal Right to Know | 🔄 | Fawcett Society, Nov 20, 2026 |
 | 2026-11-20 | France: Les Glorieuses calculates women symbolically stopped being paid at 10:51 a.m. on Nov 19 — 11.8% hourly gap (Eurostat 2024); EU gap 15.1% → 11.1% (2016→2024); equality in France not until 2062 at the current pace | ⬆️ | France 24 English, Nov 19, 2026 |

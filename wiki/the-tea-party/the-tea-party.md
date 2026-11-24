@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # ☕ The Tea Party
@@ -24,6 +24,8 @@ You'll find them all through the research, too. Whenever a theme or a tree node 
 | 📣 advocate | [[anne-marie-imafidon\|Anne-Marie Imafidon]] | Women in Tech Envoy; Stemettes co-founder; changing the whole pipeline | [[workplace-policy]], [[pipeline-and-education]] |
 | 📣 advocate | [[tara-chklovski\|Tara Chklovski]] | Founder and CEO of Technovation; teaching girls to build technology | [[ai-and-the-future-of-women-in-tech]], [[pipeline-and-education]] |
 | 🔬 researcher | [[mary-anne-williams\|Mary-Anne Williams]] | AI researcher — UNSW chair, founder of the UNSW Business AI Lab; first Chief AI Scientist at Commonwealth Bank | [[ai-and-the-future-of-women-in-tech]] |
+| 🔬 researcher | [[beatrice-magistro\|Beatrice Magistro]] | Assistant professor of AI governance; the peer-reviewed test of why women are more skeptical of AI | [[ai-and-the-future-of-women-in-tech]], [[evidence-gap]] |
+| 📣 advocate | [[freada-kapor-klein\|Freada Kapor Klein]] | Founding partner, Kapor Capital; fifty years of naming what tech's power protects | [[hiring-and-promotion-bias]] |
 
 ```dataview
 TABLE seat AS "Seat", known_for AS "Known for", why_ids AS "Tree nodes"
