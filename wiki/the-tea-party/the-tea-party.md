@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # ☕ The Tea Party
@@ -26,6 +26,7 @@ You'll find them all through the research, too. Whenever a theme or a tree node 
 | 🔬 researcher | [[mary-anne-williams\|Mary-Anne Williams]] | AI researcher — UNSW chair, founder of the UNSW Business AI Lab; first Chief AI Scientist at Commonwealth Bank | [[ai-and-the-future-of-women-in-tech]] |
 | 🔬 researcher | [[beatrice-magistro\|Beatrice Magistro]] | Assistant professor of AI governance; the peer-reviewed test of why women are more skeptical of AI | [[ai-and-the-future-of-women-in-tech]], [[evidence-gap]] |
 | 📣 advocate | [[freada-kapor-klein\|Freada Kapor Klein]] | Founding partner, Kapor Capital; fifty years of naming what tech's power protects | [[hiring-and-promotion-bias]] |
+| 🔬 researcher | [[kenza-elass\|Kenza Elass]] | The PNAS audit: AI resume tools penalise women in male-dominated jobs — on average, not at all | [[ai-and-the-future-of-women-in-tech]], [[hiring-and-promotion-bias]] |
 
 ```dataview
 TABLE seat AS "Seat", known_for AS "Known for", why_ids AS "Tree nodes"
