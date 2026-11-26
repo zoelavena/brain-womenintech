@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.2"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-19
+updated: 2026-11-25
 ---
 
 # 📜 Workplace policy: men step away to grow, women step away to care
@@ -26,6 +26,7 @@ The most common reason men take a career break is professional development. For 
 - **Flexibility is offered, progression is doubted (global, all sectors):** 80% of women believe flexible working negatively impacts career progression at their company, and 85% believe their workload would not be adjusted if they reduced their hours. Only 26% say flexible working is openly discussed and supported, and only 15% say it is available to all regardless of caregiving status — though 49% have a formal or informal arrangement. *(Deloitte, Women @ Work 2026; 7,500 women, 15 countries, fieldwork May–June 2026)*
 - **The flexibility paradox (Australia):** 76% of mid-career respondents say their workplace offers flexibility meeting their work-life needs and 76% say clear policies allow flexible or remote work — yet 34% agree working remotely or flexibly hurts their chances of promotion, and half of mid-career respondents agree working part-time would hinder career progression. *(Women in Digital, Driving Change in Tech 2026, Aug 2026; 1,029 respondents, Australia)
 - **Cut flexibility and she leaves (UK/Ireland, all sectors):** 42% of female professionals would start looking for a new job if their flexibility was reduced, vs 34% of men; 72% of women rank flexibility as highly important vs 49% of men. 24% report their employer increased required office days in the past year; among them, dissatisfaction runs 39% for women vs 27% for men. Satisfaction with the flexible-working policy is 70% at two to three office days a week and 29% at five days. *(Robert Walters, Employee Benefits Guide, Oct 22, 2026; 3,100 white-collar professionals, UK and Ireland — general workforce, not tech-only)**
+- **The office brings back the office housework:** a Rotman School of Management study of 1,091 professional women in the US found 31% reported everyday gender discrimination when working on-site, compared with 17% when working remotely — including being assigned tasks that weren't their responsibility. In the UK, a Co-operatives UK survey of 2,000 working women and men found 22% of women had been asked to do paperwork outside their role, 21% to clean or tidy the office, and 20% to make coffee for senior leaders; nearly half (49%) of women said they'd been asked more than once to do something outside their role, such as making tea or booking a meeting room. The Flexibility-Visibility Gap's other side: visibility bought with unpaid work that doesn't advance her. *(Fast Company, Nov 20, 2026)*
 
 ## 📈 How the evidence is moving
 
@@ -33,6 +34,7 @@ The most common reason men take a career break is professional development. For 
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-25 | Fast Company (Nov 20, 2026): RTO revives the office housework — Rotman study (1,091 US professional women): 31% report everyday gender discrimination on-site vs 17% remote, including tasks that weren't their responsibility; Co-operatives UK (2,000 working women and men): 22% of women asked to do paperwork outside their role, 21% to clean or tidy the office, 20% to make coffee for senior leaders; 49% asked more than once — the Flexibility-Visibility Gap's other side: visibility bought with unpaid work that doesn't advance her | ⬆️ | Fast Company, Nov 20, 2026 |
 | 2026-11-21 | CBI / University of South Wales, Women's Leadership Benchmark for Wales 2026 (Oct 15, 2026; 220 responses): 57% believe flexible workers are less visible to managers and senior leaders and may miss promotion; 65% say flexible working enables more people to take leadership roles (up from 53% in 2024) — the report names this the "Flexibility-Visibility Gap"; 59% worry about reduced informal learning, 48% about reduced access to informal networks; only 39% say promotion pathways are clear (down from 44% in 2024); 79% say their organisation actively supports gender equality but only 46% perceive accountability — the "Values-Delivery Gap" | 🔄 | CBI / University of South Wales, Oct 15, 2026 |
 | 2026-11-19 | Robert Walters Employee Benefits Guide (Oct 22, 2026; 3,100 UK/Ireland white-collar professionals): 42% of women would start looking for a new job if flexibility was reduced vs 34% of men; 72% of women rank flexibility highly important vs 49% of men; satisfaction 70% at 2–3 office days vs 29% at 5 days | ⬆️ | Robert Walters, via Onrec, Oct 22, 2026 |
 | 2026-11-14 | UK programmes follow the standards: a scale-up women's programme launches 2027; TechFirst Women's Programme (300 women, paid roles by March 2027) already filed Nov 2; Imafidon names harassment and discrimination as "a key driver of poor participation" and the 74% culture mandate as the reason to act | ⬆️ | GOV.UK, Oct 29, 2026; FE News, Nov 2, 2026 |
