@@ -3,7 +3,7 @@ type: theme
 status: spilled
 why_id: "5.1"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-23
+updated: 2026-11-26
 ---
 
 # 🧾 The evidence gap: she's doing the work, it just doesn't count
@@ -34,6 +34,7 @@ Girl, she IS leading. She's planning, unblocking, and coaching. But it's describ
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-26 | Manley & Wan (Fast Company, Nov 24, 2026): both genders agree men's perspectives and needs are better represented in AI development and AI-generated content — a perception finding from the Shorenstein survey (CHIP50, 5,403 US adults) that the report's own authors elevate into the risk-decision question: who decides which AI harms are acceptable, when the deciders are the heaviest users and the beneficiaries? | ⬆️ | Fast Company, Nov 24, 2026 |
 | 2026-11-23 | Borwein et al. (PNAS Nexus, Jan 20, 2026; peer-reviewed): the risk-perception leg with a causal test — women 11% more likely to say AI risks outweigh benefits; support falls more sharply than men's as net employment gains look less certain, matches men's when benefits are guaranteed; 6–7 points more likely to say "don't know" the benefits | ⬆️ | PNAS Nexus 5(1), pgaf399, Jan 20, 2026 |
 | 2026-11-21 | Stephany & Duszynski (Oxford; preprint, arXiv v2 July 30, 2026): risk perception is a mechanism in the GenAI adoption gap, not just skills or access — UK tracker N ≈ 9,200; men 20.9% vs women 15.5% frequent personal use; the gap widens among those concerned about AI's societal consequences and is largest (>45 points) among younger, digitally fluent people with high risk concerns; optimism about AI's societal impact is associated with larger increases in women's uptake — preprint, not yet peer-reviewed | ⬆️ | Stephany & Duszynski, arXiv:2601.03880, July 30, 2026 |
 | 2026-11-17 | Omni Calculator: 69% of men vs 43% of women believe pay is equal at their own company; 27% of women vs 3% of men say they personally earn less in the same role; primary caregivers 37% vs 25% — perceived fairness, labelled as perceived | ⬆️ | Omni Calculator, Gender Pay Gap Perception Survey 2026, Nov 9, 2026 |
