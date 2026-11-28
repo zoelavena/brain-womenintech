@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "2.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-25
+updated: 2026-11-27
 ---
 
 # 🎓 Pipeline and education: fewer women start in tech
@@ -45,6 +45,7 @@ Yes, fewer women enter tech, and that's real. On its own, though, it doesn't exp
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-27 | ACM elective-design study (Communications of the ACM, Vol. 69, Issue 11, pp. 78–85, Oct 15, 2026; 49,710 enrolments across 272 electives at nine institutions in Europe and North America, three academic years 2020–2023, hierarchical Bayesian modelling): women were more likely to enrol in electives on human-computer interaction, ethics and applied software development; 59 of the 272 electives showed significant gender differences in enrolment — the belonging question's curricular lever: elective preferences diagnose what the core curriculum hides, and aligning offerings with socially relevant, human-centred computing may improve equity | ⬆️ | Communications of the ACM, Oct 15, 2026 |
 | 2026-11-25 | RPI Class of 2030: 318 women of 1,292 first-years (24.67%), the lowest female share in seven years (2019–2025 average 30.75%), after the Women's Leadership Scholarship was discontinued ~Nov 2025 — applications rose and the admitted class was still 30.43% women; 99 fewer women enrolled vs six fewer men; Biomedical Engineering and Biology dropped out of the top ten majors between admission and enrolment; new CS majors halved — the ILO's programme cuts, measured at one campus: cut the support, watch the women choose somewhere else (data shared by RPI's Office of Institutional Research and Assessment, not yet publicly released) | ⬆️ | The Polytechnic (RPI), Nov 18, 2026 |
 | 2026-11-25 | PitchBook 2026, first nine months: startups with at least one female founder took 49% of US VC — but the 49% is three mega-deals (Anthropic, OpenAI, Kalshi), the teams were just 19% of rounds, and all-female teams took 0.7%, down from 1.1% in 2025; the all-female share falls every round (seed 3.2% → Series C+ 1.8%); Anthropic's Nov 19 IPO raised $81.3bn, the largest ever, and co-founder Daniela Amodei — the only woman among its seven co-founders — holds an equal stake (~$19.8bn Forbes / $24bn Bloomberg), the world's 15th richest woman | 🔄 | Capital Riesgo, Nov 18, 2026 (PitchBook, first nine months of 2026); CEOWORLD / Forbes, Nov 25, 2026 |
 | 2026-11-23 | Code.org / CSforALL perceptions survey (YouGov, Sep–Nov 2024; n=1,019, ages 12–17): personal connection drives 60% of CS importance; "is for someone like me" is the top driver for middle-school girls; 8% vs 18% favourite subject; nearly no gender gap among Black students (76% vs 81% took a course) — belonging's second witness, and proof outreach moves it | ⬆️ | Code.org / CSforALL, survey Sep–Nov 2024 |

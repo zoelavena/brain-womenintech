@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.1"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # 🤖 AI and the future of women in tech
@@ -62,6 +62,8 @@ Girl, every new wave of tech is a fresh chance to get it right, and the early re
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-27 | Roekens & Rigotti, European Parliament study *Gender bias and artificial intelligence* (PE 791.844, Nov 4, 2026; peer-reviewed, evidence to Sep 2026): bias appears at every stage of recruitment, from job ads to CV screening and video interviews; algorithmic scheduling penalises carers; welfare fraud risk-scoring disproportionately targeted single mothers, migrant-background women and low earners — and removing gender from credit-scoring models *increased* discrimination against women; the AI Act doesn't require bias to be eliminated, providers judge their own residual risk acceptable; redress is hard to detect, attribute and prove, and collective redress is largely confined to consumer law — the bias-baked-in thesis, now with the redress gap behind it | ⬆️ | European Parliament, PE 791.844, Nov 4, 2026 |
+| 2026-11-27 | Pfizer names Arpita Saha its first Chief R&D AI Officer (announced Nov 19, 2026; joined in October from Tempus AI and Google): mandate to turn scattered AI efforts into one integrated operating architecture with shared data, infrastructure and standards, behind a measurable goal — halve the time to first-in-human trials from ~4 years to 2 — the CAIO seat count reaches five this autumn (Larkin, Shaver, Tanna, Roust, Saha); Saha's is the first seat with a stated measurable outcome attached, and the test (budget, team, reporting line) still stands — appointment alone, not seated | ⬆️ | Pfizer, Nov 19, 2026 |
 | 2026-11-26 | Manley & Wan (Fast Company, Nov 24, 2026), the Shorenstein researchers themselves: the debate over AI's risks is held by the people who benefit most and women are largely missing from it; both genders agree men's perspectives and needs are better represented in AI development and AI-generated content; if products are built around the heaviest users, "AI is being optimized for men" while women share the risks — the gap behind the gap is who decides which harms are acceptable | ⬆️ | Fast Company, Nov 24, 2026 |
 | 2026-11-25 | Equality Now, *The architecture of harm* (Nov 18, 2026): recommendation algorithms can funnel a new young man's account toward manosphere and extremist content within 26 minutes; ten previously banned accounts reinstated on X were estimated to be able to generate US$19m a year in ad revenue; generative AI adds non-consensual sexualised deepfakes — the platforms' design and commercial incentives amplify misogyny, and the prescription is safety-by-design regulation and algorithmic transparency, not voluntary commitments from the companies profiting from it | ⬆️ | Equality Now, Nov 18, 2026 |
 | 2026-11-24 | Winston Taylor, Women in AI: From Representation to Influence (Nov 19, 2026): at the Forbes AI 50, women hold 19% of senior leadership, 6% of founder-titled roles, 8% of CEO roles (4 of 50); 40% of companies list no women on leadership teams; 0 of 34 identified CTOs are women, while legal/counsel roles run 46.2% women; FTSE 100 AI leaders 29.6% women vs S&P 100 16.9% — the first count of who decides what AI gets built, and the prescription is control over budgets, hiring and product/risk decisions, not just a seat | ⬆️ | Winston Taylor, Nov 19, 2026 |

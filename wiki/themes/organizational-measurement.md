@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "4.3"
 sources: ["[[toast-gender-equity-2026]]"]
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # 🗺️ Organizational measurement: companies don't make the path visible
@@ -40,6 +40,7 @@ More people are *unsure* whether they can advance where they are than people who
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-27 | EIC Accelerator (Nov 16, 2026): 31% of the 35 selected deep-tech companies are led by women in CEO, CTO or CSO roles — the highest of the three 2026 rounds (28% in February, 21% in June), from 453 full applications and 88 interviews; €84M in proposed grants, 32 of the 35 to be assessed for EIC Fund equity of up to €10M each — a public-money counterpoint to the VC concentration story: the gate here is a jury, not a cap table, and the share is rising | ⬆️ | EIC, Nov 16, 2026 |
 | 2026-11-26 | Netherlands, Equal Pay Day: the pay-transparency bill's target slips again — the minister now aims for 1 July 2027, six months past Jan 1 and more than a year past the EU's June 7, 2026 deadline; legislative committee meeting Dec 14, date not final. The same day, the Central Appeals Tribunal ruled salary-history-based grading was indirect sex discrimination (female judge vs male colleague, same work, retroactive equal pay) — the court enforcing the principle the legislature hasn't passed yet | 🔄 | ACG International, Nov 26, 2026 |
 | 2026-11-26 | Starfire Ventures launches (Nov 16, 2026): Serena Williams and Beth Ferreira target $200M for 20–25 seed/Series A investments in AI-native companies, $1M–$10M checks (avg ~$5M); Williams: "We have to have women writing checks for women. We also need women writing checks for men." Cites PitchBook's 1% to companies with no male founders; first investment Town ($108M round, $1B valuation); Serena Ventures ($111M, 2022) has cut its last check — 13 unicorns, ~80% of first-fund founders from underrepresented groups | ⬆️ | TechCrunch, Nov 16, 2026; Forbes, Nov 16, 2026 |
 | 2026-11-25 | Netherlands Equal Pay Day (Nov 26): women earn 9.8% less per hour than men (CBS, final 2025 figures); Women Inc. calculates ~€300,000 lost over a working life; unexplained gap 6.1% in the private sector, 11.6% in financial institutions — and the pay-transparency bill (salary-history ban, reporting for 100+ staff, retroactive claims up to five years) will likely miss its Jan 1, 2027 start: House debate Dec 14, Senate's last meeting Dec 15 — the compulsion test itself is late, after Austria missed its deadline outright | ⬆️ | Atria, Nov 16, 2026; Dutch Times, Nov 19, 2026 |

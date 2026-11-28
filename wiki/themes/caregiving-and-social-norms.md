@@ -3,7 +3,7 @@ type: theme
 status: brewing
 why_id: "3.3"
 sources: ["[[wef-global-gender-gap-2026]]"]
-updated: 2026-11-19
+updated: 2026-11-27
 ---
 
 # 🍼 Caregiving and social norms: stepping away costs her more
@@ -35,6 +35,7 @@ Women are 4x as likely as men to take a career break for full-time parenting, an
 
 | Date | Evidence | Direction | Source |
 |---|---|---|---|
+| 2026-11-27 | KFF Survey of Health Access and Caregiving (May 4–26, 2026; n=25,873 US adults, 8,209 caregivers; released Nov 19): 29% of US adults provided unpaid care in the past year — 32% of women vs 26% of men; caregivers are 57% women, 42% men; women caregivers are more likely to provide three or more types of assistance (40% vs 32%) and to spend 15+ hours a week (8% of all women vs 5% of men); 44% of caregivers are employed full-time; 66% report stress or worry, 35% worsening mental health, 25% financial strain — and the toll lands harder on women (mental health worsened for 38% of women caregivers vs 29% of men) — the sandwich generation's load, counted at national scale, and it sits on top of the mid-career squeeze | ⬆️ | KFF, Nov 19, 2026 |
 | 2026-11-19 | Robert Walters (Oct 22, 2026; 3,100 UK/Ireland white-collar professionals): 42% of women would look for a new job if flexibility was reduced vs 34% of men; women more likely to say the policy is applied unfairly (19% vs 14%) and to be given fixed office days (28% vs 21%); 51% of women hold informal flexibility agreements with their line manager | ⬆️ | Robert Walters, via Onrec, Oct 22, 2026 |
 | 2026-11-18 | Akamai (Censuswide, March 2026; 1,500 UK women): 39% of women who left tech would consider returning — higher salary (52%), work-life balance (43%), better career progression (43%); improved work-life balance (38%), flexible arrangements (37%) and hybrid working (38%) would encourage a return; inflexible hours (56%) and lack of work-life balance (42%) were significant reasons to leave | ⬆️ | Akamai, Apr 13, 2026 |
 | 2026-11-13 | WEF (via Slayton): men 44% more likely than women to be promoted in the first year back from a parenting break; after three years 7.2% of women vs 10.0% of men had moved up — women 4x as likely to take the break (26.5% vs 6.0%) | ⬆️ | WEF GGG 2026, via Slayton Search, Nov 4, 2026 |
